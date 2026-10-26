@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Octagon</title>
+  <!-- A octagon with a smile -->
+  <polygon points="489.9,72.9 617.1,200.1 617.1,379.9 489.9,507.1 310.1,507.1 182.9,379.9 182.9,200.1 310.1,72.9"><title>Octagon</title></polygon>
+  <circle cx="347.7" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="351" cy="263.3" r="11"><title>Eye</title></circle>
+  <circle cx="452.3" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="455.6" cy="263.3" r="11"><title>Eye</title></circle>
+  <path d="M 340 348 Q 400 400 460 348"/>
+  <circle cx="301.4" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="498.6" cy="328" r="18"><title>Cheek</title></circle>
+  <polygon points="241.7,511.8 258.2,528.3 258.2,551.7 241.7,568.2 218.3,568.2 201.8,551.7 201.8,528.3 218.3,511.8"><title>Octagon</title></polygon>
+  <polygon points="411.7,511.8 428.2,528.3 428.2,551.7 411.7,568.2 388.3,568.2 371.8,551.7 371.8,528.3 388.3,511.8"><title>Octagon</title></polygon>
+  <polygon points="581.7,511.8 598.2,528.3 598.2,551.7 581.7,568.2 558.3,568.2 541.8,551.7 541.8,528.3 558.3,511.8"><title>Octagon</title></polygon>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>UFO</title>
+  <!-- A flying saucer -->
+  <ellipse cx="400" cy="380" rx="300" ry="70"><title>Saucer</title></ellipse>
+  <polyline points="275,316.4 275.5,304.2 276.9,292.1 279.3,280.1 282.5,268.5 286.7,257.2 291.7,246.4 297.6,236.1 304.2,226.4 311.6,217.4 319.7,209.1 328.3,201.7 337.5,195.1 347.2,189.5 357.2,184.8 367.6,181.1 378.3,178.5 389.1,176.9 400,176.4 410.9,176.9 421.7,178.5 432.4,181.1 442.8,184.8 452.8,189.5 462.5,195.1 471.7,201.7 480.3,209.1 488.4,217.4 495.8,226.4 502.4,236.1 508.3,246.4 513.3,257.2 517.5,268.5 520.7,280.1 523.1,292.1 524.5,304.2 525,316.4"><title>Dome</title></polyline>
+  <ellipse cx="400" cy="255" rx="44" ry="54"><title>Alien</title></ellipse>
+  <ellipse cx="384" cy="252" rx="10" ry="17"><title>Eye</title></ellipse>
+  <ellipse cx="416" cy="252" rx="10" ry="17"><title>Eye</title></ellipse>
+  <path d="M 388 282 Q 400 292 412 282"/>
+  <circle cx="230" cy="386" r="17"><title>Light</title></circle>
+  <circle cx="315" cy="406" r="17"><title>Light</title></circle>
+  <circle cx="400" cy="414" r="17"><title>Light</title></circle>
+  <circle cx="485" cy="406" r="17"><title>Light</title></circle>
+  <circle cx="570" cy="386" r="17"><title>Light</title></circle>
+  <polygon points="330,448.1 470,448.1 610,570 190,570"><title>Beam</title></polygon>
+  <polygon points="100,72 107.4,89.8 126.6,91.3 112,103.9 116.5,122.7 100,112.6 83.5,122.7 88,103.9 73.4,91.3 92.6,89.8"><title>Star</title></polygon>
+  <polygon points="690,76 699,97.6 722.3,99.5 704.6,114.7 710,137.5 690,125.3 670,137.5 675.4,114.7 657.7,99.5 681,97.6"><title>Star</title></polygon>
+  <polygon points="130,280 135.3,292.7 149,293.8 138.6,302.8 141.8,316.2 130,309 118.2,316.2 121.4,302.8 111,293.8 124.7,292.7"><title>Star</title></polygon>
+  <polygon points="700,268 705.8,282 720.9,283.2 709.4,293.1 712.9,307.8 700,299.9 687.1,307.8 690.6,293.1 679.1,283.2 694.2,282"><title>Star</title></polygon>
+</svg>

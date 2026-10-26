@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Burger</title>
+  <!-- A burger -->
+  <path d="M 168 238 L 168.7 227.2 L 170.9 216.4 L 174.4 205.8 L 179.4 195.4 L 185.7 185.2 L 193.3 175.3 L 202.2 165.9 L 212.3 156.9 L 223.6 148.4 L 236 140.4 L 249.3 133.1 L 263.6 126.4 L 278.8 120.3 L 294.7 115 L 311.2 110.5 L 328.3 106.8 L 345.8 103.8 L 363.7 101.7 L 381.8 100.4 L 400 100 L 418.2 100.4 L 436.3 101.7 L 454.2 103.8 L 471.7 106.8 L 488.8 110.5 L 505.3 115 L 521.2 120.3 L 536.4 126.4 L 550.7 133.1 L 564 140.4 L 576.4 148.4 L 587.7 156.9 L 597.8 165.9 L 606.7 175.3 L 614.3 185.2 L 620.6 195.4 L 625.6 205.8 L 629.1 216.4 L 631.3 227.2 L 632 238 Z"><title>Bun</title></path>
+  <ellipse cx="300" cy="160" rx="18" ry="9"><title>Seed</title></ellipse>
+  <ellipse cx="400" cy="130" rx="18" ry="9"><title>Seed</title></ellipse>
+  <ellipse cx="500" cy="160" rx="18" ry="9"><title>Seed</title></ellipse>
+  <ellipse cx="350" cy="205" rx="16" ry="8"><title>Seed</title></ellipse>
+  <ellipse cx="460" cy="210" rx="16" ry="8"><title>Seed</title></ellipse>
+  <path d="M 140 238 L 660 238 L 660 270 Q 647 292 634 270 T 608 270 Q 595 292 582 270 T 556 270 Q 543 292 530 270 T 504 270 Q 491 292 478 270 T 452 270 Q 439 292 426 270 T 400 270 Q 387 292 374 270 T 348 270 Q 335 292 322 270 T 296 270 Q 283 292 270 270 T 244 270 Q 231 292 218 270 T 192 270 Q 179 292 166 270 T 140 270 Z"><title>Lettuce</title></path>
+  <rect x="165" y="294" width="470" height="62" rx="30"><title>Patty</title></rect>
+  <path d="M 150 360 H 650 V 384 H 566 L 544 418 L 522 384 H 150 Z"><title>Cheese</title></path>
+  <rect x="160" y="428" width="480" height="76" rx="34"><title>Bun</title></rect>
+</svg>

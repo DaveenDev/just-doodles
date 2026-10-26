@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Car</title>
+  <!-- A little car -->
+  <path d="M 120 430 V 345 Q 120 320 145 318 L 235 308 L 300 225 H 515 L 595 308 L 675 318 Q 700 322 700 345 V 430 H 642 C 642 347, 518 347, 518 430 H 302 C 302 347, 178 347, 178 430 Z"><title>Car</title></path>
+  <polygon points="258,305 310,242 400,242 400,305"><title>Window</title></polygon>
+  <polygon points="420,242 505,242 562,305 420,305"><title>Window</title></polygon>
+  <line x1="410" y1="229" x2="410" y2="427"/>
+  <circle cx="240" cy="430" r="50"><title>Wheel</title></circle>
+  <circle cx="240" cy="430" r="18"><title>Wheel</title></circle>
+  <circle cx="580" cy="430" r="50"><title>Wheel</title></circle>
+  <circle cx="580" cy="430" r="18"><title>Wheel</title></circle>
+  <circle cx="676" cy="355" r="12"><title>Light</title></circle>
+  <rect x="440" y="330" width="34" height="12" rx="6"><title>Handle</title></rect>
+  <rect x="40" y="490" width="720" height="40" rx="14"><title>Road</title></rect>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ant hill</title>
+  <!-- Ants marching on their ant hill -->
+  <path d="M 120 520 C 200 300, 330 200, 400 200 C 470 200, 600 300, 680 520 Z"><title>Ant hill</title></path>
+  <ellipse cx="400" cy="222" rx="42" ry="16"><title>Hole</title></ellipse>
+  <line x1="300" y1="388" x2="288" y2="414"/>
+  <line x1="318" y1="388" x2="328" y2="414"/>
+  <line x1="278" y1="386" x2="264" y2="410"/>
+  <circle cx="270" cy="380" r="20"><title>Ant</title></circle>
+  <circle cx="310" cy="380" r="15"><title>Ant</title></circle>
+  <circle cx="340" cy="376" r="16"><title>Ant</title></circle>
+  <line x1="346" y1="362" x2="360" y2="340"/>
+  <line x1="490" y1="438" x2="478" y2="464"/>
+  <line x1="508" y1="438" x2="518" y2="464"/>
+  <line x1="468" y1="436" x2="454" y2="460"/>
+  <circle cx="460" cy="430" r="20"><title>Ant</title></circle>
+  <circle cx="500" cy="430" r="15"><title>Ant</title></circle>
+  <circle cx="530" cy="426" r="16"><title>Ant</title></circle>
+  <line x1="536" y1="412" x2="550" y2="390"/>
+  <line x1="640" y1="553" x2="628" y2="579"/>
+  <line x1="658" y1="553" x2="668" y2="579"/>
+  <line x1="618" y1="551" x2="604" y2="575"/>
+  <circle cx="610" cy="545" r="20"><title>Ant</title></circle>
+  <circle cx="650" cy="545" r="15"><title>Ant</title></circle>
+  <circle cx="680" cy="541" r="16"><title>Ant</title></circle>
+  <line x1="686" y1="527" x2="700" y2="505"/>
+  <rect x="495" y="380" width="26" height="26" rx="4"><title>Crumb</title></rect>
+  <rect x="60" y="520" width="680" height="30" rx="12"><title>Ground</title></rect>
+</svg>

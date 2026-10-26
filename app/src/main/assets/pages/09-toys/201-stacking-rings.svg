@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Stacking rings</title>
+  <!-- A stack of rings on a pole -->
+  <rect x="388" y="110" width="24" height="380" rx="12"><title>Pole</title></rect>
+  <ellipse cx="400" cy="445" rx="170" ry="42"><title>Ring</title></ellipse>
+  <ellipse cx="400" cy="388" rx="145" ry="40"><title>Ring</title></ellipse>
+  <ellipse cx="400" cy="332" rx="122" ry="38"><title>Ring</title></ellipse>
+  <ellipse cx="400" cy="278" rx="100" ry="36"><title>Ring</title></ellipse>
+  <ellipse cx="400" cy="227" rx="80" ry="33"><title>Ring</title></ellipse>
+  <ellipse cx="400" cy="180" rx="62" ry="30"><title>Ring</title></ellipse>
+  <circle cx="400" cy="112" r="32"><title>Top</title></circle>
+  <rect x="220" y="480" width="360" height="52" rx="20"><title>Base</title></rect>
+</svg>

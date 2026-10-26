@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cactus</title>
+  <!-- A cactus in a pot -->
+  <rect x="348" y="50" width="104" height="440" rx="50"><title>Cactus</title></rect>
+  <line x1="400" y1="50" x2="400" y2="490"/>
+  <path d="M 452 332 C 460 332.3, 487.3 337.3, 500 334 C 512.7 330.7, 523 327.7, 528 312 C 533 296.3, 533 257.8, 530 240 C 527 222.2, 517 205.8, 510 205 C 503 204.2, 492.3 224.2, 488 235 C 483.7 245.8, 490 261.8, 484 270 C 478 278.2, 457.3 281.7, 452 284"><title>Arm</title></path>
+  <path d="M 348 402 C 340 402.3, 312.7 407.3, 300 404 C 287.3 400.7, 277 397.7, 272 382 C 267 366.3, 267 327.8, 270 310 C 273 292.2, 283 275.8, 290 275 C 297 274.2, 307.7 294.2, 312 305 C 316.3 315.8, 310 331.8, 316 340 C 322 348.2, 342.7 351.7, 348 354"><title>Arm</title></path>
+  <rect x="290" y="490" width="220" height="36" rx="10"><title>Pot</title></rect>
+  <polygon points="310,526 490,526 465,586 335,586"><title>Pot</title></polygon>
+  <circle cx="690" cy="110" r="48"><title>Sun</title></circle>
+</svg>

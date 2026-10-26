@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pizza</title>
+  <!-- A slice of pizza -->
+  <polygon points="190,196 610,196 400,540"><title>Pizza</title></polygon>
+  <rect x="170" y="140" width="460" height="56" rx="28"><title>Crust</title></rect>
+  <circle cx="330" cy="280" r="36"><title>Pepperoni</title></circle>
+  <circle cx="455" cy="300" r="32"><title>Pepperoni</title></circle>
+  <circle cx="400" cy="420" r="24"><title>Pepperoni</title></circle>
+  <circle cx="510" cy="238" r="15"><title>Olive</title></circle>
+  <circle cx="290" cy="352" r="15"><title>Olive</title></circle>
+  <circle cx="380" cy="232" r="14"><title>Olive</title></circle>
+  <circle cx="450" cy="380" r="14"><title>Olive</title></circle>
+</svg>

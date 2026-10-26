@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cicada</title>
+  <!-- A cicada with big see-through wings -->
+  <path d="M 380 180 C 359.7 138.3, 280 156.7, 240 170 C 200 183.3, 155 221.7, 140 260 C 125 298.3, 130 366.3, 150 400 C 170 433.7, 224.7 458.7, 260 462 C 295.3 465.3, 342 467, 362 420 C 382 373, 400.3 221.7, 380 180 Z"><title>Wing</title></path>
+  <path d="M 420 180 C 440.3 138.3, 520 156.7, 560 170 C 600 183.3, 645 221.7, 660 260 C 675 298.3, 670 366.3, 650 400 C 630 433.7, 575.3 458.7, 540 462 C 504.7 465.3, 458 467, 438 420 C 418 373, 399.7 221.7, 420 180 Z"><title>Wing</title></path>
+  <line x1="370" y1="230" x2="200" y2="290"/>
+  <line x1="365" y1="300" x2="210" y2="400"/>
+  <line x1="430" y1="230" x2="600" y2="290"/>
+  <line x1="435" y1="300" x2="590" y2="400"/>
+  <ellipse cx="400" cy="320" rx="62" ry="160"><title>Cicada</title></ellipse>
+  <ellipse cx="400" cy="150" rx="82" ry="46"><title>Head</title></ellipse>
+  <circle cx="326" cy="140" r="24"><title>Eye</title></circle>
+  <circle cx="474" cy="140" r="24"><title>Eye</title></circle>
+  <line x1="340" y1="420" x2="300" y2="500"/>
+  <line x1="460" y1="420" x2="500" y2="500"/>
+</svg>

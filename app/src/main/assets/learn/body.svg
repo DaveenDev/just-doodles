@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>My body</title>
+  <!-- A child standing, arms out, for "Where's the nose?" Every part a toddler knows has a title. -->
+  <path d="M 340 204 L 460 204 C 470 206, 474 214, 474 226 L 470 300 L 462 384 L 338 384 L 330 300 L 326 226 C 326 214, 330 206, 340 204 Z"><title>Tummy</title></path>
+  <path d="M 338 384 L 462 384 L 466 444 L 404 444 L 400 420 L 396 444 L 334 444 Z"><title>Shorts</title></path>
+  <rect x="386" y="184" width="28" height="24"><title>Neck</title></rect>
+  <path d="M 328 214 C 300 236, 272 278, 256 320 L 282 332 C 296 298, 314 268, 332 252 Z"><title>Arm</title></path>
+  <path d="M 472 214 C 500 236, 528 278, 544 320 L 518 332 C 504 298, 486 268, 468 252 Z"><title>Arm</title></path>
+  <circle cx="264" cy="342" r="26"><title>Hand</title></circle>
+  <circle cx="536" cy="342" r="26"><title>Hand</title></circle>
+  <rect x="344" y="444" width="40" height="86" rx="10"><title>Leg</title></rect>
+  <rect x="416" y="444" width="40" height="86" rx="10"><title>Leg</title></rect>
+  <ellipse cx="354" cy="540" rx="40" ry="18"><title>Foot</title></ellipse>
+  <ellipse cx="446" cy="540" rx="40" ry="18"><title>Foot</title></ellipse>
+  <path d="M 336 98 C 296 88, 296 156, 336 146"><title>Ear</title></path>
+  <path d="M 464 98 C 504 88, 504 156, 464 146"><title>Ear</title></path>
+  <circle cx="400" cy="120" r="70"><title>Head</title></circle>
+  <path d="M 330 116 C 332 66, 372 42, 400 42 C 428 42, 468 66, 470 116 C 452 94, 426 84, 400 86 C 374 84, 348 94, 330 116 Z"><title>Hair</title></path>
+  <circle cx="374" cy="116" r="13"><title>Eye</title></circle>
+  <circle cx="376" cy="118" r="6"><title>Eye</title></circle>
+  <circle cx="426" cy="116" r="13"><title>Eye</title></circle>
+  <circle cx="428" cy="118" r="6"><title>Eye</title></circle>
+  <ellipse cx="400" cy="142" rx="12" ry="11"><title>Nose</title></ellipse>
+  <path d="M 374 162 C 384 182, 416 182, 426 162 Z"><title>Mouth</title></path>
+</svg>

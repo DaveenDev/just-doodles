@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Submarine</title>
+  <!-- A round little submarine with portholes -->
+  <rect x="330" y="170" width="140" height="100" rx="22"><title>Tower</title></rect>
+  <rect x="440" y="90" width="22" height="90" rx="8"><title>Periscope</title></rect>
+  <rect x="440" y="90" width="70" height="22" rx="8"><title>Periscope</title></rect>
+  <rect x="170" y="250" width="460" height="180" rx="90"><title>Submarine</title></rect>
+  <circle cx="275" cy="340" r="33"><title>Window</title></circle>
+  <circle cx="400" cy="340" r="33"><title>Window</title></circle>
+  <circle cx="525" cy="340" r="33"><title>Window</title></circle>
+  <rect x="140" y="320" width="40" height="40" rx="8"><title>Propeller</title></rect>
+  <ellipse cx="120" cy="300" rx="18" ry="42"><title>Propeller</title></ellipse>
+  <ellipse cx="120" cy="380" rx="18" ry="42"><title>Propeller</title></ellipse>
+  <circle cx="680" cy="210" r="16"><title>Bubble</title></circle>
+  <circle cx="712" cy="160" r="11"><title>Bubble</title></circle>
+  <circle cx="690" cy="118" r="8"><title>Bubble</title></circle>
+  <path d="M 40 520 Q 100 508 160 520 Q 220 532 280 520 Q 340 508 400 520 Q 460 532 520 520 Q 580 508 640 520 Q 700 532 760 520 V 575 H 40 Z"><title>Water</title></path>
+</svg>

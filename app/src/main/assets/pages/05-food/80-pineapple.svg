@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pineapple</title>
+  <!-- A pineapple -->
+  <ellipse cx="400" cy="380" rx="135" ry="180"><title>Pineapple</title></ellipse>
+  <line x1="388.6" y1="200.6" x2="532.3" y2="344.3"/>
+  <line x1="330" y1="226" x2="530.4" y2="426.4"/>
+  <line x1="292" y1="272" x2="508" y2="488"/>
+  <line x1="269.6" y1="333.6" x2="470" y2="534"/>
+  <line x1="267.7" y1="415.7" x2="411.4" y2="559.4"/>
+  <line x1="267.7" y1="344.3" x2="411.4" y2="200.6"/>
+  <line x1="269.6" y1="426.4" x2="470" y2="226"/>
+  <line x1="292" y1="488" x2="508" y2="272"/>
+  <line x1="330" y1="534" x2="530.4" y2="333.6"/>
+  <line x1="388.6" y1="559.4" x2="532.3" y2="415.7"/>
+  <polygon points="322,233.1 300,150 352,211.8"><title>Leaf</title></polygon>
+  <polygon points="352,211.8 345,85 382,201.6"><title>Leaf</title></polygon>
+  <polygon points="382,201.6 400,50 412,200.7"><title>Leaf</title></polygon>
+  <polygon points="412,200.7 455,85 442,208.9"><title>Leaf</title></polygon>
+  <polygon points="442,208.9 500,150 472,227.7"><title>Leaf</title></polygon>
+</svg>

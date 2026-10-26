@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Star</title>
+  <!-- A star with a smile -->
+  <polygon points="400,40 473.5,188.9 637.8,212.7 518.9,328.6 546.9,492.3 400,415 253.1,492.3 281.1,328.6 162.2,212.7 326.5,188.9"><title>Star</title></polygon>
+  <circle cx="366.2" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="369.5" cy="273.3" r="11"><title>Eye</title></circle>
+  <circle cx="433.8" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="437.1" cy="273.3" r="11"><title>Eye</title></circle>
+  <path d="M 360 348 Q 400 400 440 348"/>
+  <circle cx="336.2" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="463.8" cy="328" r="18"><title>Cheek</title></circle>
+  <polygon points="230,507.5 239.6,526.9 260.9,530 245.5,545 249.1,566.3 230,556.3 210.9,566.3 214.5,545 199.1,530 220.4,526.9"><title>Star</title></polygon>
+  <polygon points="400,507.5 409.6,526.9 430.9,530 415.5,545 419.1,566.3 400,556.3 380.9,566.3 384.5,545 369.1,530 390.4,526.9"><title>Star</title></polygon>
+  <polygon points="570,507.5 579.6,526.9 600.9,530 585.5,545 589.1,566.3 570,556.3 550.9,566.3 554.5,545 539.1,530 560.4,526.9"><title>Star</title></polygon>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The Play build's additions to src/main/AndroidManifest.xml.
+
+  Google Play Billing merges in com.android.vending.BILLING, which lets the app ask the Play Store
+  app on the phone to sell PLUS. Billing also brings Google's logging libraries (datatransport), which
+  ask for the internet. The app never gets it: their log uploads just fail quietly, and buying still
+  works because the Play Store app does the talking to Google.
+
+  ACCESS_NETWORK_STATE stays: it can only see whether the phone is online, not use the network,
+  and without it those libraries crash (and Android 14 refuses the jobs they schedule).
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" tools:node="remove" />
+
+</manifest>

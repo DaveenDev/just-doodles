@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Rooster</title>
+  <!-- A rooster with a big tail -->
+  <path d="M 520 300 C 560 200, 610 150, 650 140 C 630 210, 590 270, 540 320 Z"><title>Tail</title></path>
+  <path d="M 530 320 C 600 260, 650 240, 690 245 C 660 300, 610 330, 545 345 Z"><title>Tail</title></path>
+  <path d="M 530 350 C 600 330, 650 340, 680 360 C 640 400, 590 400, 535 380 Z"><title>Tail</title></path>
+  <rect x="355" y="430" width="16" height="72" rx="6"><title>Leg</title></rect>
+  <rect x="425" y="430" width="16" height="72" rx="6"><title>Leg</title></rect>
+  <polygon points="330,512 363,492 396,512"><title>Foot</title></polygon>
+  <polygon points="400,512 433,492 466,512"><title>Foot</title></polygon>
+  <path d="M 250 300 C 253.3 273.8, 278.3 256.3, 300 245 C 321.7 233.7, 355 229.2, 380 232 C 405 234.8, 426.7 258, 450 262 C 473.3 266, 501.7 248.8, 520 256 C 538.3 263.2, 556.7 284, 560 305 C 563.3 326, 555 360.8, 540 382 C 525 403.2, 500 422, 470 432 C 440 442, 391.7 447, 360 442 C 328.3 437, 298.3 425.7, 280 402 C 261.7 378.3, 246.7 326.2, 250 300 Z"><title>Rooster</title></path>
+  <path d="M 230 178 Q 235 120 262 160 Q 272 104 292 155 Q 312 108 318 172 Z"><title>Comb</title></path>
+  <circle cx="270" cy="222" r="60"><title>Head</title></circle>
+  <polygon points="214,214 172,232 214,248"><title>Beak</title></polygon>
+  <ellipse cx="228" cy="280" rx="15" ry="24"><title>Wattle</title></ellipse>
+  <circle cx="266" cy="208" r="12"><title>Eye</title></circle>
+  <circle cx="267.8" cy="209.8" r="6"><title>Eye</title></circle>
+  <path d="M 360 300 C 373.3 286.3, 426.3 285, 450 290 C 473.7 295, 501.7 314.7, 502 330 C 502.3 345.3, 474 375, 452 382 C 430 389, 385.3 385.7, 370 372 C 354.7 358.3, 346.7 313.7, 360 300 Z"><title>Wing</title></path>
+  <rect x="120" y="512" width="560" height="28" rx="12"><title>Ground</title></rect>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Moth</title>
+  <!-- A moth -->
+  <path d="M 420 232 C 420 232, 480 133.7, 520 120 C 560 106.3, 629.3 123.3, 660 150 C 690.7 176.7, 714 245, 704 280 C 694 315, 645.3 353, 600 360 C 554.7 367, 462 343.3, 432 322 C 402 300.7, 420 232, 420 232 Z"><title>Wing</title></path>
+  <path d="M 380 232 C 380 232, 320 133.7, 280 120 C 240 106.3, 170.7 123.3, 140 150 C 109.3 176.7, 86 245, 96 280 C 106 315, 154.7 353, 200 360 C 245.3 367, 338 343.3, 368 322 C 398 300.7, 380 232, 380 232 Z"><title>Wing</title></path>
+  <path d="M 432 334 C 432 334, 526.7 332.3, 560 352 C 593.3 371.7, 631.7 422, 632 452 C 632.3 482, 592 529, 562 532 C 532 535, 473.7 503, 452 470 C 430.3 437, 432 334, 432 334 Z"><title>Wing</title></path>
+  <path d="M 368 334 C 368 334, 273.3 332.3, 240 352 C 206.7 371.7, 168.3 422, 168 452 C 167.7 482, 208 529, 238 532 C 268 535, 326.3 503, 348 470 C 369.7 437, 368 334, 368 334 Z"><title>Wing</title></path>
+  <ellipse cx="400" cy="330" rx="26" ry="140"><title>Body</title></ellipse>
+  <circle cx="400" cy="168" r="28"><title>Head</title></circle>
+  <path d="M 388 143 C 382 132.8, 364 95.5, 352 82 C 340 68.5, 322 65.3, 316 62"><title>Feeler</title></path>
+  <path d="M 412 143 C 418 132.8, 436 95.5, 448 82 C 460 68.5, 478 65.3, 484 62"><title>Feeler</title></path>
+  <circle cx="580" cy="236" r="38"><title>Spot</title></circle>
+  <circle cx="580" cy="236" r="17"><title>Spot</title></circle>
+  <circle cx="220" cy="236" r="38"><title>Spot</title></circle>
+  <circle cx="220" cy="236" r="17"><title>Spot</title></circle>
+  <circle cx="548" cy="436" r="28"><title>Spot</title></circle>
+  <circle cx="252" cy="436" r="28"><title>Spot</title></circle>
+  <circle cx="390" cy="164" r="7"><title>Eye</title></circle>
+  <circle cx="391.1" cy="165.1" r="3.5"><title>Eye</title></circle>
+  <circle cx="410" cy="164" r="7"><title>Eye</title></circle>
+  <circle cx="411.1" cy="165.1" r="3.5"><title>Eye</title></circle>
+</svg>

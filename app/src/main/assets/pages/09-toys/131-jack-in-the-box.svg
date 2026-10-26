@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Jack in the box</title>
+  <!-- A jack in the box -->
+  <rect x="250" y="360" width="300" height="200" rx="6"><title>Box</title></rect>
+  <polygon points="550,360 650,384 650,444 550,420"><title>Lid</title></polygon>
+  <polygon points="250,360 150,384 150,444 250,420"><title>Lid</title></polygon>
+  <polyline points="400,360 440,344 360,328 440,312 360,296 440,280 400,268"/>
+  <circle cx="400" cy="205" r="66"><title>Head</title></circle>
+  <circle cx="376" cy="198" r="12"><title>Eye</title></circle>
+  <circle cx="377.8" cy="199.8" r="6"><title>Eye</title></circle>
+  <circle cx="424" cy="198" r="12"><title>Eye</title></circle>
+  <circle cx="425.8" cy="199.8" r="6"><title>Eye</title></circle>
+  <path d="M 378 224 Q 400 244 422 224"/>
+  <polygon points="346,170 454,170 400,70"><title>Hat</title></polygon>
+  <circle cx="400" cy="60" r="15"><title>Pompom</title></circle>
+  <polygon points="330,428 339,449.6 362.3,451.5 344.6,466.7 350,489.5 330,477.3 310,489.5 315.4,466.7 297.7,451.5 321,449.6"><title>Star</title></polygon>
+  <circle cx="470" cy="462" r="34"><title>Circle</title></circle>
+  <rect x="40" y="560" width="720" height="30" rx="14"><title>Floor</title></rect>
+</svg>

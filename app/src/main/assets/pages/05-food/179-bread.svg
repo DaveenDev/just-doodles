@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bread</title>
+  <!-- A slice of bread with a face -->
+  <path d="M 250 520 V 300 C 170 300, 170 160, 260 150 C 300 108, 500 108, 540 150 C 630 160, 630 300, 550 300 V 520 Q 550 540 530 540 H 270 Q 250 540 250 520 Z"><title>Crust</title></path>
+  <path d="M 276 512 V 276 C 208 276, 208 182, 272 176 C 312 140, 488 140, 528 176 C 592 182, 592 276, 524 276 V 512 Z"><title>Bread</title></path>
+  <circle cx="345" cy="330" r="20"><title>Eye</title></circle>
+  <circle cx="348" cy="333" r="10"><title>Eye</title></circle>
+  <circle cx="455" cy="330" r="20"><title>Eye</title></circle>
+  <circle cx="458" cy="333" r="10"><title>Eye</title></circle>
+  <path d="M 365 395 Q 400 426.5 435 395"/>
+  <circle cx="300" cy="380" r="17"><title>Cheek</title></circle>
+  <circle cx="500" cy="380" r="17"><title>Cheek</title></circle>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pinwheel</title>
+  <!-- A pinwheel -->
+  <polygon points="400,260 400,90 525,135"><title>Vane</title></polygon>
+  <polygon points="400,260 570,260 525,385"><title>Vane</title></polygon>
+  <polygon points="400,260 400,430 275,385"><title>Vane</title></polygon>
+  <polygon points="400,260 230,260 275,135"><title>Vane</title></polygon>
+  <circle cx="400" cy="260" r="18"><title>Button</title></circle>
+  <rect x="388" y="432" width="24" height="140" rx="6"><title>Stick</title></rect>
+  <path d="M 45 120 C 26.6 106.6, 52.2 82.8, 77 90.3 C 75.3 50.8, 132.9 44.9, 148.9 83 C 175.7 58.7, 221.8 75.1, 206.6 103.5 C 224.7 106.8, 224.7 133.2, 206.6 136.5 C 206.5 145.7, 160.4 162.2, 148.9 157 C 139.3 166.9, 81.8 161, 77 149.7 C 67.9 149.6, 42.3 125.8, 45 120 Z"><title>Cloud</title></path>
+  <path d="M 565 150 C 546.6 136.6, 572.2 112.8, 597 120.3 C 595.3 80.8, 652.9 74.9, 668.9 113 C 695.7 88.7, 741.8 105.1, 726.6 133.5 C 744.7 136.8, 744.7 163.2, 726.6 166.5 C 726.5 175.7, 680.4 192.2, 668.9 187 C 659.3 196.9, 601.8 191, 597 179.7 C 587.9 179.6, 562.3 155.8, 565 150 Z"><title>Cloud</title></path>
+  <rect x="40" y="570" width="720" height="30" rx="14"><title>Floor</title></rect>
+</svg>

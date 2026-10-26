@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Penguin</title>
+  <!-- A penguin on the ice -->
+  <path d="M 400 70 C 422.7 70, 448 72.3, 468 84 C 488 95.7, 506.7 115.7, 520 140 C 533.3 164.3, 541.7 203.3, 548 230 C 554.3 256.7, 556.7 278.3, 558 300 C 559.3 321.7, 562.3 331.7, 556 360 C 549.7 388.3, 536.8 443.3, 520 470 C 503.2 496.7, 475 510, 455 520 C 435 530, 418.3 530, 400 530 C 381.7 530, 365 530, 345 520 C 325 510, 296.8 496.7, 280 470 C 263.2 443.3, 250.3 388.3, 244 360 C 237.7 331.7, 240.7 321.7, 242 300 C 243.3 278.3, 245.7 256.7, 252 230 C 258.3 203.3, 266.7 164.3, 280 140 C 293.3 115.7, 312 95.7, 332 84 C 352 72.3, 377.3 70, 400 70 Z"><title>Penguin</title></path>
+  <ellipse cx="400" cy="365" rx="108" ry="140"><title>Belly</title></ellipse>
+  <path d="M 548 230 C 558.3 234.2, 593.7 237, 610 255 C 626.3 273, 645.7 312.5, 646 338 C 646.3 363.5, 627 404.3, 612 408 C 597 411.7, 565.3 368, 556 360"><title>Flipper</title></path>
+  <path d="M 252 230 C 241.7 234.2, 206.3 237, 190 255 C 173.7 273, 154.3 312.5, 154 338 C 153.7 363.5, 173 404.3, 188 408 C 203 411.7, 234.7 368, 244 360"><title>Flipper</title></path>
+  <circle cx="354" cy="172" r="20"><title>Eye</title></circle>
+  <circle cx="357" cy="175" r="10"><title>Eye</title></circle>
+  <circle cx="446" cy="172" r="20"><title>Eye</title></circle>
+  <circle cx="449" cy="175" r="10"><title>Eye</title></circle>
+  <polygon points="378,214 422,214 400,252"><title>Beak</title></polygon>
+  <ellipse cx="350" cy="548" rx="46" ry="18"><title>Foot</title></ellipse>
+  <ellipse cx="450" cy="548" rx="46" ry="18"><title>Foot</title></ellipse>
+  <rect x="60" y="568" width="680" height="26" rx="13"><title>Ice</title></rect>
+</svg>

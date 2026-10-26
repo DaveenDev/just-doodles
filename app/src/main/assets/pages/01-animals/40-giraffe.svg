@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Giraffe</title>
+  <!-- A giraffe with a long neck -->
+  <path d="M 400 78 C 413.3 78, 429 80.3, 440 84 C 451 87.7, 457.7 92.7, 466 100 C 474.3 107.3, 486.3 117, 490 128 C 493.7 139, 491 154, 488 166 C 485 178, 474.7 188.5, 472 200 C 469.3 211.5, 474.3 224.7, 472 235 C 469.7 245.3, 465 254.5, 458 262 C 451 269.5, 435 273.7, 430 280 C 425 286.3, 425.5 276.7, 428 300 C 430.5 323.3, 438.3 374.7, 445 420 C 451.7 465.3, 475.5 546, 468 572 C 460.5 598, 422.7 576, 400 576 C 377.3 576, 339.5 598, 332 572 C 324.5 546, 348.3 465.3, 355 420 C 361.7 374.7, 369.5 323.3, 372 300 C 374.5 276.7, 375 286.3, 370 280 C 365 273.7, 349 269.5, 342 262 C 335 254.5, 330.3 245.3, 328 235 C 325.7 224.7, 330.7 211.5, 328 200 C 325.3 188.5, 315 178, 312 166 C 309 154, 306.3 139, 310 128 C 313.7 117, 325.7 107.3, 334 100 C 342.3 92.7, 349 87.7, 360 84 C 371 80.3, 386.7 78, 400 78 Z"><title>Giraffe</title></path>
+  <path d="M 490 128 C 500 124.3, 532.7 106, 550 106 C 567.3 106, 586 118.7, 594 128 C 602 137.3, 603.3 152, 598 162 C 592.7 172, 580.3 187.3, 562 188 C 543.7 188.7, 500.3 169.7, 488 166"><title>Ear</title></path>
+  <path d="M 310 128 C 300 124.3, 267.3 106, 250 106 C 232.7 106, 214 118.7, 206 128 C 198 137.3, 196.7 152, 202 162 C 207.3 172, 219.7 187.3, 238 188 C 256.3 188.7, 299.7 169.7, 312 166"><title>Ear</title></path>
+  <line x1="440" y1="84" x2="452" y2="42"/>
+  <circle cx="454" cy="32" r="14"><title>Horn</title></circle>
+  <line x1="360" y1="84" x2="348" y2="42"/>
+  <circle cx="346" cy="32" r="14"><title>Horn</title></circle>
+  <circle cx="354" cy="150" r="17"><title>Eye</title></circle>
+  <circle cx="356.6" cy="152.6" r="8.5"><title>Eye</title></circle>
+  <circle cx="446" cy="150" r="17"><title>Eye</title></circle>
+  <circle cx="448.6" cy="152.6" r="8.5"><title>Eye</title></circle>
+  <ellipse cx="372" cy="238" rx="9" ry="13"><title>Nose</title></ellipse>
+  <ellipse cx="428" cy="238" rx="9" ry="13"><title>Nose</title></ellipse>
+  <path d="M 366 262 Q 400 282 434 262"/>
+  <circle cx="388" cy="368" r="15"><title>Spot</title></circle>
+  <circle cx="416" cy="418" r="19"><title>Spot</title></circle>
+  <circle cx="384" cy="468" r="23"><title>Spot</title></circle>
+  <circle cx="418" cy="516" r="26"><title>Spot</title></circle>
+  <circle cx="440" cy="112" r="10"><title>Spot</title></circle>
+  <circle cx="362" cy="118" r="8"><title>Spot</title></circle>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Egg basket</title>
+  <!-- A basket of eggs -->
+  <ellipse cx="280" cy="271" rx="55" ry="65"><title>Egg</title></ellipse>
+  <ellipse cx="400" cy="271" rx="55" ry="65"><title>Egg</title></ellipse>
+  <ellipse cx="520" cy="271" rx="55" ry="65"><title>Egg</title></ellipse>
+  <rect x="195" y="336" width="410" height="34" rx="17"><title>Rim</title></rect>
+  <polygon points="215,370 585,370 540,545 260,545"><title>Basket</title></polygon>
+  <line x1="230.4" y1="430" x2="569.6" y2="430"/>
+  <line x1="245.8" y1="490" x2="554.2" y2="490"/>
+  <path d="M 195 353 C 187.5 320.8, 115.8 208.8, 150 160 C 184.2 111.2, 316.7 60, 400 60 C 483.3 60, 615.8 111.2, 650 160 C 684.2 208.8, 612.5 320.8, 605 353"><title>Handle</title></path>
+  <path d="M 225 336 C 219.2 311.7, 160.8 227.3, 190 190 C 219.2 152.7, 330 112, 400 112 C 470 112, 580.8 152.7, 610 190 C 639.2 227.3, 580.8 311.7, 575 336"><title>Handle</title></path>
+  <rect x="40" y="545" width="720" height="40" rx="16"><title>Grass</title></rect>
+</svg>

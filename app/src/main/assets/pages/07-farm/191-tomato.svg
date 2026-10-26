@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Tomato</title>
+  <!-- A juicy tomato with a smile -->
+  <path d="M 218 330 C 216.3 293, 231.3 246.7, 250 220 C 268.7 193.3, 305 175.7, 330 170 C 355 164.3, 376.7 186, 400 186 C 423.3 186, 445 164.3, 470 170 C 495 175.7, 531.3 193.3, 550 220 C 568.7 246.7, 583.7 293, 582 330 C 580.3 367, 570.3 415, 540 442 C 509.7 469, 446.7 492, 400 492 C 353.3 492, 290.3 469, 260 442 C 229.7 415, 219.7 367, 218 330 Z"><title>Tomato</title></path>
+  <rect x="392" y="118" width="16" height="54" rx="6"><title>Stem</title></rect>
+  <polygon points="400,115 412.9,167.2 466.6,163.4 420.9,191.8 441.1,241.6 400,207 358.9,241.6 379.1,191.8 333.4,163.4 387.1,167.2"><title>Leaves</title></polygon>
+  <ellipse cx="510" cy="260" rx="30" ry="18"><title>Shine</title></ellipse>
+  <circle cx="340" cy="330" r="22"><title>Eye</title></circle>
+  <circle cx="343.3" cy="333.3" r="11"><title>Eye</title></circle>
+  <circle cx="460" cy="330" r="22"><title>Eye</title></circle>
+  <circle cx="463.3" cy="333.3" r="11"><title>Eye</title></circle>
+  <path d="M 360 400 Q 400 436 440 400"/>
+  <circle cx="285" cy="385" r="18"><title>Cheek</title></circle>
+  <circle cx="515" cy="385" r="18"><title>Cheek</title></circle>
+</svg>

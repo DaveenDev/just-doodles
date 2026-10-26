@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Taxi</title>
+  <!-- A taxi with a sign on its roof -->
+  <rect x="345" y="175" width="110" height="48" rx="10"><title>Sign</title></rect>
+  <path d="M 120 430 V 345 Q 120 320 145 318 L 235 308 L 300 225 H 515 L 595 308 L 675 318 Q 700 322 700 345 V 430 H 642 C 642 347, 518 347, 518 430 H 302 C 302 347, 178 347, 178 430 Z"><title>Taxi</title></path>
+  <polygon points="258,305 310,242 400,242 400,305"><title>Window</title></polygon>
+  <polygon points="420,242 505,242 562,305 420,305"><title>Window</title></polygon>
+  <rect x="150" y="360" width="504" height="22"/>
+  <rect x="150" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="222" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="294" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="366" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="438" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="510" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <rect x="582" y="360" width="36" height="22"><title>Stripe</title></rect>
+  <circle cx="240" cy="430" r="50"><title>Wheel</title></circle>
+  <circle cx="240" cy="430" r="18"><title>Wheel</title></circle>
+  <circle cx="580" cy="430" r="50"><title>Wheel</title></circle>
+  <circle cx="580" cy="430" r="18"><title>Wheel</title></circle>
+  <circle cx="676" cy="345" r="12"><title>Light</title></circle>
+  <rect x="40" y="490" width="720" height="40" rx="14"><title>Road</title></rect>
+</svg>

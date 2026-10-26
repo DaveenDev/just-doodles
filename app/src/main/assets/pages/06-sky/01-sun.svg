@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Sun</title>
+  <!-- A smiling sun -->
+  <circle cx="400" cy="300" r="150"><title>Sun</title></circle>
+  <polygon points="576.7,321.7 656,368.6 563.8,369.6"><title>Sunshine</title></polygon>
+  <polygon points="542.2,407.1 587.4,487.4 507.1,442.2"><title>Sunshine</title></polygon>
+  <polygon points="469.6,463.8 468.6,556 421.7,476.7"><title>Sunshine</title></polygon>
+  <polygon points="378.3,476.7 331.4,556 330.4,463.8"><title>Sunshine</title></polygon>
+  <polygon points="292.9,442.2 212.6,487.4 257.8,407.1"><title>Sunshine</title></polygon>
+  <polygon points="236.2,369.6 144,368.6 223.3,321.7"><title>Sunshine</title></polygon>
+  <polygon points="223.3,278.3 144,231.4 236.2,230.4"><title>Sunshine</title></polygon>
+  <polygon points="257.8,192.9 212.6,112.6 292.9,157.8"><title>Sunshine</title></polygon>
+  <polygon points="330.4,136.2 331.4,44 378.3,123.3"><title>Sunshine</title></polygon>
+  <polygon points="421.7,123.3 468.6,44 469.6,136.2"><title>Sunshine</title></polygon>
+  <polygon points="507.1,157.8 587.4,112.6 542.2,192.9"><title>Sunshine</title></polygon>
+  <polygon points="563.8,230.4 656,231.4 576.7,278.3"><title>Sunshine</title></polygon>
+  <circle cx="345" cy="270" r="20"><title>Eye</title></circle>
+  <circle cx="455" cy="270" r="20"><title>Eye</title></circle>
+  <circle cx="305" cy="330" r="18"><title>Cheek</title></circle>
+  <circle cx="495" cy="330" r="18"><title>Cheek</title></circle>
+  <path d="M 340 335 Q 400 395 460 335 Q 400 365 340 335 Z"><title>Mouth</title></path>
+</svg>

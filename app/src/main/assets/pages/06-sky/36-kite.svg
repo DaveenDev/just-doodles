@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Kite</title>
+  <!-- A kite with bows on its tail -->
+  <polygon points="400,50 545,210 400,410 255,210"><title>Kite</title></polygon>
+  <line x1="400" y1="50" x2="400" y2="410"/>
+  <line x1="255" y1="210" x2="545" y2="210"/>
+  <path d="M 400 410 C 390 482, 322 470, 302 520 C 286 560, 232 576, 182 570"/>
+  <polygon points="316.1,443.9 360.9,469.5 316.1,495.1"><title>Bow</title></polygon>
+  <polygon points="405.7,443.9 360.9,469.5 405.7,495.1"><title>Bow</title></polygon>
+  <polygon points="254.5,500.2 299.3,525.8 254.5,551.4"><title>Bow</title></polygon>
+  <polygon points="344.1,500.2 299.3,525.8 344.1,551.4"><title>Bow</title></polygon>
+  <polygon points="174.8,544.7 219.6,570.3 174.8,595.9"><title>Bow</title></polygon>
+  <polygon points="264.4,544.7 219.6,570.3 264.4,595.9"><title>Bow</title></polygon>
+  <path d="M 550 130 C 530.5 115.9, 557.6 90.9, 583.9 98.7 C 582.1 56.9, 643 50.7, 660 91 C 688.3 65.3, 737.2 82.6, 721.1 112.6 C 740.2 116.1, 740.2 143.9, 721.1 147.4 C 721 157.1, 672.2 174.4, 660 169 C 649.9 179.4, 588.9 173.2, 583.9 161.3 C 574.3 161.1, 547.2 136.1, 550 130 Z"><title>Cloud</title></path>
+  <path d="M 65 180 C 48.3 167.9, 70.9 146, 93.2 152.6 C 91.8 117.7, 142.5 112.3, 156.7 145.9 C 180.4 124.4, 221.1 139.6, 207.6 164.8 C 224.3 167.9, 224.3 192.1, 207.6 195.2 C 207.6 203.4, 166.9 218.6, 156.7 214.1 C 148.2 222.8, 97.5 217.4, 93.2 207.4 C 85.1 207.2, 62.5 185.3, 65 180 Z"><title>Cloud</title></path>
+</svg>

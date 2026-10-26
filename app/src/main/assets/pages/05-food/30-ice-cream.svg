@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ice cream</title>
+  <!-- Two scoops of ice cream in a cone -->
+  <path d="M 305 328 L 400 565 L 495 328"><title>Cone</title></path>
+  <path d="M 322.6 372 L 445.3 452"/>
+  <path d="M 354.7 452 L 413.2 532"/>
+  <path d="M 477.4 372 L 354.7 452"/>
+  <path d="M 445.3 452 L 386.8 532"/>
+  <path d="M 290 328 C 278 245, 330 200, 400 200 C 470 200, 522 245, 510 328 Q 503 346 495 328 C 491 372.2, 461 372.2, 457 328 C 453 354, 423 354, 419 328 C 415 380, 385 380, 381 328 C 377 356.6, 347 356.6, 343 328 C 339 369.6, 309 369.6, 305 328 Q 297 346 290 328 Z"><title>Ice cream</title></path>
+  <path d="M 328 220.9 C 300 150, 338 85, 400 85 C 462 85, 500 150, 472 220.9"><title>Ice cream</title></path>
+  <circle cx="412" cy="44" r="25"><title>Cherry</title></circle>
+  <path d="M 420 20 Q 436 4 460 8"/>
+  <line x1="350" y1="250" x2="366" y2="240"/>
+  <line x1="440" y1="248" x2="456" y2="258"/>
+  <line x1="398" y1="285" x2="404" y2="302"/>
+  <line x1="372" y1="140" x2="384" y2="128"/>
+  <line x1="425" y1="150" x2="440" y2="158"/>
+</svg>

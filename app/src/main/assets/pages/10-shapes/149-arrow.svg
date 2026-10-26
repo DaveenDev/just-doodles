@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Arrow</title>
+  <!-- A arrow with a smile -->
+  <polygon points="130,212 430,212 430,105 665,290 430,475 430,368 130,368"><title>Arrow</title></polygon>
+  <circle cx="254.6" cy="280" r="22"><title>Eye</title></circle>
+  <circle cx="257.9" cy="283.3" r="11"><title>Eye</title></circle>
+  <circle cx="325.4" cy="280" r="22"><title>Eye</title></circle>
+  <circle cx="328.7" cy="283.3" r="11"><title>Eye</title></circle>
+  <path d="M 247 336 Q 290 388 333 336"/>
+  <circle cx="223.3" cy="316" r="18"><title>Cheek</title></circle>
+  <circle cx="356.7" cy="316" r="18"><title>Cheek</title></circle>
+  <polygon points="197.6,530.6 233.6,530.6 233.6,517.8 261.8,540 233.6,562.2 233.6,549.4 197.6,549.4"><title>Arrow</title></polygon>
+  <polygon points="367.6,530.6 403.6,530.6 403.6,517.8 431.8,540 403.6,562.2 403.6,549.4 367.6,549.4"><title>Arrow</title></polygon>
+  <polygon points="537.6,530.6 573.6,530.6 573.6,517.8 601.8,540 573.6,562.2 573.6,549.4 537.6,549.4"><title>Arrow</title></polygon>
+</svg>

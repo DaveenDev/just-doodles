@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Koala</title>
+  <!-- A koala face with fluffy ears and a big nose -->
+  <circle cx="225" cy="205" r="105"><title>Ear</title></circle>
+  <circle cx="575" cy="205" r="105"><title>Ear</title></circle>
+  <circle cx="238" cy="215" r="58"><title>Ear</title></circle>
+  <circle cx="562" cy="215" r="58"><title>Ear</title></circle>
+  <ellipse cx="400" cy="330" rx="195" ry="175"><title>Koala</title></ellipse>
+  <circle cx="320" cy="300" r="20"><title>Eye</title></circle>
+  <circle cx="323" cy="303" r="10"><title>Eye</title></circle>
+  <circle cx="480" cy="300" r="20"><title>Eye</title></circle>
+  <circle cx="483" cy="303" r="10"><title>Eye</title></circle>
+  <ellipse cx="400" cy="375" rx="48" ry="68"><title>Nose</title></ellipse>
+  <path d="M 370 465 Q 400 487 430 465"/>
+</svg>

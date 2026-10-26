@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Mushroom</title>
+  <!-- A spotty mushroom with a smile -->
+  <path d="M 170 330 C 170 115, 630 115, 630 330 C 630 365, 170 365, 170 330 Z"><title>Mushroom</title></path>
+  <circle cx="290" cy="250" r="32"><title>Spot</title></circle>
+  <circle cx="410" cy="190" r="36"><title>Spot</title></circle>
+  <circle cx="525" cy="255" r="30"><title>Spot</title></circle>
+  <circle cx="380" cy="292" r="18"><title>Spot</title></circle>
+  <circle cx="470" cy="305" r="15"><title>Spot</title></circle>
+  <path d="M 330 355.1 C 322 420, 308 500, 320 530 Q 400 550 480 530 C 492 500, 478 420, 470 355.1"><title>Stem</title></path>
+  <circle cx="372" cy="440" r="10"><title>Eye</title></circle>
+  <circle cx="428" cy="440" r="10"><title>Eye</title></circle>
+  <path d="M 380 474 Q 400 490 420 474"/>
+  <rect x="60" y="555" width="680" height="30" rx="15"><title>Grass</title></rect>
+</svg>

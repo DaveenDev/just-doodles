@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Scooter</title>
+  <!-- A kick scooter -->
+  <polygon points="584.9,433.8 624.9,151.8 599.1,148.2 559.1,430.2"><title>Stem</title></polygon>
+  <rect x="555" y="125" width="115" height="30" rx="15"><title>Handle</title></rect>
+  <rect x="195" y="418" width="380" height="34" rx="17"><title>Deck</title></rect>
+  <circle cx="235" cy="470" r="46"><title>Wheel</title></circle>
+  <circle cx="235" cy="470" r="15"><title>Wheel</title></circle>
+  <circle cx="565" cy="470" r="46"><title>Wheel</title></circle>
+  <circle cx="565" cy="470" r="15"><title>Wheel</title></circle>
+  <polygon points="380,358 385.8,372 400.9,373.2 389.4,383.1 392.9,397.8 380,389.9 367.1,397.8 370.6,383.1 359.1,373.2 374.2,372"><title>Star</title></polygon>
+  <rect x="40" y="516" width="720" height="36" rx="14"><title>Road</title></rect>
+</svg>

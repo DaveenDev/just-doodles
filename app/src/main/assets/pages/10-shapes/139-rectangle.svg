@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Rectangle</title>
+  <!-- A rectangle with a smile -->
+  <rect x="130" y="160" width="540" height="260" rx="24"><title>Rectangle</title></rect>
+  <circle cx="330.8" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="334.1" cy="263.3" r="11"><title>Eye</title></circle>
+  <circle cx="469.2" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="472.5" cy="263.3" r="11"><title>Eye</title></circle>
+  <path d="M 325 348 Q 400 400 475 348"/>
+  <circle cx="269.5" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="530.5" cy="328" r="18"><title>Cheek</title></circle>
+  <rect x="197.6" y="524.4" width="64.8" height="31.2" rx="2.9"><title>Rectangle</title></rect>
+  <rect x="367.6" y="524.4" width="64.8" height="31.2" rx="2.9"><title>Rectangle</title></rect>
+  <rect x="537.6" y="524.4" width="64.8" height="31.2" rx="2.9"><title>Rectangle</title></rect>
+</svg>

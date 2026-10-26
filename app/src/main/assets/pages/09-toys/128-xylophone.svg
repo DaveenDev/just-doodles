@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Xylophone</title>
+  <!-- A xylophone -->
+  <rect x="100" y="150" width="70" height="350" rx="16"><title>Bar</title></rect>
+  <rect x="186" y="180" width="70" height="320" rx="16"><title>Bar</title></rect>
+  <rect x="272" y="210" width="70" height="290" rx="16"><title>Bar</title></rect>
+  <rect x="358" y="240" width="70" height="260" rx="16"><title>Bar</title></rect>
+  <rect x="444" y="270" width="70" height="230" rx="16"><title>Bar</title></rect>
+  <rect x="530" y="300" width="70" height="200" rx="16"><title>Bar</title></rect>
+  <rect x="616" y="330" width="70" height="170" rx="16"><title>Bar</title></rect>
+  <polygon points="70,500 730,500 660,566 140,566"><title>Frame</title></polygon>
+  <circle cx="120" cy="100" r="30"><title>Note</title></circle>
+  <circle cx="240" cy="70" r="24"><title>Note</title></circle>
+  <polygon points="680,76 689,97.6 712.3,99.5 694.6,114.7 700,137.5 680,125.3 660,137.5 665.4,114.7 647.7,99.5 671,97.6"><title>Star</title></polygon>
+</svg>

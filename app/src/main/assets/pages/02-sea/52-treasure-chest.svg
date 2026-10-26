@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Treasure chest</title>
+  <!-- A treasure chest -->
+  <rect x="180" y="300" width="440" height="230" rx="10"><title>Chest</title></rect>
+  <path d="M 180 250 L 180.8 239.5 L 183.3 229.2 L 187.5 218.9 L 193.3 209 L 200.6 199.3 L 209.5 190 L 219.8 181.2 L 231.5 172.9 L 244.4 165.1 L 258.6 158.1 L 273.8 151.7 L 290 146.1 L 307 141.2 L 324.8 137.2 L 343.1 134.1 L 361.8 131.8 L 380.8 130.5 L 400 130 L 419.2 130.5 L 438.2 131.8 L 456.9 134.1 L 475.2 137.2 L 493 141.2 L 510 146.1 L 526.2 151.7 L 541.4 158.1 L 555.6 165.1 L 568.5 172.9 L 580.2 181.2 L 590.5 190 L 599.4 199.3 L 606.7 209 L 612.5 218.9 L 616.7 229.2 L 619.2 239.5 L 620 250 L 620 300 L 180 300 Z"><title>Lid</title></path>
+  <line x1="300" y1="143.1" x2="300" y2="300"/>
+  <line x1="500" y1="143.1" x2="500" y2="300"/>
+  <line x1="300" y1="300" x2="300" y2="530"/>
+  <line x1="500" y1="300" x2="500" y2="530"/>
+  <rect x="368" y="282" width="64" height="62" rx="12"><title>Lock</title></rect>
+  <circle cx="400" cy="312" r="10"/>
+  <line x1="400" y1="320" x2="400" y2="334"/>
+  <circle cx="70" cy="545" r="28"><title>Coin</title></circle>
+  <circle cx="125" cy="502" r="28"><title>Coin</title></circle>
+  <circle cx="675" cy="538" r="28"><title>Coin</title></circle>
+  <polygon points="720,86 729,107.6 752.3,109.5 734.6,124.7 740,147.5 720,135.3 700,147.5 705.4,124.7 687.7,109.5 711,107.6"><title>Sparkle</title></polygon>
+  <polygon points="80,134 86.9,150.5 104.7,152 91.1,163.6 95.3,181 80,171.7 64.7,181 68.9,163.6 55.3,152 73.1,150.5"><title>Sparkle</title></polygon>
+</svg>

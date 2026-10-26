@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cat</title>
+  <!-- A cat face -->
+  <ellipse cx="400" cy="330" rx="200" ry="170"><title>Cat</title></ellipse>
+  <path d="M 250 222 L 240 80 L 345 170"><title>Ear</title></path>
+  <path d="M 550 222 L 560 80 L 455 170"><title>Ear</title></path>
+  <polygon points="268,190 262,130 305,165"><title>Ear</title></polygon>
+  <polygon points="532,190 538,130 495,165"><title>Ear</title></polygon>
+  <ellipse cx="325" cy="305" rx="30" ry="40"><title>Eye</title></ellipse>
+  <ellipse cx="475" cy="305" rx="30" ry="40"><title>Eye</title></ellipse>
+  <ellipse cx="330" cy="312" rx="11" ry="22"><title>Eye</title></ellipse>
+  <ellipse cx="470" cy="312" rx="11" ry="22"><title>Eye</title></ellipse>
+  <polygon points="382,372 418,372 400,394"><title>Nose</title></polygon>
+  <path d="M 400 394 Q 400 425 368 430"/>
+  <path d="M 400 394 Q 400 425 432 430"/>
+  <line x1="300" y1="385" x2="215" y2="368"/>
+  <line x1="300" y1="402" x2="212" y2="410"/>
+  <line x1="500" y1="385" x2="585" y2="368"/>
+  <line x1="500" y1="402" x2="588" y2="410"/>
+</svg>

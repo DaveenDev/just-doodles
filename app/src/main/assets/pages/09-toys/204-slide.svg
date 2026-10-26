@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Slide</title>
+  <!-- A playground slide -->
+  <rect x="170" y="150" width="24" height="385" rx="8"><title>Ladder</title></rect>
+  <rect x="250" y="150" width="24" height="385" rx="8"><title>Ladder</title></rect>
+  <rect x="194" y="210" width="56" height="16" rx="4"><title>Rung</title></rect>
+  <rect x="194" y="280" width="56" height="16" rx="4"><title>Rung</title></rect>
+  <rect x="194" y="350" width="56" height="16" rx="4"><title>Rung</title></rect>
+  <rect x="194" y="420" width="56" height="16" rx="4"><title>Rung</title></rect>
+  <rect x="194" y="485" width="56" height="16" rx="4"><title>Rung</title></rect>
+  <rect x="155" y="125" width="210" height="32" rx="10"><title>Platform</title></rect>
+  <path d="M 330 140 C 450 160, 520 420, 690 470 L 690 512 C 500 470, 430 222, 330 190 Z"><title>Slide</title></path>
+  <circle cx="640" cy="515" r="30"><title>Ball</title></circle>
+  <rect x="60" y="530" width="680" height="30" rx="12"><title>Ground</title></rect>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Snail</title>
+  <!-- A snail -->
+  <path d="M 650 525 C 650 525, 595 485.5, 560 470 C 525 454.5, 478.3 438.7, 440 432 C 401.7 425.3, 358.3 437.8, 330 430 C 301.7 422.2, 283.3 403.3, 270 385 C 256.7 366.7, 259.2 337.8, 250 320 C 240.8 302.2, 230.3 282, 215 278 C 199.7 274, 173.2 282.3, 158 296 C 142.8 309.7, 131.7 336, 124 360 C 116.3 384, 110.7 413.7, 112 440 C 113.3 466.3, 114 501.3, 132 518 C 150 534.7, 175.3 536, 220 540 C 264.7 544, 343.3 542, 400 542 C 456.7 542, 518.3 542.8, 560 540 C 601.7 537.2, 650 525, 650 525 Z"><title>Snail</title></path>
+  <circle cx="440" cy="290" r="142"><title>Shell</title></circle>
+  <circle cx="440" cy="290" r="100"><title>Shell</title></circle>
+  <circle cx="440" cy="290" r="60"><title>Shell</title></circle>
+  <circle cx="440" cy="290" r="22"><title>Shell</title></circle>
+  <line x1="188" y1="288" x2="150" y2="196"/>
+  <circle cx="146" cy="184" r="16"><title>Eye</title></circle>
+  <line x1="222" y1="282" x2="244" y2="196"/>
+  <circle cx="248" cy="184" r="16"><title>Eye</title></circle>
+  <path d="M 130 430 Q 170 468 214 430"/>
+  <rect x="40" y="552" width="720" height="30" rx="14"><title>Grass</title></rect>
+</svg>

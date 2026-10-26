@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Star</title>
+  <!-- A smiling star -->
+  <polygon points="400,75 461.7,230.1 628.3,240.8 499.9,347.4 541.1,509.2 400,420 258.9,509.2 300.1,347.4 171.7,240.8 338.3,230.1"><title>Star</title></polygon>
+  <circle cx="360" cy="290" r="18"><title>Eye</title></circle>
+  <circle cx="440" cy="290" r="18"><title>Eye</title></circle>
+  <path d="M 355 340 Q 400 385 445 340"/>
+  <circle cx="110" cy="110" r="20"><title>Dot</title></circle>
+  <circle cx="690" cy="470" r="24"><title>Dot</title></circle>
+  <circle cx="680" cy="110" r="14"><title>Dot</title></circle>
+</svg>

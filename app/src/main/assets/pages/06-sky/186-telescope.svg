@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Telescope</title>
+  <!-- A telescope looking at the stars -->
+  <polygon points="412.1,325.6 292.1,540.6 307.9,549.4 427.9,334.4"><title>Leg</title></polygon>
+  <polygon points="411,330 411,552 429,552 429,330"><title>Leg</title></polygon>
+  <polygon points="412.1,334.4 532.1,549.4 547.9,540.6 427.9,325.6"><title>Leg</title></polygon>
+  <polygon points="232,332 560,172 598,252 270,412"><title>Telescope</title></polygon>
+  <polygon points="560,172 598,252 632,236 594,156"><title>Ring</title></polygon>
+  <polygon points="196,350 232,332 270,412 234,430"><title>Eyepiece</title></polygon>
+  <circle cx="420" cy="330" r="24"><title>Mount</title></circle>
+  <polygon points="640,54 646.9,70.5 664.7,72 651.1,83.6 655.3,101 640,91.7 624.7,101 628.9,83.6 615.3,72 633.1,70.5"><title>Star</title></polygon>
+  <polygon points="720,172 724.8,183.4 737.1,184.4 727.7,192.5 730.6,204.6 720,198.1 709.4,204.6 712.3,192.5 702.9,184.4 715.2,183.4"><title>Star</title></polygon>
+  <polygon points="520,54 524.2,64.2 535.2,65.1 526.8,72.2 529.4,82.9 520,77.2 510.6,82.9 513.2,72.2 504.8,65.1 515.8,64.2"><title>Star</title></polygon>
+  <path d="M 150 60 C 90 70, 80 160, 150 180 C 110 150, 110 90, 150 60 Z"><title>Moon</title></path>
+</svg>

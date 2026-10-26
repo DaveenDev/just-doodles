@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Digger</title>
+  <!-- A digger with a bucket -->
+  <rect x="140" y="440" width="380" height="92" rx="46"><title>Tracks</title></rect>
+  <circle cx="200" cy="486" r="26"><title>Wheel</title></circle>
+  <circle cx="330" cy="486" r="26"><title>Wheel</title></circle>
+  <circle cx="460" cy="486" r="26"><title>Wheel</title></circle>
+  <rect x="180" y="320" width="200" height="120" rx="12"><title>Cab</title></rect>
+  <rect x="200" y="340" width="92" height="62" rx="8"><title>Window</title></rect>
+  <polygon points="380,330 500,170 552,206 380,402"><title>Boom</title></polygon>
+  <polygon points="500,170 552,206 672,330 626,366"><title>Arm</title></polygon>
+  <polygon points="626,366 672,330 742,382 716,434 660,432"><title>Bucket</title></polygon>
+  <path d="M 560 540 Q 620 440 700 452 Q 740 470 770 540 Z"><title>Dirt</title></path>
+  <rect x="40" y="540" width="720" height="40" rx="14"><title>Ground</title></rect>
+  <circle cx="120" cy="110" r="46"><title>Sun</title></circle>
+</svg>

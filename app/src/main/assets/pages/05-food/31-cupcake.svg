@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cupcake</title>
+  <!-- A cupcake with a cherry on top -->
+  <polygon points="270,360 530,360 495,545 305,545"><title>Cupcake</title></polygon>
+  <line x1="320" y1="360" x2="341.5" y2="545"/>
+  <line x1="370" y1="360" x2="378.1" y2="545"/>
+  <line x1="430" y1="360" x2="421.9" y2="545"/>
+  <line x1="480" y1="360" x2="458.5" y2="545"/>
+  <path d="M 250 360 C 221 354.1, 238.5 301.6, 275 285 C 251.1 259.6, 289.6 214.1, 330 220 C 329.1 178.2, 378.1 143.2, 400 170 C 421.9 143.2, 470.9 178.2, 470 220 C 510.4 214.1, 548.9 259.6, 525 285 C 561.5 301.6, 579 354.1, 550 360 Z"><title>Frosting</title></path>
+  <path d="M 275 285 C 330 318, 470 318, 525 285"/>
+  <path d="M 330 220 C 370 246, 430 246, 470 220"/>
+  <circle cx="400" cy="118" r="27"><title>Cherry</title></circle>
+  <path d="M 408 92 Q 418 62 444 54"/>
+  <line x1="300" y1="330" x2="314" y2="320"/>
+  <line x1="380" y1="335" x2="396" y2="338"/>
+  <line x1="470" y1="328" x2="482" y2="318"/>
+  <line x1="360" y1="268" x2="372" y2="258"/>
+  <line x1="430" y1="270" x2="444" y2="276"/>
+  <line x1="398" y1="205" x2="404" y2="190"/>
+</svg>

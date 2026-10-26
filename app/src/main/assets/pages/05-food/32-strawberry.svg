@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Strawberry</title>
+  <!-- A strawberry -->
+  <path d="M 400 545 C 250 480, 195 340, 225 260 C 250 195, 330 195, 400 215 C 470 195, 550 195, 575 260 C 605 340, 550 480, 400 545 Z"><title>Strawberry</title></path>
+  <path d="M 292 206.3 L 262 148 L 335 178 L 360 115 L 400 162 L 440 115 L 465 178 L 538 148 L 508 206.3"><title>Leaves</title></path>
+  <path d="M 400 162 V 98 Q 404 76 426 70"/>
+  <ellipse cx="320" cy="290" rx="6" ry="9"/>
+  <ellipse cx="400" cy="280" rx="6" ry="9"/>
+  <ellipse cx="480" cy="290" rx="6" ry="9"/>
+  <ellipse cx="280" cy="360" rx="6" ry="9"/>
+  <ellipse cx="360" cy="350" rx="6" ry="9"/>
+  <ellipse cx="440" cy="350" rx="6" ry="9"/>
+  <ellipse cx="520" cy="360" rx="6" ry="9"/>
+  <ellipse cx="330" cy="420" rx="6" ry="9"/>
+  <ellipse cx="400" cy="425" rx="6" ry="9"/>
+  <ellipse cx="470" cy="420" rx="6" ry="9"/>
+  <ellipse cx="400" cy="490" rx="6" ry="9"/>
+</svg>

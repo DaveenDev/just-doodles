@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Fire truck</title>
+  <!-- A fire truck with a ladder -->
+  <rect x="60" y="258" width="420" height="198" rx="12"><title>Truck</title></rect>
+  <rect x="90" y="214" width="350" height="40" rx="6"><title>Ladder</title></rect>
+  <line x1="130" y1="214" x2="130" y2="254"/>
+  <line x1="170" y1="214" x2="170" y2="254"/>
+  <line x1="210" y1="214" x2="210" y2="254"/>
+  <line x1="250" y1="214" x2="250" y2="254"/>
+  <line x1="290" y1="214" x2="290" y2="254"/>
+  <line x1="330" y1="214" x2="330" y2="254"/>
+  <line x1="370" y1="214" x2="370" y2="254"/>
+  <line x1="410" y1="214" x2="410" y2="254"/>
+  <polygon points="480,456 480,232 570,232 650,332 730,332 730,456"><title>Cab</title></polygon>
+  <polygon points="502,252 556,252 624,326 502,326"><title>Window</title></polygon>
+  <rect x="500" y="196" width="50" height="36" rx="10"><title>Siren</title></rect>
+  <circle cx="250" cy="356" r="62"><title>Hose</title></circle>
+  <circle cx="250" cy="356" r="30"><title>Hose</title></circle>
+  <circle cx="716" cy="420" r="12"><title>Light</title></circle>
+  <circle cx="150" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="150" cy="500" r="17.6"/>
+  <circle cx="360" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="360" cy="500" r="17.6"/>
+  <circle cx="630" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="630" cy="500" r="17.6"/>
+  <rect x="40" y="544" width="720" height="36" rx="14"><title>Road</title></rect>
+</svg>

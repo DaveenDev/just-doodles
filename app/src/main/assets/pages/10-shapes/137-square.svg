@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Square</title>
+  <!-- A square with a smile -->
+  <rect x="210" y="100" width="380" height="380" rx="28"><title>Square</title></rect>
+  <circle cx="346.2" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="349.5" cy="253.3" r="11"><title>Eye</title></circle>
+  <circle cx="453.8" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="457.1" cy="253.3" r="11"><title>Eye</title></circle>
+  <path d="M 335 353 Q 400 405 465 353"/>
+  <circle cx="298.5" cy="333" r="18"><title>Cheek</title></circle>
+  <circle cx="501.5" cy="333" r="18"><title>Cheek</title></circle>
+  <rect x="205.3" y="515.3" width="49.4" height="49.4" rx="3.6"><title>Square</title></rect>
+  <rect x="375.3" y="515.3" width="49.4" height="49.4" rx="3.6"><title>Square</title></rect>
+  <rect x="545.3" y="515.3" width="49.4" height="49.4" rx="3.6"><title>Square</title></rect>
+</svg>

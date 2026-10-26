@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Jellyfish</title>
+  <!-- A happy jellyfish -->
+  <path d="M 250 300 C 250 105, 550 105, 550 300 Q 525 330 500 300 Q 475 330 450 300 Q 425 330 400 300 Q 375 330 350 300 Q 325 330 300 300 Q 275 330 250 300 Z"><title>Jellyfish</title></path>
+  <path d="M 275 315 Q 253 360 275 400 T 275 480 T 275 555"/>
+  <path d="M 325 315 Q 347 360 325 400 T 325 480 T 325 555"/>
+  <path d="M 375 315 Q 353 360 375 400 T 375 480 T 375 555"/>
+  <path d="M 425 315 Q 447 360 425 400 T 425 480 T 425 555"/>
+  <path d="M 475 315 Q 453 360 475 400 T 475 480 T 475 555"/>
+  <path d="M 525 315 Q 547 360 525 400 T 525 480 T 525 555"/>
+  <circle cx="350" cy="225" r="18"><title>Eye</title></circle>
+  <circle cx="355" cy="220" r="5"/>
+  <circle cx="450" cy="225" r="18"><title>Eye</title></circle>
+  <circle cx="455" cy="220" r="5"/>
+  <path d="M 372 262 Q 400 286 428 262"/>
+  <circle cx="312" cy="262" r="18"><title>Cheek</title></circle>
+  <circle cx="488" cy="262" r="18"><title>Cheek</title></circle>
+  <circle cx="140" cy="160" r="20"><title>Bubble</title></circle>
+  <circle cx="180" cy="95" r="13"><title>Bubble</title></circle>
+  <circle cx="660" cy="200" r="17"><title>Bubble</title></circle>
+  <circle cx="630" cy="130" r="11"><title>Bubble</title></circle>
+</svg>

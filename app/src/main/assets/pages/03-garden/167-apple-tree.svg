@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Apple tree</title>
+  <!-- An apple tree -->
+  <path d="M 360 560 L 375 380 L 425 380 L 440 560 Z"><title>Trunk</title></path>
+  <path d="M 615 240 C 615 260, 590.2 279.1, 581.8 300 C 573.4 320.9, 578.9 350, 564.7 365.3 C 550.5 380.7, 518 380.9, 496.8 392 C 475.5 403.1, 459.1 428.6, 437.3 432 C 415.6 435.5, 390.5 416.7, 366.4 412.8 C 342.3 409, 311.6 418.9, 292.5 408.9 C 273.4 398.9, 267.5 369.8, 251.8 352.8 C 236 335.8, 205.5 325.5, 198 306.7 C 190.4 287.9, 206.5 262.2, 206.5 240 C 206.5 217.8, 190.4 192.1, 198 173.3 C 205.5 154.5, 236 144.2, 251.8 127.2 C 267.5 110.2, 273.4 81.1, 292.5 71.1 C 311.6 61.1, 342.3 71, 366.4 67.2 C 390.5 63.3, 415.6 44.5, 437.3 48 C 459.1 51.4, 475.5 76.9, 496.7 88 C 518 99.1, 550.5 99.3, 564.7 114.7 C 578.9 130, 573.4 159.1, 581.8 180 C 590.2 200.9, 615 220, 615 240 Z"><title>Tree</title></path>
+  <circle cx="310" cy="200" r="23"><title>Apple</title></circle>
+  <circle cx="470" cy="170" r="23"><title>Apple</title></circle>
+  <circle cx="400" cy="280" r="23"><title>Apple</title></circle>
+  <circle cx="520" cy="300" r="23"><title>Apple</title></circle>
+  <circle cx="290" cy="330" r="23"><title>Apple</title></circle>
+  <circle cx="380" cy="140" r="23"><title>Apple</title></circle>
+  <rect x="80" y="555" width="640" height="30" rx="12"><title>Grass</title></rect>
+</svg>

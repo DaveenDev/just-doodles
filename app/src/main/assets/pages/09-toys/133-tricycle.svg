@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Tricycle</title>
+  <!-- A tricycle -->
+  <circle cx="240" cy="420" r="110"><title>Tyre</title></circle>
+  <circle cx="240" cy="420" r="86"/>
+  <circle cx="240" cy="420" r="18"><title>Hub</title></circle>
+  <circle cx="610" cy="490" r="62"><title>Tyre</title></circle>
+  <circle cx="610" cy="490" r="40"/>
+  <circle cx="610" cy="490" r="14"><title>Hub</title></circle>
+  <line x1="240" y1="420" x2="300" y2="226"/>
+  <line x1="250" y1="222" x2="350" y2="222"/>
+  <circle cx="250" cy="222" r="14"><title>Grip</title></circle>
+  <circle cx="350" cy="222" r="14"><title>Grip</title></circle>
+  <line x1="296" y1="300" x2="520" y2="340"/>
+  <line x1="520" y1="340" x2="610" y2="490"/>
+  <line x1="520" y1="322" x2="520" y2="340"/>
+  <rect x="462" y="298" width="120" height="26" rx="13"><title>Seat</title></rect>
+  <line x1="240" y1="420" x2="214" y2="490"/>
+  <rect x="186" y="486" width="52" height="16" rx="6"><title>Pedal</title></rect>
+  <rect x="40" y="552" width="720" height="32" rx="14"><title>Ground</title></rect>
+  <path d="M 535 140 C 516.6 126.6, 542.2 102.8, 567 110.3 C 565.3 70.8, 622.9 64.9, 638.9 103 C 665.7 78.7, 711.8 95.1, 696.6 123.5 C 714.7 126.8, 714.7 153.2, 696.6 156.5 C 696.5 165.7, 650.4 182.2, 638.9 177 C 629.3 186.9, 571.8 181, 567 169.7 C 557.9 169.6, 532.3 145.8, 535 140 Z"><title>Cloud</title></path>
+</svg>

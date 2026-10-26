@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Puzzle</title>
+  <!-- A smiling puzzle piece -->
+  <path d="M 230 130 H 350 C 330 70, 470 70, 450 130 H 570 V 250 C 630 230, 630 370, 570 350 V 470 H 450 C 470 410, 330 410, 350 470 H 230 V 350 C 290 370, 290 230, 230 250 Z"><title>Puzzle</title></path>
+  <circle cx="345" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="348.3" cy="273.3" r="11"><title>Eye</title></circle>
+  <circle cx="455" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="458.3" cy="273.3" r="11"><title>Eye</title></circle>
+  <path d="M 360 340 Q 400 376 440 340"/>
+  <circle cx="295" cy="320" r="18"><title>Cheek</title></circle>
+  <circle cx="505" cy="320" r="18"><title>Cheek</title></circle>
+</svg>

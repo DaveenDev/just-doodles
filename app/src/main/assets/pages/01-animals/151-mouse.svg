@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Mouse</title>
+  <!-- A mouse face with big round ears -->
+  <circle cx="255" cy="175" r="95"><title>Ear</title></circle>
+  <circle cx="545" cy="175" r="95"><title>Ear</title></circle>
+  <circle cx="262" cy="182" r="55"><title>Ear</title></circle>
+  <circle cx="538" cy="182" r="55"><title>Ear</title></circle>
+  <path d="M 400 170 C 435 170, 477.5 173.7, 505 192 C 532.5 210.3, 558.3 248.7, 565 280 C 571.7 311.3, 560 350.8, 545 380 C 530 409.2, 499.2 436.7, 475 455 C 450.8 473.3, 425 490, 400 490 C 375 490, 349.2 473.3, 325 455 C 300.8 436.7, 270 409.2, 255 380 C 240 350.8, 228.3 311.3, 235 280 C 241.7 248.7, 267.5 210.3, 295 192 C 322.5 173.7, 365 170, 400 170 Z"><title>Mouse</title></path>
+  <circle cx="345" cy="300" r="22"><title>Eye</title></circle>
+  <circle cx="348.3" cy="303.3" r="11"><title>Eye</title></circle>
+  <circle cx="455" cy="300" r="22"><title>Eye</title></circle>
+  <circle cx="458.3" cy="303.3" r="11"><title>Eye</title></circle>
+  <ellipse cx="400" cy="445" rx="24" ry="18"><title>Nose</title></ellipse>
+  <line x1="355" y1="420" x2="245" y2="395"/>
+  <line x1="355" y1="438" x2="250" y2="450"/>
+  <line x1="445" y1="420" x2="555" y2="395"/>
+  <line x1="445" y1="438" x2="550" y2="450"/>
+  <circle cx="300" cy="385" r="18"><title>Cheek</title></circle>
+  <circle cx="500" cy="385" r="18"><title>Cheek</title></circle>
+</svg>

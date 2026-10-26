@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Acorn</title>
+  <!-- A smiling acorn and an oak leaf -->
+  <rect x="388" y="128" width="24" height="72" rx="10"><title>Stem</title></rect>
+  <path d="M 270 285 C 293.7 272.2, 356.7 305, 400 305 C 443.3 305, 506.3 272.2, 530 285 C 553.7 297.8, 548.3 349.2, 542 382 C 535.7 414.8, 515.7 455.7, 492 482 C 468.3 508.3, 430.7 540, 400 540 C 369.3 540, 331.7 508.3, 308 482 C 284.3 455.7, 264.3 414.8, 258 382 C 251.7 349.2, 246.3 297.8, 270 285 Z"><title>Acorn</title></path>
+  <path d="M 238 292 C 238 178, 562 178, 562 292 C 480 322, 320 322, 238 292 Z"><title>Cap</title></path>
+  <circle cx="320" cy="255" r="9"/>
+  <circle cx="370" cy="240" r="9"/>
+  <circle cx="430" cy="240" r="9"/>
+  <circle cx="480" cy="255" r="9"/>
+  <circle cx="400" cy="275" r="9"/>
+  <circle cx="350" cy="400" r="18"><title>Eye</title></circle>
+  <circle cx="352.7" cy="402.7" r="9"><title>Eye</title></circle>
+  <circle cx="450" cy="400" r="18"><title>Eye</title></circle>
+  <circle cx="452.7" cy="402.7" r="9"><title>Eye</title></circle>
+  <path d="M 370 450 Q 400 477 430 450"/>
+  <circle cx="305" cy="440" r="16"><title>Cheek</title></circle>
+  <circle cx="495" cy="440" r="16"><title>Cheek</title></circle>
+  <path d="M 565 225 C 625 160, 705 168, 728 200 C 695 262, 625 270, 565 225 Z"><title>Leaf</title></path>
+  <line x1="575" y1="225" x2="700" y2="200"/>
+</svg>

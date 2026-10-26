@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Duck</title>
+  <!-- A duck floating on the water -->
+  <path d="M 470 285 C 430 300, 300 310, 210 270 C 200 360, 260 500, 430 505 C 580 505, 660 440, 650 370 C 645 330, 615 300, 595 285 C 640 240, 625 140, 540 140 C 455 140, 430 240, 470 285 Z"><title>Duck</title></path>
+  <path d="M 614.4 190 C 655 176, 702 188, 710 206 C 696 228, 652 236, 619.7 226"><title>Beak</title></path>
+  <circle cx="550" cy="198" r="16"><title>Eye</title></circle>
+  <circle cx="555" cy="193" r="5"/>
+  <path d="M 320 365 C 370 325, 470 335, 495 390 C 465 445, 375 452, 320 420 C 338 402, 338 382, 320 365 Z"><title>Wing</title></path>
+  <path d="M 70 535 Q 90 510 110 535 T 150 535 T 190 535 T 230 535 T 270 535 T 310 535 T 350 535 T 390 535 T 430 535 T 470 535 T 510 535 T 550 535 T 590 535 T 630 535 T 670 535 T 710 535 T 750 535 L 730 580 Q 730 590 720 590 L 80 590 Q 70 590 70 580 Z"><title>Water</title></path>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pig</title>
+  <!-- A pig face with a round snout -->
+  <ellipse cx="400" cy="320" rx="180" ry="155"><title>Pig</title></ellipse>
+  <path d="M 270 212.8 Q 228 140 245 102 Q 300 118 350 171.1"><title>Ear</title></path>
+  <path d="M 530 212.8 Q 572 140 555 102 Q 500 118 450 171.1"><title>Ear</title></path>
+  <circle cx="330" cy="268" r="18"><title>Eye</title></circle>
+  <circle cx="335" cy="263" r="5"/>
+  <circle cx="470" cy="268" r="18"><title>Eye</title></circle>
+  <circle cx="475" cy="263" r="5"/>
+  <ellipse cx="400" cy="355" rx="78" ry="54"><title>Snout</title></ellipse>
+  <ellipse cx="374" cy="355" rx="13" ry="21"><title>Nose</title></ellipse>
+  <ellipse cx="426" cy="355" rx="13" ry="21"><title>Nose</title></ellipse>
+  <circle cx="282" cy="365" r="26"><title>Cheek</title></circle>
+  <circle cx="518" cy="365" r="26"><title>Cheek</title></circle>
+  <path d="M 360 432 Q 400 458 440 432"/>
+</svg>

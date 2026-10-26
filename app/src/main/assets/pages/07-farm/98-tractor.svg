@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Tractor</title>
+  <!-- A tractor -->
+  <rect x="190" y="170" width="160" height="150" rx="10"><title>Cab</title></rect>
+  <rect x="210" y="190" width="120" height="90" rx="8"><title>Window</title></rect>
+  <rect x="170" y="146" width="200" height="26" rx="10"><title>Roof</title></rect>
+  <rect x="350" y="250" width="250" height="120" rx="16"><title>Hood</title></rect>
+  <rect x="540" y="190" width="18" height="60" rx="6"><title>Pipe</title></rect>
+  <circle cx="580" cy="300" r="14"><title>Light</title></circle>
+  <circle cx="270" cy="420" r="100"><title>Wheel</title></circle>
+  <circle cx="270" cy="420" r="52"><title>Wheel</title></circle>
+  <circle cx="270" cy="420" r="16"><title>Hub</title></circle>
+  <circle cx="540" cy="450" r="70"><title>Wheel</title></circle>
+  <circle cx="540" cy="450" r="34"><title>Wheel</title></circle>
+  <circle cx="540" cy="450" r="12"><title>Hub</title></circle>
+  <rect x="40" y="522" width="720" height="40" rx="16"><title>Ground</title></rect>
+  <circle cx="690" cy="100" r="46"><title>Sun</title></circle>
+</svg>

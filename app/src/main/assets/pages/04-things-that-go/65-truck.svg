@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Truck</title>
+  <!-- A big truck -->
+  <rect x="60" y="160" width="410" height="296" rx="14"><title>Box</title></rect>
+  <polygon points="265,230 285.6,279.6 339.2,283.9 298.4,318.8 310.8,371.1 265,343.1 219.2,371.1 231.6,318.8 190.8,283.9 244.4,279.6"><title>Star</title></polygon>
+  <polygon points="470,456 470,236 565,236 655,346 730,346 730,456"><title>Cab</title></polygon>
+  <polygon points="492,258 550,258 622,338 492,338"><title>Window</title></polygon>
+  <circle cx="716" cy="420" r="12"><title>Light</title></circle>
+  <line x1="530" y1="350" x2="530" y2="456"/>
+  <circle cx="160" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="160" cy="500" r="17.6"/>
+  <circle cx="330" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="330" cy="500" r="17.6"/>
+  <circle cx="630" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="630" cy="500" r="17.6"/>
+  <rect x="40" y="544" width="720" height="36" rx="14"><title>Road</title></rect>
+</svg>

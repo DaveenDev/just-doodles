@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Nest</title>
+  <!-- A bird's nest with three eggs, on a branch -->
+  <ellipse cx="320" cy="282" rx="44" ry="56"><title>Egg</title></ellipse>
+  <ellipse cx="480" cy="282" rx="44" ry="56"><title>Egg</title></ellipse>
+  <ellipse cx="400" cy="270" rx="46" ry="60"><title>Egg</title></ellipse>
+  <path d="M 190 320 C 210 470, 590 470, 610 320 C 540 350, 260 350, 190 320 Z"><title>Nest</title></path>
+  <path d="M 190 320 C 260 290, 540 290, 610 320"/>
+  <path d="M 236 380 C 320 404, 480 404, 564 380"/>
+  <rect x="100" y="456" width="600" height="28" rx="14"><title>Branch</title></rect>
+  <path d="M 560 456 C 580 420, 620 400, 660 404 C 640 430, 600 448, 560 456 Z"><title>Leaf</title></path>
+</svg>

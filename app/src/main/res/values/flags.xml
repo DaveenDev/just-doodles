@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shows "Support the developer" in the grown-up settings. The play flavor turns it off. -->
+    <bool name="show_donate">true</bool>
+</resources>

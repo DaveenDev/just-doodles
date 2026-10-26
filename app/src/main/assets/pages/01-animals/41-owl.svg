@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Owl</title>
+  <!-- An owl on a branch -->
+  <path d="M 400 112 C 410.7 112, 420.3 108.7, 432 98 C 443.7 87.3, 470 48, 470 48 C 470 48, 482.7 93.3, 494 108 C 505.3 122.7, 526 121.5, 538 136 C 550 150.5, 560.3 174, 566 195 C 571.7 216, 571.3 239.5, 572 262 C 572.7 284.5, 574 303.7, 570 330 C 566 356.3, 560 393.7, 548 420 C 536 446.3, 522.7 473.8, 498 488 C 473.3 502.2, 432.7 505, 400 505 C 367.3 505, 326.7 502.2, 302 488 C 277.3 473.8, 264 446.3, 252 420 C 240 393.7, 234 356.3, 230 330 C 226 303.7, 227.3 284.5, 228 262 C 228.7 239.5, 228.3 216, 234 195 C 239.7 174, 250 150.5, 262 136 C 274 121.5, 294.7 122.7, 306 108 C 317.3 93.3, 330 48, 330 48 C 330 48, 356.3 87.3, 368 98 C 379.7 108.7, 389.3 112, 400 112 Z"><title>Owl</title></path>
+  <ellipse cx="340" cy="215" rx="58" ry="58"><title>Eye</title></ellipse>
+  <ellipse cx="460" cy="215" rx="58" ry="58"><title>Eye</title></ellipse>
+  <circle cx="340" cy="215" r="24"><title>Eye</title></circle>
+  <circle cx="460" cy="215" r="24"><title>Eye</title></circle>
+  <polygon points="380,262 420,262 400,308"><title>Beak</title></polygon>
+  <ellipse cx="400" cy="410" rx="82" ry="80"><title>Belly</title></ellipse>
+  <path d="M 366 385 Q 382 405 398 385"/>
+  <path d="M 402 385 Q 418 405 434 385"/>
+  <path d="M 384 430 Q 400 450 416 430"/>
+  <path d="M 572 262 C 564.7 268.3, 537.7 281.7, 528 300 C 518.3 318.3, 510.7 352, 514 372 C 517.3 392, 542.3 412, 548 420"><title>Wing</title></path>
+  <path d="M 228 262 C 235.3 268.3, 262.3 281.7, 272 300 C 281.7 318.3, 289.3 352, 286 372 C 282.7 392, 257.7 412, 252 420"><title>Wing</title></path>
+  <ellipse cx="360" cy="520" rx="30" ry="16"><title>Foot</title></ellipse>
+  <ellipse cx="440" cy="520" rx="30" ry="16"><title>Foot</title></ellipse>
+  <rect x="90" y="542" width="620" height="38" rx="18"><title>Branch</title></rect>
+</svg>

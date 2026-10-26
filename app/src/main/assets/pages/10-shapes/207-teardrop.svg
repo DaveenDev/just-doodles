@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Teardrop</title>
+  <!-- A teardrop shape with a smile -->
+  <path d="M 400 80 C 445 180, 550 240, 550 330 C 550 442.5, 482.5 480, 400 480 C 317.5 480, 250 442.5, 250 330 C 250 240, 355 180, 400 80 Z"><title>Teardrop</title></path>
+  <circle cx="350" cy="340" r="22"><title>Eye</title></circle>
+  <circle cx="353.3" cy="343.3" r="11"><title>Eye</title></circle>
+  <circle cx="450" cy="340" r="22"><title>Eye</title></circle>
+  <circle cx="453.3" cy="343.3" r="11"><title>Eye</title></circle>
+  <path d="M 355 405 Q 400 445.5 445 405"/>
+  <circle cx="315" cy="395" r="16"><title>Cheek</title></circle>
+  <circle cx="485" cy="395" r="16"><title>Cheek</title></circle>
+  <path d="M 230 505 C 236 519.5, 250 531, 250 543 C 250 558, 241 563, 230 563 C 219 563, 210 558, 210 543 C 210 531, 224 519.5, 230 505 Z"><title>Teardrop</title></path>
+  <path d="M 400 505 C 406 519.5, 420 531, 420 543 C 420 558, 411 563, 400 563 C 389 563, 380 558, 380 543 C 380 531, 394 519.5, 400 505 Z"><title>Teardrop</title></path>
+  <path d="M 570 505 C 576 519.5, 590 531, 590 543 C 590 558, 581 563, 570 563 C 559 563, 550 558, 550 543 C 550 531, 564 519.5, 570 505 Z"><title>Teardrop</title></path>
+</svg>

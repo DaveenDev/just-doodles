@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ambulance</title>
+  <!-- An ambulance -->
+  <rect x="70" y="200" width="480" height="256" rx="16"><title>Van</title></rect>
+  <polygon points="277,260 323,260 323,312 375,312 375,358 323,358 323,410 277,410 277,358 225,358 225,312 277,312"><title>Cross</title></polygon>
+  <polygon points="550,456 550,250 640,250 720,346 720,456"><title>Cab</title></polygon>
+  <polygon points="568,270 624,270 686,336 568,336"><title>Window</title></polygon>
+  <rect x="330" y="166" width="70" height="34" rx="12"><title>Siren</title></rect>
+  <circle cx="706" cy="420" r="12"><title>Light</title></circle>
+  <line x1="550" y1="340" x2="550" y2="456"/>
+  <circle cx="190" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="190" cy="500" r="17.6"/>
+  <circle cx="610" cy="500" r="44"><title>Wheel</title></circle>
+  <circle cx="610" cy="500" r="17.6"/>
+  <rect x="40" y="544" width="720" height="36" rx="14"><title>Road</title></rect>
+</svg>

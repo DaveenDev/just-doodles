@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Magnifying glass</title>
+  <!-- A magnifying glass looking at a ladybug -->
+  <polygon points="445,392 478,362 676,556 643,586"><title>Handle</title></polygon>
+  <circle cx="330" cy="260" r="172"><title>Rim</title></circle>
+  <circle cx="330" cy="260" r="140"><title>Glass</title></circle>
+  <circle cx="330" cy="275" r="62"><title>Ladybug</title></circle>
+  <circle cx="330" cy="205" r="26"><title>Ladybug</title></circle>
+  <line x1="330" y1="215" x2="330" y2="337"/>
+  <circle cx="300" cy="255" r="11"><title>Spot</title></circle>
+  <circle cx="362" cy="255" r="11"><title>Spot</title></circle>
+  <circle cx="305" cy="305" r="11"><title>Spot</title></circle>
+  <circle cx="357" cy="305" r="11"><title>Spot</title></circle>
+  <line x1="318" y1="182" x2="305" y2="155"/>
+  <line x1="342" y1="182" x2="355" y2="155"/>
+</svg>

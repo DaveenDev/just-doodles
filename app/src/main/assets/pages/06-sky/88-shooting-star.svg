@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Shooting star</title>
+  <!-- A shooting star -->
+  <polygon points="560,75 596.7,149.4 678.9,161.4 619.4,219.3 633.5,301.1 560,262.5 486.5,301.1 500.6,219.3 441.1,161.4 523.3,149.4"><title>Star</title></polygon>
+  <circle cx="528" cy="190" r="14"><title>Eye</title></circle>
+  <circle cx="530.1" cy="192.1" r="7"><title>Eye</title></circle>
+  <circle cx="592" cy="190" r="14"><title>Eye</title></circle>
+  <circle cx="594.1" cy="192.1" r="7"><title>Eye</title></circle>
+  <path d="M 538 226 Q 560 246 582 226"/>
+  <polygon points="430,160 70,300 436,232"><title>Tail</title></polygon>
+  <polygon points="440,270 90,470 470,330"><title>Tail</title></polygon>
+  <polygon points="500,340 250,540 520,400"><title>Tail</title></polygon>
+  <polygon points="660,410 667.9,429.1 688.5,430.7 672.8,444.2 677.6,464.3 660,453.5 642.4,464.3 647.2,444.2 631.5,430.7 652.1,429.1"><title>Star</title></polygon>
+  <polygon points="150,90 157.9,109.1 178.5,110.7 162.8,124.2 167.6,144.3 150,133.5 132.4,144.3 137.2,124.2 121.5,110.7 142.1,109.1"><title>Star</title></polygon>
+  <polygon points="690,518 695.8,532 710.9,533.2 699.4,543.1 702.9,557.8 690,549.9 677.1,557.8 680.6,543.1 669.1,533.2 684.2,532"><title>Star</title></polygon>
+  <polygon points="320,48 325.8,62 340.9,63.2 329.4,73.1 332.9,87.8 320,79.9 307.1,87.8 310.6,73.1 299.1,63.2 314.2,62"><title>Star</title></polygon>
+</svg>

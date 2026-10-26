@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cloud</title>
+  <!-- A happy cloud -->
+  <path d="M 110 280 C 46.6 238.9, 114.6 148.4, 194.9 166.9 C 171.2 55.3, 335.2 17.8, 400 120 C 464.8 17.8, 628.8 55.3, 605.1 166.9 C 685.4 148.4, 753.4 238.9, 690 280 C 701.1 299.4, 633.2 389.9, 605.1 393.1 C 596.6 427, 432.6 464.5, 400 440 C 367.4 464.5, 203.4 427, 194.9 393.1 C 166.8 389.9, 98.9 299.4, 110 280 Z"><title>Cloud</title></path>
+  <circle cx="325" cy="255" r="24"><title>Eye</title></circle>
+  <circle cx="328.6" cy="258.6" r="12"><title>Eye</title></circle>
+  <circle cx="475" cy="255" r="24"><title>Eye</title></circle>
+  <circle cx="478.6" cy="258.6" r="12"><title>Eye</title></circle>
+  <circle cx="270" cy="330" r="22"><title>Cheek</title></circle>
+  <circle cx="530" cy="330" r="22"><title>Cheek</title></circle>
+  <path d="M 350 320 Q 400 368 450 320"/>
+  <path d="M 540 500 C 518.2 484.2, 548.4 456, 577.7 464.8 C 575.7 418.3, 643.4 411.4, 662.3 456.1 C 693.8 427.6, 748 447, 730.1 480.5 C 751.6 484.4, 751.6 515.6, 730.1 519.5 C 730.1 530.4, 675.8 549.9, 662.3 543.9 C 651 555.4, 583.3 548.5, 577.7 535.2 C 566.9 535, 536.8 506.9, 540 500 Z"><title>Cloud</title></path>
+  <path d="M 75 80 C 58.3 67.9, 80.9 46, 103.2 52.6 C 101.8 17.7, 152.5 12.3, 166.7 45.9 C 190.4 24.4, 231.1 39.6, 217.6 64.8 C 234.3 67.9, 234.3 92.1, 217.6 95.2 C 217.6 103.4, 176.9 118.6, 166.7 114.1 C 158.2 122.8, 107.5 117.4, 103.2 107.4 C 95.1 107.2, 72.5 85.3, 75 80 Z"><title>Cloud</title></path>
+  <circle cx="690" cy="100" r="44"><title>Sun</title></circle>
+</svg>

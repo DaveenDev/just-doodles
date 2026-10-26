@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Apple</title>
+  <!-- An apple with a leaf -->
+  <path d="M 400 200 C 330 150, 200 170, 200 330 C 200 470, 300 560, 360 540 C 380 533, 420 533, 440 540 C 500 560, 600 470, 600 330 C 600 170, 470 150, 400 200 Z"><title>Apple</title></path>
+  <path d="M 393 197 C 393 160, 385 130, 372 103 L 390 96 C 405 125, 413 160, 409 197"><title>Stem</title></path>
+  <path d="M 408 150 C 440 100, 500 95, 535 108 C 505 150, 455 168, 408 150 Z"><title>Leaf</title></path>
+  <line x1="425" y1="146" x2="515" y2="114"/>
+  <ellipse cx="285" cy="300" rx="22" ry="45"><title>Apple</title></ellipse>
+</svg>

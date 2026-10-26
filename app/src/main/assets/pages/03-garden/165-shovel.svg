@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Shovel</title>
+  <!-- A garden shovel and a pile of soil -->
+  <rect x="335" y="30" width="130" height="72" rx="32"><title>Grip</title></rect>
+  <rect x="360" y="50" width="80" height="32" rx="16"><title>Grip</title></rect>
+  <rect x="385" y="95" width="30" height="250" rx="12"><title>Handle</title></rect>
+  <path d="M 322 350 L 478 350 L 478 450 Q 478 530 400 562 Q 322 530 322 450 Z"><title>Blade</title></path>
+  <rect x="368" y="332" width="64" height="40" rx="10"><title>Collar</title></rect>
+  <path d="M 520 558 Q 620 420 745 558 Z"><title>Soil</title></path>
+  <rect x="640" y="420" width="10" height="60" rx="4"><title>Stem</title></rect>
+  <path d="M 645 435 C 615 400, 585 405, 575 420 C 595 445, 625 448, 645 435 Z"><title>Leaf</title></path>
+  <path d="M 645 435 C 675 400, 705 405, 715 420 C 695 445, 665 448, 645 435 Z"><title>Leaf</title></path>
+</svg>

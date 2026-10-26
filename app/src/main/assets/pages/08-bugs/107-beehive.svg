@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Beehive</title>
+  <!-- A beehive -->
+  <path d="M 400 90 C 423.3 90, 450 96.7, 470 110 C 490 123.3, 505 145, 520 170 C 535 195, 550 228.3, 560 260 C 570 291.7, 578.3 326.7, 580 360 C 581.7 393.3, 576.7 433, 570 460 C 563.3 487, 568.3 508, 540 522 C 511.7 536, 446.7 544, 400 544 C 353.3 544, 288.3 536, 260 522 C 231.7 508, 236.7 487, 230 460 C 223.3 433, 218.3 393.3, 220 360 C 221.7 326.7, 230 291.7, 240 260 C 250 228.3, 265 195, 280 170 C 295 145, 310 123.3, 330 110 C 350 96.7, 376.7 90, 400 90 Z"><title>Hive</title></path>
+  <line x1="280" y1="170" x2="520" y2="170"/>
+  <line x1="240" y1="260" x2="560" y2="260"/>
+  <line x1="220" y1="360" x2="580" y2="360"/>
+  <line x1="230" y1="460" x2="570" y2="460"/>
+  <ellipse cx="400" cy="470" rx="44" ry="52"><title>Door</title></ellipse>
+  <ellipse cx="150" cy="230" rx="30" ry="20"><title>Bee</title></ellipse>
+  <ellipse cx="142" cy="202" rx="12" ry="18"><title>Wing</title></ellipse>
+  <ellipse cx="160" cy="202" rx="12" ry="18"><title>Wing</title></ellipse>
+  <ellipse cx="660" cy="200" rx="30" ry="20"><title>Bee</title></ellipse>
+  <ellipse cx="652" cy="172" rx="12" ry="18"><title>Wing</title></ellipse>
+  <ellipse cx="670" cy="172" rx="12" ry="18"><title>Wing</title></ellipse>
+  <ellipse cx="120" cy="400" rx="30" ry="20"><title>Bee</title></ellipse>
+  <ellipse cx="112" cy="372" rx="12" ry="18"><title>Wing</title></ellipse>
+  <ellipse cx="130" cy="372" rx="12" ry="18"><title>Wing</title></ellipse>
+  <rect x="40" y="556" width="720" height="30" rx="14"><title>Grass</title></rect>
+</svg>

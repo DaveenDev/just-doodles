@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ladybug</title>
+  <!-- A ladybug with spots -->
+  <circle cx="400" cy="340" r="170"><title>Ladybug</title></circle>
+  <path d="M 345 179.1 C 330 98, 470 98, 455 179.1"><title>Head</title></path>
+  <line x1="400" y1="170" x2="400" y2="510"/>
+  <circle cx="320" cy="270" r="30"><title>Spot</title></circle>
+  <circle cx="290" cy="372" r="34"><title>Spot</title></circle>
+  <circle cx="345" cy="452" r="28"><title>Spot</title></circle>
+  <circle cx="480" cy="270" r="30"><title>Spot</title></circle>
+  <circle cx="510" cy="372" r="34"><title>Spot</title></circle>
+  <circle cx="455" cy="452" r="28"><title>Spot</title></circle>
+  <circle cx="378" cy="146" r="10"><title>Eye</title></circle>
+  <circle cx="422" cy="146" r="10"><title>Eye</title></circle>
+  <path d="M 380 128 Q 352 80 322 76"/>
+  <path d="M 420 128 Q 448 80 478 76"/>
+  <circle cx="312" cy="74" r="11"><title>Antenna</title></circle>
+  <circle cx="488" cy="74" r="11"><title>Antenna</title></circle>
+  <line x1="236" y1="290" x2="196" y2="268"/>
+  <line x1="230" y1="360" x2="186" y2="366"/>
+  <line x1="252" y1="428" x2="214" y2="456"/>
+  <line x1="564" y1="290" x2="604" y2="268"/>
+  <line x1="570" y1="360" x2="614" y2="366"/>
+  <line x1="548" y1="428" x2="586" y2="456"/>
+</svg>

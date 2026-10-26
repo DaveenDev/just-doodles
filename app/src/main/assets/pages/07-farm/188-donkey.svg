@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Donkey</title>
+  <!-- A donkey face with long ears -->
+  <path d="M 302 205 C 262 125, 240 45, 272 32 C 312 30, 342 120, 342 192 Z"><title>Ear</title></path>
+  <path d="M 498 205 C 538 125, 560 45, 528 32 C 488 30, 458 120, 458 192 Z"><title>Ear</title></path>
+  <path d="M 300 182 C 320.3 161.7, 366.7 160, 400 160 C 433.3 160, 479.7 161.7, 500 182 C 520.3 202.3, 521.7 248.7, 522 282 C 522.3 315.3, 510.3 350.7, 502 382 C 493.7 413.3, 489 449.5, 472 470 C 455 490.5, 424 505, 400 505 C 376 505, 345 490.5, 328 470 C 311 449.5, 306.3 413.3, 298 382 C 289.7 350.7, 277.7 315.3, 278 282 C 278.3 248.7, 279.7 202.3, 300 182 Z"><title>Donkey</title></path>
+  <path d="M 358 172 Q 368 120 395 160 Q 405 110 425 160 Q 440 124 446 176 Z"><title>Mane</title></path>
+  <ellipse cx="400" cy="430" rx="96" ry="70"><title>Muzzle</title></ellipse>
+  <ellipse cx="365" cy="422" rx="10" ry="17"><title>Nostril</title></ellipse>
+  <ellipse cx="435" cy="422" rx="10" ry="17"><title>Nostril</title></ellipse>
+  <path d="M 370 462 Q 400 480 430 462"/>
+  <circle cx="345" cy="285" r="18"><title>Eye</title></circle>
+  <circle cx="347.7" cy="287.7" r="9"><title>Eye</title></circle>
+  <circle cx="455" cy="285" r="18"><title>Eye</title></circle>
+  <circle cx="457.7" cy="287.7" r="9"><title>Eye</title></circle>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Helicopter</title>
+  <!-- A helicopter -->
+  <ellipse cx="340" cy="330" rx="160" ry="105"><title>Helicopter</title></ellipse>
+  <path d="M 490.4 294.1 L 690 280 L 700 305 L 690 322 L 497.6 348.2"><title>Tail</title></path>
+  <polygon points="690,280 735,220 752,238 700,305"><title>Fin</title></polygon>
+  <ellipse cx="305" cy="305" rx="88" ry="56"><title>Window</title></ellipse>
+  <rect x="330" y="195" width="20" height="30" rx="5"><title>Mast</title></rect>
+  <ellipse cx="340" cy="178" rx="235" ry="14"><title>Blade</title></ellipse>
+  <line x1="287.9" y1="431.7" x2="252" y2="470"/>
+  <line x1="392.1" y1="431.7" x2="428" y2="470"/>
+  <rect x="170" y="470" width="340" height="16" rx="8"><title>Skid</title></rect>
+  <path d="M 55 100 C 36.6 86.6, 62.2 62.8, 87 70.3 C 85.3 30.8, 142.9 24.9, 158.9 63 C 185.7 38.7, 231.8 55.1, 216.6 83.5 C 234.7 86.8, 234.7 113.2, 216.6 116.5 C 216.5 125.7, 170.4 142.2, 158.9 137 C 149.3 146.9, 91.8 141, 87 129.7 C 77.9 129.6, 52.3 105.8, 55 100 Z"><title>Cloud</title></path>
+  <path d="M 560 110 C 542.6 97.3, 566.7 74.8, 590.1 81.9 C 588.6 44.7, 642.7 39.1, 657.8 74.9 C 683 52.1, 726.4 67.6, 712.1 94.4 C 729.3 97.5, 729.3 122.5, 712.1 125.6 C 712 134.3, 668.6 149.9, 657.8 145.1 C 648.8 154.4, 594.6 148.8, 590.1 138.1 C 581.5 138, 557.4 115.5, 560 110 Z"><title>Cloud</title></path>
+</svg>

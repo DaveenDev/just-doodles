@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Crab</title>
+  <!-- A crab waving its claws -->
+  <ellipse cx="400" cy="350" rx="180" ry="110"><title>Crab</title></ellipse>
+  <path d="M 150 230 C 108 208, 104 140, 150 112 L 176 168 L 202 112 C 248 140, 244 208, 202 230 C 186 238, 166 238, 150 230 Z"><title>Claw</title></path>
+  <path d="M 650 230 C 692 208, 696 140, 650 112 L 624 168 L 598 112 C 552 140, 556 208, 598 230 C 614 238, 634 238, 650 230 Z"><title>Claw</title></path>
+  <path d="M 164.2 234.8 C 168.2 290, 195 322, 230.9 312.4 M 190.9 234.1 C 198.9 270, 225 284, 250.8 288.5"/>
+  <path d="M 635.8 234.8 C 631.8 290, 605 322, 569.1 312.4 M 609.1 234.1 C 601.1 270, 575 284, 549.2 288.5"/>
+  <path d="M 233.1 391.2 Q 171 375.1 136 394 Q 134 410 150 408 Q 201 397.1 222.7 369.1"><title>Leg</title></path>
+  <path d="M 566.9 391.2 Q 629 375.1 664 394 Q 666 410 650 408 Q 599 397.1 577.3 369.1"><title>Leg</title></path>
+  <path d="M 262.1 420.7 Q 197.8 417.6 166 448 Q 164 464 180 462 Q 227.8 439.6 241.1 401.6"><title>Leg</title></path>
+  <path d="M 537.9 420.7 Q 602.2 417.6 634 448 Q 636 464 620 462 Q 572.2 439.6 558.9 401.6"><title>Leg</title></path>
+  <path d="M 304.6 443.3 Q 236.9 449.1 206 486 Q 204 502 220 500 Q 266.9 471.1 275 429.1"><title>Leg</title></path>
+  <path d="M 495.4 443.3 Q 563.1 449.1 594 486 Q 596 502 580 500 Q 533.1 471.1 525 429.1"><title>Leg</title></path>
+  <line x1="345" y1="245.3" x2="345" y2="197"/>
+  <line x1="455" y1="245.3" x2="455" y2="197"/>
+  <circle cx="345" cy="167" r="30"><title>Eye</title></circle>
+  <circle cx="352" cy="163" r="12"/>
+  <circle cx="455" cy="167" r="30"><title>Eye</title></circle>
+  <circle cx="462" cy="163" r="12"/>
+  <path d="M 355 375 Q 400 410 445 375"/>
+  <circle cx="680" cy="510" r="16"><title>Bubble</title></circle>
+  <circle cx="715" cy="470" r="11"><title>Bubble</title></circle>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Hippo</title>
+  <!-- A hippo face with a wide smiling muzzle -->
+  <ellipse cx="285" cy="125" rx="34" ry="26"><title>Ear</title></ellipse>
+  <ellipse cx="515" cy="125" rx="34" ry="26"><title>Ear</title></ellipse>
+  <ellipse cx="400" cy="235" rx="155" ry="125"><title>Hippo</title></ellipse>
+  <ellipse cx="400" cy="395" rx="235" ry="130"><title>Muzzle</title></ellipse>
+  <circle cx="342" cy="210" r="21"><title>Eye</title></circle>
+  <circle cx="345.2" cy="213.2" r="10.5"><title>Eye</title></circle>
+  <circle cx="458" cy="210" r="21"><title>Eye</title></circle>
+  <circle cx="461.2" cy="213.2" r="10.5"><title>Eye</title></circle>
+  <ellipse cx="325" cy="360" rx="22" ry="32"><title>Nostril</title></ellipse>
+  <ellipse cx="475" cy="360" rx="22" ry="32"><title>Nostril</title></ellipse>
+  <path d="M 315 450 Q 400 500 485 450"/>
+  <rect x="355" y="462" width="34" height="34" rx="6"><title>Tooth</title></rect>
+  <rect x="411" y="462" width="34" height="34" rx="6"><title>Tooth</title></rect>
+</svg>

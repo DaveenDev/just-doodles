@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Triangle</title>
+  <!-- A triangle with a smile -->
+  <polygon points="400,90 630,480 170,480"><title>Triangle</title></polygon>
+  <circle cx="356.9" cy="310" r="22"><title>Eye</title></circle>
+  <circle cx="360.2" cy="313.3" r="11"><title>Eye</title></circle>
+  <circle cx="443.1" cy="310" r="22"><title>Eye</title></circle>
+  <circle cx="446.4" cy="313.3" r="11"><title>Eye</title></circle>
+  <path d="M 350 393 Q 400 445 450 393"/>
+  <circle cx="318.8" cy="373" r="18"><title>Cheek</title></circle>
+  <circle cx="481.2" cy="373" r="18"><title>Cheek</title></circle>
+  <polygon points="230,514 259.9,564.7 200.1,564.7"><title>Triangle</title></polygon>
+  <polygon points="400,514 429.9,564.7 370.1,564.7"><title>Triangle</title></polygon>
+  <polygon points="570,514 599.9,564.7 540.1,564.7"><title>Triangle</title></polygon>
+</svg>

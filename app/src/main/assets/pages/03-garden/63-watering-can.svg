@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Watering can</title>
+  <!-- A watering can with drops -->
+  <rect x="220" y="250" width="260" height="250" rx="28"><title>Can</title></rect>
+  <line x1="220" y1="290" x2="480" y2="290"/>
+  <polygon points="480,420 618,262 660,300 480,478"><title>Spout</title></polygon>
+  <polygon points="618,262 660,300 692,270 650,230"><title>Rose</title></polygon>
+  <path d="M 220 322 C 205.8 322, 155 309, 135 322 C 115 335, 100 374, 100 400 C 100 426, 115 465, 135 478 C 155 491, 205.8 478, 220 478"><title>Handle</title></path>
+  <path d="M 220 362 C 210.3 362.7, 174.3 359.7, 162 366 C 149.7 372.3, 146 388, 146 400 C 146 412, 149.7 431, 162 438 C 174.3 445, 210.3 441.3, 220 442"><title>Handle</title></path>
+  <path d="M 690 325 C 690 325, 703 346.3, 703 353 C 703 359.7, 694.3 365, 690 365 C 685.7 365, 677 359.7, 677 353 C 677 346.3, 690 325, 690 325 Z"><title>Drop</title></path>
+  <path d="M 655 365 C 655 365, 668 386.3, 668 393 C 668 399.7, 659.3 405, 655 405 C 650.7 405, 642 399.7, 642 393 C 642 386.3, 655 365, 655 365 Z"><title>Drop</title></path>
+  <path d="M 722 372 C 722 372, 735 393.3, 735 400 C 735 406.7, 726.3 412, 722 412 C 717.7 412, 709 406.7, 709 400 C 709 393.3, 722 372, 722 372 Z"><title>Drop</title></path>
+  <path d="M 690 420 C 690 420, 703 441.3, 703 448 C 703 454.7, 694.3 460, 690 460 C 685.7 460, 677 454.7, 677 448 C 677 441.3, 690 420, 690 420 Z"><title>Drop</title></path>
+  <rect x="50" y="520" width="700" height="34" rx="14"><title>Grass</title></rect>
+</svg>

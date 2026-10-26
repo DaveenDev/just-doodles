@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Flower pot</title>
+  <!-- A flower growing in a pot -->
+  <rect x="392" y="175" width="16" height="135" rx="6"><title>Stem</title></rect>
+  <path d="M 396 262 C 352 218, 300 228, 278 256 C 320 282, 362 282, 396 262 Z"><title>Leaf</title></path>
+  <path d="M 404 262 C 448 218, 500 228, 522 256 C 480 282, 438 282, 404 262 Z"><title>Leaf</title></path>
+  <circle cx="458" cy="150" r="34"><title>Petal</title></circle>
+  <circle cx="429" cy="200.2" r="34"><title>Petal</title></circle>
+  <circle cx="371" cy="200.2" r="34"><title>Petal</title></circle>
+  <circle cx="342" cy="150" r="34"><title>Petal</title></circle>
+  <circle cx="371" cy="99.8" r="34"><title>Petal</title></circle>
+  <circle cx="429" cy="99.8" r="34"><title>Petal</title></circle>
+  <circle cx="400" cy="150" r="38"><title>Middle</title></circle>
+  <polygon points="285,330 515,330 488,515 312,515"><title>Pot</title></polygon>
+  <rect x="262" y="300" width="276" height="50" rx="14"><title>Rim</title></rect>
+  <rect x="150" y="515" width="500" height="32" rx="12"><title>Table</title></rect>
+</svg>

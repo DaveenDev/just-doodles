@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Lollipop</title>
+  <!-- A swirly lollipop with a bow -->
+  <rect x="388" y="370" width="24" height="195" rx="10"><title>Stick</title></rect>
+  <circle cx="400" cy="215" r="160"><title>Lollipop</title></circle>
+  <circle cx="400" cy="215" r="115"><title>Swirl</title></circle>
+  <circle cx="400" cy="215" r="70"><title>Swirl</title></circle>
+  <circle cx="400" cy="215" r="28"><title>Swirl</title></circle>
+  <polygon points="400,410 330,378 330,442"><title>Bow</title></polygon>
+  <polygon points="400,410 470,378 470,442"><title>Bow</title></polygon>
+  <circle cx="400" cy="410" r="17"><title>Bow</title></circle>
+</svg>

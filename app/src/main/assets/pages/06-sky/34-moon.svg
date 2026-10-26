@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Moon</title>
+  <!-- A sleepy moon and stars -->
+  <path d="M 470 70 C 270 95, 175 260, 215 390 C 252 505, 400 565, 535 512 C 410 492, 330 400, 345 290 C 360 180, 420 108, 470 70 Z"><title>Moon</title></path>
+  <path d="M 262 292 Q 284 312 306 292"/>
+  <path d="M 262 372 Q 290 396 318 372"/>
+  <circle cx="250" cy="335" r="14"><title>Cheek</title></circle>
+  <polygon points="600,118 613.8,151.1 649.5,153.9 622.3,177.2 630.6,212.1 600,193.4 569.4,212.1 577.7,177.2 550.5,153.9 586.2,151.1"><title>Star</title></polygon>
+  <polygon points="665,324 674.5,346.9 699.2,348.9 680.4,365 686.2,389.1 665,376.2 643.8,389.1 649.6,365 630.8,348.9 655.5,346.9"><title>Star</title></polygon>
+  <polygon points="150,74 159.5,96.9 184.2,98.9 165.4,115 171.2,139.1 150,126.2 128.8,139.1 134.6,115 115.8,98.9 140.5,96.9"><title>Star</title></polygon>
+  <polygon points="590,448 598.5,468.4 620.4,470.1 603.7,484.4 608.8,505.9 590,494.4 571.2,505.9 576.3,484.4 559.6,470.1 581.5,468.4"><title>Star</title></polygon>
+  <circle cx="700" cy="230" r="9"/>
+  <circle cx="520" cy="250" r="8"/>
+  <circle cx="110" cy="480" r="9"/>
+</svg>

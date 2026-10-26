@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Queen</title>
+  <!-- A smiling queen with a crown -->
+  <polygon points="300,420 500,420 580,580 220,580"><title>Dress</title></polygon>
+  <path d="M 290 300 C 270 380, 280 440, 310 470 L 330 380 Z"><title>Hair</title></path>
+  <path d="M 510 300 C 530 380, 520 440, 490 470 L 470 380 Z"><title>Hair</title></path>
+  <circle cx="400" cy="300" r="112"><title>Face</title></circle>
+  <polygon points="300,208 296,84 346,140 400,62 454,140 504,84 500,208"><title>Crown</title></polygon>
+  <circle cx="400" cy="170" r="16"><title>Jewel</title></circle>
+  <circle cx="340" cy="180" r="11"><title>Jewel</title></circle>
+  <circle cx="460" cy="180" r="11"><title>Jewel</title></circle>
+  <circle cx="362" cy="292" r="16"><title>Eye</title></circle>
+  <circle cx="365" cy="295" r="8"><title>Eye</title></circle>
+  <circle cx="438" cy="292" r="16"><title>Eye</title></circle>
+  <circle cx="441" cy="295" r="8"><title>Eye</title></circle>
+  <circle cx="338" cy="336" r="15"><title>Cheek</title></circle>
+  <circle cx="462" cy="336" r="15"><title>Cheek</title></circle>
+  <path d="M 370 348 Q 400 374 430 348"/>
+</svg>

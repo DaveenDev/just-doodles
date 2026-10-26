@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Android 12+ always shows a system splash on launch. Make it a plain cream screen
+      (no icon) so it hands over seamlessly to our own animated SplashView.
+    -->
+    <style name="Theme.JustDoodles" parent="Base.Theme.JustDoodles">
+        <item name="android:windowSplashScreenBackground">@color/background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_blank</item>
+    </style>
+</resources>

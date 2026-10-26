@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Sandcastle</title>
+  <!-- A sandcastle with flags -->
+  <path d="M 310 540 L 310 220 L 346 220 L 346 246 L 382 246 L 382 220 L 418 220 L 418 246 L 454 246 L 454 220 L 490 220 L 490 540 Z"/>
+  <path d="M 130 540 L 130 330 L 180 330 L 180 356 L 230 356 L 230 330 L 280 330 L 280 540 Z"/>
+  <path d="M 520 540 L 520 330 L 570 330 L 570 356 L 620 356 L 620 330 L 670 330 L 670 540 Z"/>
+  <path d="M 365 540 V 470 Q 365 430 400 430 Q 435 430 435 470 V 540"><title>Door</title></path>
+  <path d="M 175 540 V 470 Q 175 440 205 440 Q 235 440 235 470 V 540"/>
+  <path d="M 565 540 V 470 Q 565 440 595 440 Q 625 440 625 470 V 540"/>
+  <rect x="380" y="300" width="40" height="64" rx="18"><title>Window</title></rect>
+  <line x1="400" y1="220" x2="400" y2="130"/>
+  <polygon points="400,130 470,150 400,172"><title>Flag</title></polygon>
+  <line x1="205" y1="330" x2="205" y2="262"/>
+  <polygon points="205,262 255,278 205,294"><title>Flag</title></polygon>
+  <line x1="595" y1="330" x2="595" y2="262"/>
+  <polygon points="595,262 645,278 595,294"><title>Flag</title></polygon>
+  <rect x="40" y="540" width="720" height="44" rx="20"><title>Sand</title></rect>
+  <circle cx="710" cy="100" r="46"><title>Sun</title></circle>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Seashell</title>
+  <!-- A scallop shell -->
+  <path d="M 400 525 L 82.1 356 Q 54.3 265.9 148.6 267.3 Q 149.6 173 239 203 Q 268.6 113.5 344.6 169.3 Q 400 93 455.4 169.3 Q 531.4 113.5 561 203 Q 650.4 173 651.4 267.3 Q 745.7 265.9 717.9 356 Z"><title>Shell</title></path>
+  <line x1="400" y1="525" x2="148.6" y2="267.3"/>
+  <line x1="400" y1="525" x2="239" y2="203"/>
+  <line x1="400" y1="525" x2="344.6" y2="169.3"/>
+  <line x1="400" y1="525" x2="455.4" y2="169.3"/>
+  <line x1="400" y1="525" x2="561" y2="203"/>
+  <line x1="400" y1="525" x2="651.4" y2="267.3"/>
+  <ellipse cx="400" cy="548" rx="62" ry="26"><title>Base</title></ellipse>
+</svg>

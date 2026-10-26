@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Skateboard</title>
+  <!-- A skateboard with stars on it -->
+  <path d="M 160 300 H 640 Q 700 300 690 260 Q 720 300 690 330 Q 670 352 640 352 H 160 Q 130 352 110 330 Q 80 300 110 260 Q 100 300 160 300 Z"><title>Skateboard</title></path>
+  <polygon points="300,308 304.8,319.4 317.1,320.4 307.7,328.5 310.6,340.6 300,334.1 289.4,340.6 292.3,328.5 282.9,320.4 295.2,319.4"><title>Star</title></polygon>
+  <polygon points="400,308 404.8,319.4 417.1,320.4 407.7,328.5 410.6,340.6 400,334.1 389.4,340.6 392.3,328.5 382.9,320.4 395.2,319.4"><title>Star</title></polygon>
+  <polygon points="500,308 504.8,319.4 517.1,320.4 507.7,328.5 510.6,340.6 500,334.1 489.4,340.6 492.3,328.5 482.9,320.4 495.2,319.4"><title>Star</title></polygon>
+  <rect x="225" y="350" width="60" height="24" rx="6"><title>Truck</title></rect>
+  <rect x="515" y="350" width="60" height="24" rx="6"><title>Truck</title></rect>
+  <circle cx="255" cy="405" r="38"><title>Wheel</title></circle>
+  <circle cx="255" cy="405" r="12"><title>Wheel</title></circle>
+  <circle cx="545" cy="405" r="38"><title>Wheel</title></circle>
+  <circle cx="545" cy="405" r="12"><title>Wheel</title></circle>
+  <rect x="60" y="443" width="680" height="32" rx="12"><title>Road</title></rect>
+</svg>

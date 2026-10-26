@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Turtle</title>
+  <!-- A turtle with a patterned shell -->
+  <rect x="190" y="370" width="420" height="40" rx="20"><title>Shell</title></rect>
+  <path d="M 215 370 C 215 150, 585 150, 585 370"><title>Shell</title></path>
+  <polygon points="458,292 429,342.2 371,342.2 342,292 371,241.8 429,241.8"><title>Shell</title></polygon>
+  <path d="M 458 292 L 566.5 292"/>
+  <path d="M 342 292 L 233.5 292"/>
+  <path d="M 371 241.8 L 352.5 209.7"/>
+  <path d="M 429 241.8 L 447.5 209.7"/>
+  <path d="M 429 342.2 L 439 370"/>
+  <path d="M 371 342.2 L 361 370"/>
+  <path d="M 577.2 318 C 612 312, 630 296, 650 282 C 652 236, 742 226, 748 290 C 752 346, 690 362, 662 350 C 640 360, 624 372, 604.1 375.9"><title>Head</title></path>
+  <circle cx="712" cy="280" r="10"><title>Eye</title></circle>
+  <path d="M 690 318 Q 712 332 732 314"/>
+  <path d="M 240 410 C 235 468, 245 480, 266 480 C 290 480, 296 468, 292 410"><title>Leg</title></path>
+  <path d="M 512 410 C 508 468, 518 480, 539 480 C 563 480, 569 468, 565 410"><title>Leg</title></path>
+  <path d="M 190 390 L 146 404 L 195.9 404.1"><title>Tail</title></path>
+  <path d="M 70 525 Q 90 500 110 525 T 150 525 T 190 525 T 230 525 T 270 525 T 310 525 T 350 525 T 390 525 T 430 525 T 470 525 T 510 525 T 550 525 T 590 525 T 630 525 T 670 525 T 710 525 T 750 525 L 730 580 Q 730 590 720 590 L 80 590 Q 70 590 70 580 Z"><title>Water</title></path>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Crayons</title>
+  <!-- A box of crayons -->
+  <polygon points="85,250 175,250 130,172"><title>Tip</title></polygon>
+  <rect x="85" y="250" width="90" height="290" rx="6"><title>Crayon</title></rect>
+  <line x1="85" y1="320" x2="175" y2="320"/>
+  <line x1="85" y1="460" x2="175" y2="460"/>
+  <polygon points="190,215 280,215 235,137"><title>Tip</title></polygon>
+  <rect x="190" y="215" width="90" height="325" rx="6"><title>Crayon</title></rect>
+  <line x1="190" y1="285" x2="280" y2="285"/>
+  <line x1="190" y1="460" x2="280" y2="460"/>
+  <polygon points="295,262 385,262 340,184"><title>Tip</title></polygon>
+  <rect x="295" y="262" width="90" height="278" rx="6"><title>Crayon</title></rect>
+  <line x1="295" y1="332" x2="385" y2="332"/>
+  <line x1="295" y1="460" x2="385" y2="460"/>
+  <polygon points="400,228 490,228 445,150"><title>Tip</title></polygon>
+  <rect x="400" y="228" width="90" height="312" rx="6"><title>Crayon</title></rect>
+  <line x1="400" y1="298" x2="490" y2="298"/>
+  <line x1="400" y1="460" x2="490" y2="460"/>
+  <polygon points="505,255 595,255 550,177"><title>Tip</title></polygon>
+  <rect x="505" y="255" width="90" height="285" rx="6"><title>Crayon</title></rect>
+  <line x1="505" y1="325" x2="595" y2="325"/>
+  <line x1="505" y1="460" x2="595" y2="460"/>
+  <polygon points="610,238 700,238 655,160"><title>Tip</title></polygon>
+  <rect x="610" y="238" width="90" height="302" rx="6"><title>Crayon</title></rect>
+  <line x1="610" y1="308" x2="700" y2="308"/>
+  <line x1="610" y1="460" x2="700" y2="460"/>
+  <rect x="40" y="540" width="720" height="30" rx="14"><title>Floor</title></rect>
+</svg>

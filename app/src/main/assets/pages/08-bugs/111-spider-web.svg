@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Spider web</title>
+  <!-- A spider web -->
+  <polygon points="400,40 583.8,116.2 660,300 583.8,483.8 400,560 216.2,483.8 140,300 216.2,116.2"><title>Web</title></polygon>
+  <polygon points="400,120 527.3,172.7 580,300 527.3,427.3 400,480 272.7,427.3 220,300 272.7,172.7"><title>Web</title></polygon>
+  <polygon points="400,200 470.7,229.3 500,300 470.7,370.7 400,400 329.3,370.7 300,300 329.3,229.3"><title>Web</title></polygon>
+  <line x1="400" y1="266" x2="400" y2="40"/>
+  <line x1="424" y1="276" x2="583.8" y2="116.2"/>
+  <line x1="434" y1="300" x2="660" y2="300"/>
+  <line x1="424" y1="324" x2="583.8" y2="483.8"/>
+  <line x1="400" y1="334" x2="400" y2="560"/>
+  <line x1="376" y1="324" x2="216.2" y2="483.8"/>
+  <line x1="366" y1="300" x2="140" y2="300"/>
+  <line x1="376" y1="276" x2="216.2" y2="116.2"/>
+  <circle cx="400" cy="300" r="34"><title>Spider</title></circle>
+  <circle cx="387" cy="292" r="8"><title>Eye</title></circle>
+  <circle cx="388.2" cy="293.2" r="4"><title>Eye</title></circle>
+  <circle cx="413" cy="292" r="8"><title>Eye</title></circle>
+  <circle cx="414.2" cy="293.2" r="4"><title>Eye</title></circle>
+  <line x1="400" y1="40" x2="400" y2="20"/>
+  <line x1="80" y1="300" x2="140" y2="300"/>
+</svg>

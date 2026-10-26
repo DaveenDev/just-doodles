@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Rubber duck</title>
+  <!-- A rubber duck floating in the bath -->
+  <path d="M 40 470 Q 91.4 458 142.9 470 Q 194.3 482 245.7 470 Q 297.1 458 348.6 470 Q 400 482 451.4 470 Q 502.9 458 554.3 470 Q 605.7 482 657.1 470 Q 708.6 458 760 470 V 575 H 40 Z"><title>Water</title></path>
+  <path d="M 180 298 C 190 284.3, 225.3 342.7, 262 350 C 298.7 357.3, 350.3 346.7, 400 342 C 449.7 337.3, 519.7 315.3, 560 322 C 600.3 328.7, 635 357, 642 382 C 649 407, 633.7 452, 602 472 C 570.3 492, 505.3 498.7, 452 502 C 398.7 505.3, 323.7 503.7, 282 492 C 240.3 480.3, 219 464.3, 202 432 C 185 399.7, 170 311.7, 180 298 Z"><title>Rubber duck</title></path>
+  <circle cx="480" cy="230" r="105"><title>Head</title></circle>
+  <path d="M 570 228 Q 650 218 672 250 Q 642 287 575 270 Z"><title>Beak</title></path>
+  <circle cx="500" cy="200" r="16"><title>Eye</title></circle>
+  <circle cx="502.4" cy="202.4" r="8"><title>Eye</title></circle>
+  <circle cx="515" cy="265" r="14"><title>Cheek</title></circle>
+  <path d="M 330 382 C 348.3 372, 426.7 367, 452 372 C 477.3 377, 487 398.7, 482 412 C 477 425.3, 445.3 448.7, 422 452 C 398.7 455.3, 357.3 443.7, 342 432 C 326.7 420.3, 311.7 392, 330 382 Z"><title>Wing</title></path>
+  <circle cx="140" cy="160" r="22"><title>Bubble</title></circle>
+  <circle cx="180" cy="110" r="14"><title>Bubble</title></circle>
+  <circle cx="680" cy="120" r="18"><title>Bubble</title></circle>
+</svg>

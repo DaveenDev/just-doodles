@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Arch</title>
+  <!-- An arch with a smile -->
+  <path d="M 180 480 V 300 C 180 180, 300 90, 400 90 C 500 90, 620 180, 620 300 V 480 H 500 V 310 C 500 250, 450 210, 400 210 C 350 210, 300 250, 300 310 V 480 Z"><title>Arch</title></path>
+  <circle cx="365" cy="140" r="16"><title>Eye</title></circle>
+  <circle cx="367.4" cy="142.4" r="8"><title>Eye</title></circle>
+  <circle cx="435" cy="140" r="16"><title>Eye</title></circle>
+  <circle cx="437.4" cy="142.4" r="8"><title>Eye</title></circle>
+  <path d="M 378 172 Q 400 186 422 172"/>
+  <path d="M 197 568.5 V 541.5 C 197 523.5, 215 510, 230 510 C 245 510, 263 523.5, 263 541.5 V 568.5 H 245 V 543 C 245 534, 237.5 528, 230 528 C 222.5 528, 215 534, 215 543 V 568.5 Z"><title>Arch</title></path>
+  <path d="M 367 568.5 V 541.5 C 367 523.5, 385 510, 400 510 C 415 510, 433 523.5, 433 541.5 V 568.5 H 415 V 543 C 415 534, 407.5 528, 400 528 C 392.5 528, 385 534, 385 543 V 568.5 Z"><title>Arch</title></path>
+  <path d="M 537 568.5 V 541.5 C 537 523.5, 555 510, 570 510 C 585 510, 603 523.5, 603 541.5 V 568.5 H 585 V 543 C 585 534, 577.5 528, 570 528 C 562.5 528, 555 534, 555 543 V 568.5 Z"><title>Arch</title></path>
+</svg>

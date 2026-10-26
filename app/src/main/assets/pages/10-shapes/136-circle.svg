@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Circle</title>
+  <!-- A circle with a smile -->
+  <circle cx="400" cy="290" r="200"><title>Circle</title></circle>
+  <circle cx="352.3" cy="255" r="22"><title>Eye</title></circle>
+  <circle cx="355.6" cy="258.3" r="11"><title>Eye</title></circle>
+  <circle cx="447.7" cy="255" r="22"><title>Eye</title></circle>
+  <circle cx="451" cy="258.3" r="11"><title>Eye</title></circle>
+  <path d="M 340 348 Q 400 400 460 348"/>
+  <circle cx="310.1" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="489.9" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="230" cy="540" r="26"><title>Circle</title></circle>
+  <circle cx="400" cy="540" r="26"><title>Circle</title></circle>
+  <circle cx="570" cy="540" r="26"><title>Circle</title></circle>
+</svg>

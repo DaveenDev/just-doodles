@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Orange</title>
+  <!-- An orange and a slice -->
+  <circle cx="250" cy="350" r="160"><title>Orange</title></circle>
+  <path d="M 250 192 C 250 192, 279.2 147.3, 300 140 C 320.8 132.7, 375 148, 375 148 C 375 148, 354.8 196.7, 334 204 C 313.2 211.3, 250 192, 250 192 Z"><title>Leaf</title></path>
+  <circle cx="250" cy="205" r="9"><title>Dimple</title></circle>
+  <ellipse cx="190" cy="310" rx="22" ry="46"><title>Shine</title></ellipse>
+  <circle cx="590" cy="340" r="135"><title>Rind</title></circle>
+  <circle cx="590" cy="340" r="100"><title>Orange</title></circle>
+  <circle cx="590" cy="340" r="14"><title>Middle</title></circle>
+  <line x1="602.9" y1="345.4" x2="682.4" y2="378.3"/>
+  <line x1="595.4" y1="352.9" x2="628.3" y2="432.4"/>
+  <line x1="584.6" y1="352.9" x2="551.7" y2="432.4"/>
+  <line x1="577.1" y1="345.4" x2="497.6" y2="378.3"/>
+  <line x1="577.1" y1="334.6" x2="497.6" y2="301.7"/>
+  <line x1="584.6" y1="327.1" x2="551.7" y2="247.6"/>
+  <line x1="595.4" y1="327.1" x2="628.3" y2="247.6"/>
+  <line x1="602.9" y1="334.6" x2="682.4" y2="301.7"/>
+</svg>

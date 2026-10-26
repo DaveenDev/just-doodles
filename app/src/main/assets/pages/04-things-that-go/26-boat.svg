@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Boat</title>
+  <!-- A sailboat on the sea -->
+  <polygon points="150,400 650,400 585,500 215,500"><title>Boat</title></polygon>
+  <line x1="400" y1="60" x2="400" y2="400"/>
+  <polygon points="400,60 470,80 400,100"><title>Flag</title></polygon>
+  <polygon points="400,120 400,375 200,375"><title>Sail</title></polygon>
+  <polygon points="400,150 400,375 572,375"><title>Sail</title></polygon>
+  <path d="M 169.5 430 H 630.5"/>
+  <circle cx="300" cy="466" r="16"><title>Window</title></circle>
+  <circle cx="400" cy="466" r="16"><title>Window</title></circle>
+  <circle cx="500" cy="466" r="16"><title>Window</title></circle>
+  <circle cx="120" cy="120" r="45"><title>Sun</title></circle>
+  <path d="M 600 130 Q 615 112 630 130 Q 645 112 660 130"/>
+  <path d="M 70 530 Q 90 505 110 530 T 150 530 T 190 530 T 230 530 T 270 530 T 310 530 T 350 530 T 390 530 T 430 530 T 470 530 T 510 530 T 550 530 T 590 530 T 630 530 T 670 530 T 710 530 T 750 530 L 730 580 Q 730 590 720 590 L 80 590 Q 70 590 70 580 Z"><title>Water</title></path>
+</svg>

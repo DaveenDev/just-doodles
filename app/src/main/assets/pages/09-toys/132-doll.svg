@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Doll</title>
+  <!-- A doll -->
+  <circle cx="400" cy="150" r="80"><title>Head</title></circle>
+  <path d="M 320.1 154.8 C 319.1 153.4, 315.7 149.4, 313.9 146.5 C 312.2 143.7, 310.7 140.7, 309.5 137.7 C 308.3 134.7, 307.4 131.7, 306.8 128.6 C 306.2 125.5, 306 122.4, 306 119.3 C 306.1 116.1, 306.4 113, 307.1 109.9 C 307.8 106.9, 308.8 103.8, 310.1 100.8 C 311.3 97.8, 312.9 94.9, 314.8 92.1 C 316.7 89.3, 318.9 86.5, 321.3 83.9 C 323.7 81.3, 326.4 78.8, 329.3 76.5 C 332.3 74.1, 335.4 71.9, 338.8 69.9 C 342.2 67.9, 345.8 66, 349.5 64.3 C 353.2 62.7, 357.2 61.2, 361.2 59.9 C 365.2 58.6, 369.5 57.5, 373.7 56.6 C 378 55.8, 382.3 55.1, 386.7 54.7 C 391.1 54.2, 395.6 54, 400 54 C 404.4 54, 408.9 54.2, 413.3 54.7 C 417.7 55.1, 422 55.8, 426.3 56.6 C 430.5 57.5, 434.8 58.6, 438.8 59.9 C 442.8 61.2, 446.8 62.7, 450.5 64.3 C 454.2 66, 457.8 67.9, 461.2 69.9 C 464.6 71.9, 467.7 74.1, 470.7 76.5 C 473.6 78.8, 476.3 81.3, 478.7 83.9 C 481.1 86.5, 483.3 89.3, 485.2 92.1 C 487.1 94.9, 488.7 97.8, 489.9 100.8 C 491.2 103.8, 492.2 106.9, 492.9 109.9 C 493.6 113, 493.9 116.1, 494 119.3 C 494 122.4, 493.8 125.5, 493.2 128.6 C 492.6 131.7, 491.7 134.7, 490.5 137.7 C 489.3 140.7, 487.8 143.7, 486.1 146.5 C 484.3 149.4, 480.9 153.4, 479.9 154.8"><title>Hair</title></path>
+  <circle cx="272" cy="168" r="44"><title>Hair</title></circle>
+  <circle cx="528" cy="168" r="44"><title>Hair</title></circle>
+  <circle cx="368" cy="154" r="13"><title>Eye</title></circle>
+  <circle cx="370" cy="156" r="6.5"><title>Eye</title></circle>
+  <circle cx="432" cy="154" r="13"><title>Eye</title></circle>
+  <circle cx="434" cy="156" r="6.5"><title>Eye</title></circle>
+  <circle cx="352" cy="188" r="12"><title>Cheek</title></circle>
+  <circle cx="448" cy="188" r="12"><title>Cheek</title></circle>
+  <path d="M 382 186 Q 400 202 418 186"/>
+  <polygon points="342,232 458,232 540,470 260,470"><title>Dress</title></polygon>
+  <polygon points="400,304 409.5,326.9 434.2,328.9 415.4,345 421.2,369.1 400,356.2 378.8,369.1 384.6,345 365.8,328.9 390.5,326.9"><title>Star</title></polygon>
+  <path d="M 344 244 C 335.3 256.3, 304.3 295.3, 292 318 C 279.7 340.7, 273.7 369.7, 270 380"><title>Arm</title></path>
+  <circle cx="268" cy="394" r="17"><title>Hand</title></circle>
+  <path d="M 456 244 C 464.7 256.3, 495.7 295.3, 508 318 C 520.3 340.7, 526.3 369.7, 530 380"><title>Arm</title></path>
+  <circle cx="532" cy="394" r="17"><title>Hand</title></circle>
+  <rect x="340" y="470" width="40" height="86" rx="14"><title>Leg</title></rect>
+  <rect x="420" y="470" width="40" height="86" rx="14"><title>Leg</title></rect>
+  <ellipse cx="352" cy="566" rx="42" ry="17"><title>Shoe</title></ellipse>
+  <ellipse cx="448" cy="566" rx="42" ry="17"><title>Shoe</title></ellipse>
+</svg>

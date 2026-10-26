@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Birthday cake</title>
+  <!-- A birthday cake with three candles -->
+  <ellipse cx="400" cy="520" rx="285" ry="36"><title>Plate</title></ellipse>
+  <rect x="170" y="360" width="460" height="150" rx="20"><title>Cake</title></rect>
+  <rect x="250" y="240" width="300" height="125" rx="18"><title>Cake</title></rect>
+  <path d="M 170 380 V 372 Q 170 360 190 360 H 610 Q 630 360 630 372 V 380 Q 592 420 553.3 380 Q 515.3 440 476.6 380 Q 438.6 420 399.9 380 Q 361.9 440 323.2 380 Q 285.2 420 246.5 380 Q 208.5 440 169.8 380 Z"><title>Icing</title></path>
+  <path d="M 250 262 V 254 Q 250 240 268 240 H 532 Q 550 240 550 254 V 262 Q 512.5 300 475 262 Q 437.5 315 400 262 Q 362.5 300 325 262 Q 287.5 315 250 262 Z"><title>Icing</title></path>
+  <rect x="300" y="160" width="26" height="82" rx="6"><title>Candle</title></rect>
+  <rect x="387" y="160" width="26" height="82" rx="6"><title>Candle</title></rect>
+  <rect x="474" y="160" width="26" height="82" rx="6"><title>Candle</title></rect>
+  <path d="M 313 100 C 318.1 114, 330 128.8, 330 139 C 330 151.8, 322.4 156, 313 156 C 303.7 156, 296 151.8, 296 139 C 296 128.8, 307.9 114, 313 100 Z"><title>Flame</title></path>
+  <path d="M 400 100 C 405.1 114, 417 128.8, 417 139 C 417 151.8, 409.4 156, 400 156 C 390.7 156, 383 151.8, 383 139 C 383 128.8, 394.9 114, 400 100 Z"><title>Flame</title></path>
+  <path d="M 487 100 C 492.1 114, 504 128.8, 504 139 C 504 151.8, 496.4 156, 487 156 C 477.7 156, 470 151.8, 470 139 C 470 128.8, 481.9 114, 487 100 Z"><title>Flame</title></path>
+  <circle cx="230" cy="470" r="10"><title>Sprinkle</title></circle>
+  <circle cx="320" cy="455" r="10"><title>Sprinkle</title></circle>
+  <circle cx="420" cy="475" r="10"><title>Sprinkle</title></circle>
+  <circle cx="520" cy="455" r="10"><title>Sprinkle</title></circle>
+  <circle cx="585" cy="475" r="10"><title>Sprinkle</title></circle>
+  <circle cx="300" cy="335" r="10"><title>Sprinkle</title></circle>
+  <circle cx="500" cy="335" r="10"><title>Sprinkle</title></circle>
+</svg>

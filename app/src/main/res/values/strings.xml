@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Doodles</string>
+
+    <!--
+      Words the app says out loud. To add a language, copy this file to values-xx/strings.xml
+      (xx = language code), translate the words, and set voice_locale to the same code.
+    -->
+    <string name="voice_locale" translatable="false">en</string>
+
+    <!-- In the same order as Palette.colors -->
+    <string-array name="color_names">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Light green</item>
+        <item>Green</item>
+        <item>Sky blue</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Brown</item>
+        <item>Peach</item>
+        <item>Black</item>
+    </string-array>
+
+    <string name="say_crayon">Crayon</string>
+    <string name="say_rainbow">Rainbow</string>
+    <string name="say_glitter">Glitter</string>
+    <string name="say_glow">Glow</string>
+    <string name="say_mirror">Mirror</string>
+    <string name="say_eraser">Eraser</string>
+    <string name="say_small">Small</string>
+    <string name="say_medium">Medium</string>
+    <string name="say_big">Big</string>
+
+    <!-- In the same order as StampKind -->
+    <string-array name="stamp_names">
+        <item>Star</item>
+        <item>Heart</item>
+        <item>Flower</item>
+        <item>Duck</item>
+        <item>Cat</item>
+        <item>Fish</item>
+        <item>Car</item>
+        <item>Sun</item>
+    </string-array>
+
+    <string name="say_patterns">Patterns</string>
+    <string name="say_stickers">Stickers</string>
+
+    <!-- In the same order as Pattern -->
+    <string-array name="pattern_names">
+        <item>Dots</item>
+        <item>Zigzag</item>
+        <item>Waves</item>
+        <item>Train tracks</item>
+        <item>Hearts</item>
+        <item>Stars</item>
+        <item>Flowers</item>
+        <item>Paw prints</item>
+    </string-array>
+
+    <!-- In the same order as Sticker -->
+    <string-array name="sticker_names">
+        <item>Sun</item>
+        <item>Cloud</item>
+        <item>Rainbow</item>
+        <item>Tree</item>
+        <item>Flower</item>
+        <item>House</item>
+        <item>Car</item>
+        <item>Fish</item>
+        <item>Cat</item>
+        <item>Duck</item>
+        <item>Butterfly</item>
+        <item>Balloon</item>
+    </string-array>
+
+    <!-- The start menu. The labels sit under big pictures, so little ones don't need to read them. -->
+    <string name="menu_free_draw">Free Draw</string>
+    <string name="menu_color">Color</string>
+    <string name="say_free_draw">Free draw</string>
+    <string name="say_coloring">Coloring</string>
+    <string name="say_back">Back</string>
+    <!-- For screen readers: the X at the top left of the start menu. -->
+    <string name="menu_exit">Close Just Doodles (hold for 2 seconds)</string>
+
+    <!-- The Play card and its games. Labels sit under big pictures; the say_ words are spoken. -->
+    <string name="menu_play">Play</string>
+    <string name="say_play">Let\'s play</string>
+    <string name="game_peekaboo">Peekaboo</string>
+    <string name="game_find_it">Where is it?</string>
+    <string name="game_xylophone">Xylophone</string>
+    <string name="game_color_sort">Colors</string>
+    <string name="game_feed">Feed me</string>
+    <string name="game_trace">Roads</string>
+    <string name="game_bubbles">Bubble pop</string>
+    <string name="game_memory">Memory</string>
+    <string name="game_shape_sort">Shapes</string>
+    <string name="game_jigsaw">Jigsaw</string>
+    <string name="say_game_peekaboo">Peekaboo</string>
+    <string name="say_game_find_it">Where is it?</string>
+    <string name="say_game_xylophone">Xylophone</string>
+    <string name="say_game_color_sort">Sort the colors</string>
+    <string name="say_game_feed">Feed the animals</string>
+    <string name="say_game_trace">Follow the road</string>
+    <string name="say_game_bubbles">Pop the bubbles</string>
+    <string name="say_game_memory">Find the pairs</string>
+    <string name="say_game_shape_sort">Sort the shapes</string>
+    <string name="say_game_jigsaw">Make the picture</string>
+    <!-- Shape sorter: the names said when a piece is picked up or dropped in. -->
+    <string-array name="sort_shape_names">
+        <item>Circle</item>
+        <item>Square</item>
+        <item>Triangle</item>
+        <item>Star</item>
+        <item>Heart</item>
+    </string-array>
+
+    <!-- %1$s is a picture's name, such as "Cow" -->
+    <string name="say_peekaboo">Peekaboo! %1$s!</string>
+    <string name="say_where_is">Where\'s the %1$s?</string>
+    <string name="say_thats_the">That\'s the %1$s!</string>
+
+    <string name="say_yum">Yum!</string>
+    <string name="say_all_gone">All gone!</string>
+
+    <!-- In the same order as Food in Critters.kt -->
+    <string-array name="food_names">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Carrot</item>
+        <item>Cookie</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+    </string-array>
+
+    <!-- What each hungry animal says when it arrives, in the same order as Critter in Critters.kt -->
+    <string-array name="critter_sounds">
+        <item>Ribbit! I\'m hungry!</item>
+        <item>Woof woof! I\'m hungry!</item>
+        <item>Meow! I\'m hungry!</item>
+        <item>Oink oink! I\'m hungry!</item>
+    </string-array>
+
+    <!-- The Learn card and its topics. Labels sit under big pictures; the say_ words are spoken. -->
+    <string name="menu_learn">Learn</string>
+    <string name="say_learn">Let\'s learn</string>
+    <string name="lesson_colors">Colors</string>
+    <string name="lesson_shapes">Shapes</string>
+    <string name="lesson_count">Counting</string>
+    <string name="lesson_animals">Animal sounds</string>
+    <string name="lesson_abc">ABC</string>
+    <string name="lesson_body">My body</string>
+    <string name="lesson_food">Food</string>
+    <string name="lesson_sea">Sea animals</string>
+    <string name="lesson_bugs">Bugs</string>
+    <string name="lesson_sky">Sky</string>
+    <string name="say_lesson_colors">Colors</string>
+    <string name="say_lesson_shapes">Shapes</string>
+    <string name="say_lesson_count">Let\'s count</string>
+    <string name="say_lesson_animals">Animal sounds</string>
+    <string name="say_lesson_abc">A B C</string>
+    <string name="say_lesson_body">My body</string>
+    <string name="say_lesson_food">Yummy food</string>
+    <string name="say_lesson_sea">Under the sea</string>
+    <string name="say_lesson_bugs">Little bugs</string>
+    <string name="say_lesson_sky">Up in the sky</string>
+    <string name="learn_previous">Previous</string>
+    <string name="learn_next">Next</string>
+
+    <!-- %1$s is a color name, such as "Red" -->
+    <string name="say_where_color">Where\'s %1$s?</string>
+    <string name="say_thats_color">That\'s %1$s!</string>
+    <!-- %1$s is a number word and %2$s a thing to count, such as "Three" and "ducks" -->
+    <string name="say_where_count">Where are %1$s %2$s?</string>
+    <!-- %1$s is one thing to count, such as "sun" -->
+    <string name="say_where_one">Where\'s one %1$s?</string>
+    <string name="say_count_total">%1$s %2$s!</string>
+    <!-- %1$s is a letter, %2$s a word that starts with it -->
+    <string name="say_is_for">%1$s is for %2$s!</string>
+    <string name="say_where_letter">Where\'s the letter %1$s?</string>
+    <string name="say_thats_letter">That\'s %1$s!</string>
+    <!-- %1$s is an animal, %2$s the sound it makes -->
+    <string name="say_animal_says">The %1$s says %2$s!</string>
+    <string name="say_who_says">Who says %1$s?</string>
+    <!-- %1$s is a part of the body -->
+    <string name="say_where_your">Where\'s the %1$s?</string>
+
+    <string-array name="number_words">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+
+    <!--
+      Things to count, one for each number from 1 to 10, as "sticker=one|many".
+      The sticker is a name from Sticker in Stickers.kt.
+    -->
+    <string-array name="count_things">
+        <item>SUN=sun|suns</item>
+        <item>DUCK=duck|ducks</item>
+        <item>FISH=fish|fish</item>
+        <item>FLOWER=flower|flowers</item>
+        <item>CAT=cat|cats</item>
+        <item>BALLOON=balloon|balloons</item>
+        <item>CAR=car|cars</item>
+        <item>BUTTERFLY=butterfly|butterflies</item>
+        <item>TREE=tree|trees</item>
+        <item>CLOUD=cloud|clouds</item>
+    </string-array>
+
+    <!-- A coloring page's title, and the sound that animal makes -->
+    <string-array name="animal_sounds">
+        <item>Cow=Moo</item>
+        <item>Dog=Woof woof</item>
+        <item>Cat=Meow</item>
+        <item>Duck=Quack quack</item>
+        <item>Pig=Oink oink</item>
+        <item>Sheep=Baa</item>
+        <item>Horse=Neigh</item>
+        <item>Hen=Cluck cluck</item>
+        <item>Chick=Cheep cheep</item>
+        <item>Goat=Maa</item>
+        <item>Lion=Roar</item>
+        <item>Monkey=Ooh ooh, ah ah</item>
+        <item>Owl=Hoo hoo</item>
+        <item>Frog=Ribbit</item>
+        <item>Elephant=Toot</item>
+        <item>Bear=Grr</item>
+        <item>Bee=Buzz</item>
+    </string-array>
+
+    <!-- Each letter and a word for it: the title of a coloring page (or a page in assets/learn) -->
+    <string-array name="abc_words">
+        <item>A=Apple</item>
+        <item>B=Bus</item>
+        <item>C=Cat</item>
+        <item>D=Dog</item>
+        <item>E=Elephant</item>
+        <item>F=Fish</item>
+        <item>G=Giraffe</item>
+        <item>H=House</item>
+        <item>I=Ice cream</item>
+        <item>J=Jellyfish</item>
+        <item>K=Kite</item>
+        <item>L=Lion</item>
+        <item>M=Moon</item>
+        <item>N=Nest</item>
+        <item>O=Octopus</item>
+        <item>P=Pig</item>
+        <item>Q=Queen</item>
+        <item>R=Rocket</item>
+        <item>S=Sun</item>
+        <item>T=Turtle</item>
+        <item>U=Umbrella</item>
+        <item>V=Van</item>
+        <item>W=Whale</item>
+        <item>X=Xylophone</item>
+        <item>Y=Yo-yo</item>
+        <item>Z=Zebra</item>
+    </string-array>
+
+    <string name="say_white_paper">White paper</string>
+    <string name="say_black_paper">Black paper</string>
+    <string name="say_goodnight">Good night</string>
+    <!-- Said when a grown-up tries a voice in the settings. -->
+    <string name="say_voice_sample">Hi! Let\'s draw! Red! Great job!</string>
+
+    <string-array name="cheers">
+        <item>Hooray!</item>
+        <item>Beautiful!</item>
+        <item>Great job!</item>
+        <item>Wow!</item>
+    </string-array>
+
+    <!-- Said when a child taps something that needs PLUS. Never mention buying or name a parent here, in any language. -->
+    <string name="locked_say">Ooh, that one\'s locked! Ask a grown-up.</string>
+    <!-- For screen readers: the gray button on the locked card. -->
+    <string name="locked_grownup">For grown-ups: hold to see PLUS</string>
+    <!-- For screen readers: the big padlock on the locked card. -->
+    <string name="locked_hold_lock">Locked. For grown-ups: hold the lock to see PLUS</string>
+    <!-- For screen readers: a picture that needs PLUS. -->
+    <string name="locked_name">%1$s, locked</string>
+
+    <!-- Grown-up settings -->
+    <string name="parent_title">For grown-ups</string>
+    <string name="parent_about">Just Doodles has no ads, no in-app purchases and no internet access, and it collects nothing. Made by DaveenDev.</string>
+    <string name="parent_sounds">Sounds</string>
+    <string name="parent_sounds_detail">Gentle notes, pops and crayon sounds.</string>
+    <string name="parent_voice">Say the names</string>
+    <string name="parent_voice_detail">Says colors and tools out loud when they\'re tapped.</string>
+    <string name="parent_voice_pick">Voice</string>
+    <string name="parent_voice_pick_detail">Which of this phone\'s voices says the names. Tap the arrows to hear each one. Only voices that work without the internet are used, so nothing leaves the phone. More voices opens Android\'s speech settings, where you can download more.</string>
+    <string name="parent_voice_auto">Automatic</string>
+    <string name="parent_voice_auto_now">Automatic: the clearest of %1$d voices (%2$s)</string>
+    <string name="parent_voice_now">Voice %1$d of %2$d (%3$s)</string>
+    <string name="parent_voice_none">This phone has no voice that works without the internet yet. Tap More voices to download one.</string>
+    <string name="parent_voice_more">More voices</string>
+    <string name="parent_baby">Baby mode (ages 1–2)</string>
+    <string name="parent_baby_detail">No buttons: every touch makes colors, shapes and music. To leave, hold the gear in the corner.</string>
+    <string name="parent_bedtime">Bedtime timer</string>
+    <string name="parent_bedtime_detail">When time is up, the picture fades under a sleepy moon with a lullaby, and drawing stops. To start again, hold the gear for 2 seconds.</string>
+    <string name="parent_bedtime_off">Off</string>
+    <string name="parent_bedtime_minutes">%1$d min</string>
+    <string name="parent_bedtime_left">Bedtime in %1$d min</string>
+    <string name="parent_pin">Pin the app</string>
+    <string name="parent_pin_detail">Keeps the phone in Just Doodles until you unpin it. Android asks you to confirm. To unpin, hold Back and Recent apps together (with gesture navigation, swipe up and hold), or tap Unpin here.</string>
+    <string name="parent_pin_button">Pin</string>
+    <string name="parent_unpin_button">Unpin</string>
+    <string name="parent_done">Done</string>
+    <string name="parent_gear">Grown-up settings (hold for 2 seconds)</string>
+    <string name="parent_drawings">Drawings: save, share or delete</string>
+    <string name="parent_support">♥  Support the developer</string>
+
+    <!-- Drawings page -->
+    <string name="drawings_title">Drawings</string>
+    <string name="drawings_about">Drawings stay on this phone unless you save or share them. Tap one to see what you can do with it. Up to %1$d drawings on blank paper are kept; after that there is no fresh paper until you delete some.</string>
+    <string name="drawings_none">Nothing has been drawn yet.</string>
+    <string name="drawings_save">Save to phone</string>
+    <string name="drawings_share">Share</string>
+    <!-- PLUS, the one-time upgrade (Play build only). Only grown-ups see these, behind the gear and a sum. -->
+    <string name="plus_pill">⭐  Just Doodles PLUS</string>
+    <string name="plus_pill_on">⭐  PLUS is on. Thank you!</string>
+    <string name="plus_title">Just Doodles PLUS</string>
+    <string name="plus_intro">One payment, yours to keep. No subscription, no ads, ever.</string>
+    <string-array name="plus_features">
+        <item>All 210 coloring pages (140 more)</item>
+        <item>7 more games and 7 more Learn topics</item>
+        <item>Magic crayon: rainbow, glitter, glow and mirror</item>
+        <item>Stamps, stickers and pattern crayons</item>
+        <item>Save drawings to the phone, and share them</item>
+        <item>New pictures and tools in future updates, at no extra cost</item>
+    </string-array>
+    <string name="plus_buy">Get PLUS · %1$s</string>
+    <string name="plus_loading">Loading price…</string>
+    <string name="plus_restore">Restore purchase</string>
+    <string name="plus_note">Paid through Google Play. Future updates are included.</string>
+    <string name="plus_on">PLUS is on. Thank you!</string>
+    <string name="plus_restored">PLUS is back on!</string>
+    <string name="plus_pending">Waiting for payment. PLUS turns on as soon as it goes through.</string>
+    <string name="plus_not_found">No PLUS purchase found for the Google account signed in to the Play Store.</string>
+    <string name="plus_no_connection">Couldn\'t reach Google Play. Check the phone\'s internet and try again.</string>
+    <string name="plus_not_available">Google Play purchases aren\'t available on this phone or account.</string>
+    <string name="plus_failed">Google Play couldn\'t finish that. Please try again later.</string>
+
+    <!-- Save or Share without PLUS: "Save to phone ⭐ PLUS". -->
+    <string name="drawings_plus">%1$s ⭐ PLUS</string>
+    <string name="drawings_plus_note">Saving and sharing come with Just Doodles PLUS. Every drawing is always kept in the app.</string>
+    <string name="drawings_delete">Delete</string>
+    <string name="drawings_delete_confirm">Tap again to delete</string>
+    <string name="drawings_saved">Drawing saved</string>
+    <string name="drawings_failed">Couldn\'t save the drawing</string>
+    <string name="drawings_untitled">Drawing</string>
+
+    <!-- Grown-up check before the donate page: a sum a toddler can't answer -->
+    <string name="check_title">Quick grown-up check</string>
+    <string name="check_question">What is %1$d + %2$d?</string>
+    <string name="check_back">Back</string>
+
+    <!-- Donate page -->
+    <string name="donate_title">Support the developer</string>
+    <string name="donate_message">Just Doodles is free and always will be: no ads, no payments, nothing to unlock. If your little one loves it and you\'d like to help me keep making ad-free apps for children, a small donation goes a long way. Thank you!</string>
+    <string name="donate_paypal">PayPal</string>
+    <string name="donate_bmc">Buy Me a Coffee</string>
+    <string name="donate_wallet">GCash / Maya: %1$s (tap to copy)</string>
+    <string name="donate_wallet_copied">Copied %1$s</string>
+    <string name="donate_note">Links open in your web browser.</string>
+
+    <!--
+      Where donations go. Leave a value empty to hide that option.
+      donate_wallet_number is the GCash / Maya mobile number, shown and copied as written.
+    -->
+    <string name="donate_paypal_url" translatable="false">https://paypal.me/daveruben</string>
+    <string name="donate_bmc_url" translatable="false">https://buymeacoffee.com/daveendev07</string>
+    <string name="donate_wallet_number" translatable="false">09458396033</string>
+</resources>

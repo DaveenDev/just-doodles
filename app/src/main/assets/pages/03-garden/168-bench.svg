@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bench</title>
+  <!-- A garden bench with a bird on it -->
+  <rect x="200" y="175" width="26" height="165" rx="8"><title>Post</title></rect>
+  <rect x="574" y="175" width="26" height="165" rx="8"><title>Post</title></rect>
+  <rect x="170" y="195" width="460" height="46" rx="12"><title>Backrest</title></rect>
+  <rect x="170" y="258" width="460" height="46" rx="12"><title>Backrest</title></rect>
+  <rect x="150" y="330" width="500" height="50" rx="14"><title>Seat</title></rect>
+  <rect x="190" y="375" width="30" height="140" rx="8"><title>Leg</title></rect>
+  <rect x="580" y="375" width="30" height="140" rx="8"><title>Leg</title></rect>
+  <path d="M 440 330 C 432.5 323.3, 445.8 298.3, 455 290 C 464.2 281.7, 484.2 278.3, 495 280 C 505.8 281.7, 512.5 298.3, 520 300 C 527.5 301.7, 538.3 286.7, 540 290 C 541.7 293.3, 536.7 313.3, 530 320 C 523.3 326.7, 515 328.3, 500 330 C 485 331.7, 447.5 336.7, 440 330 Z"><title>Bird</title></path>
+  <circle cx="470" cy="268" r="22"><title>Bird</title></circle>
+  <polygon points="450,262 428,270 450,276"><title>Beak</title></polygon>
+  <rect x="80" y="510" width="640" height="30" rx="12"><title>Ground</title></rect>
+</svg>

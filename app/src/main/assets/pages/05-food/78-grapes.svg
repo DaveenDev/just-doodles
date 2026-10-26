@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Grapes</title>
+  <!-- A bunch of grapes -->
+  <circle cx="268" cy="220" r="44"><title>Grape</title></circle>
+  <circle cx="356" cy="220" r="44"><title>Grape</title></circle>
+  <circle cx="444" cy="220" r="44"><title>Grape</title></circle>
+  <circle cx="532" cy="220" r="44"><title>Grape</title></circle>
+  <circle cx="312" cy="296" r="44"><title>Grape</title></circle>
+  <circle cx="400" cy="296" r="44"><title>Grape</title></circle>
+  <circle cx="488" cy="296" r="44"><title>Grape</title></circle>
+  <circle cx="356" cy="372" r="44"><title>Grape</title></circle>
+  <circle cx="444" cy="372" r="44"><title>Grape</title></circle>
+  <circle cx="400" cy="448" r="44"><title>Grape</title></circle>
+  <line x1="400" y1="220" x2="400" y2="150"/>
+  <path d="M 400 152 C 400 152, 429.2 107.3, 450 100 C 470.8 92.7, 525 108, 525 108 C 525 108, 504.8 156.7, 484 164 C 463.2 171.3, 400 152, 400 152 Z"><title>Leaf</title></path>
+  <path d="M 400 152 C 400 152, 370.8 107.3, 350 100 C 329.2 92.7, 275 108, 275 108 C 275 108, 295.2 156.7, 316 164 C 336.8 171.3, 400 152, 400 152 Z"><title>Leaf</title></path>
+</svg>

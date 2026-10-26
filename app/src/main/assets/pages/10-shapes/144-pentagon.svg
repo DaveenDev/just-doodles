@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pentagon</title>
+  <!-- A pentagon with a smile -->
+  <polygon points="400,60 618.7,218.9 535.2,476.1 264.8,476.1 181.3,218.9"><title>Pentagon</title></polygon>
+  <circle cx="352.3" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="355.6" cy="273.3" r="11"><title>Eye</title></circle>
+  <circle cx="447.7" cy="270" r="22"><title>Eye</title></circle>
+  <circle cx="451" cy="273.3" r="11"><title>Eye</title></circle>
+  <path d="M 345 358 Q 400 410 455 358"/>
+  <circle cx="310.1" cy="338" r="18"><title>Cheek</title></circle>
+  <circle cx="489.9" cy="338" r="18"><title>Cheek</title></circle>
+  <polygon points="230,510.1 258.4,530.8 247.6,564.2 212.4,564.2 201.6,530.8"><title>Pentagon</title></polygon>
+  <polygon points="400,510.1 428.4,530.8 417.6,564.2 382.4,564.2 371.6,530.8"><title>Pentagon</title></polygon>
+  <polygon points="570,510.1 598.4,530.8 587.6,564.2 552.4,564.2 541.6,530.8"><title>Pentagon</title></polygon>
+</svg>

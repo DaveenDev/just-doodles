@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Lion</title>
+  <!-- A lion with a big mane -->
+  <path d="M 400 57.5 C 426 57.5, 450.3 89.1, 478 98.6 C 505.6 108.1, 545.9 98.5, 565.8 114.2 C 585.8 129.9, 582.7 168.9, 597.5 192.8 C 612.2 216.8, 649.6 233.8, 654.1 257.9 C 658.6 281.9, 629.6 310, 624.5 337.2 C 619.4 364.4, 636.4 400.1, 623.4 421.3 C 610.4 442.4, 569.1 446.4, 546.6 464.2 C 524 482, 512.7 519.5, 488.2 527.9 C 463.8 536.3, 429.4 514.3, 400 514.3 C 370.6 514.3, 336.2 536.3, 311.8 527.9 C 287.3 519.5, 276 482, 253.4 464.2 C 230.9 446.4, 189.6 442.4, 176.6 421.3 C 163.6 400.1, 180.6 364.4, 175.5 337.2 C 170.4 310, 141.4 281.9, 145.9 257.9 C 150.4 233.8, 187.8 216.8, 202.5 192.8 C 217.3 168.9, 214.2 129.9, 234.2 114.2 C 254.1 98.5, 294.4 108.1, 322 98.6 C 349.7 89.1, 374 57.5, 400 57.5 Z"><title>Mane</title></path>
+  <circle cx="291" cy="153.7" r="30"><title>Ear</title></circle>
+  <circle cx="509" cy="153.7" r="30"><title>Ear</title></circle>
+  <ellipse cx="400" cy="305" rx="122" ry="136"><title>Lion</title></ellipse>
+  <circle cx="348" cy="270" r="17"><title>Eye</title></circle>
+  <circle cx="350.6" cy="272.6" r="8.5"><title>Eye</title></circle>
+  <circle cx="452" cy="270" r="17"><title>Eye</title></circle>
+  <circle cx="454.6" cy="272.6" r="8.5"><title>Eye</title></circle>
+  <ellipse cx="400" cy="352" rx="62" ry="44"><title>Snout</title></ellipse>
+  <ellipse cx="400" cy="334" rx="24" ry="16"><title>Nose</title></ellipse>
+  <path d="M 400 350 V 374"/>
+  <path d="M 400 374 Q 382 396 356 384"/>
+  <path d="M 400 374 Q 418 396 444 384"/>
+</svg>

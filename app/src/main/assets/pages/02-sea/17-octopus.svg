@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Octopus</title>
+  <!-- A smiling octopus -->
+  <path d="M 230 330 C 230 90, 570 90, 570 330 C 564 390, 615.7 410, 607.7 474 Q 589.7 500 571.7 474 C 563.7 410, 519.3 390, 513.3 330 C 507.3 390, 559 442, 551 506 Q 533 532 515 506 C 507 442, 462.7 390, 456.7 330 C 450.7 390, 502.3 460, 494.3 524 Q 476.3 550 458.3 524 C 450.3 460, 406 390, 400 330 C 394 390, 349.7 460, 341.7 524 Q 323.7 550 305.7 524 C 297.7 460, 349.3 390, 343.3 330 C 337.3 390, 293 442, 285 506 Q 267 532 249 506 C 241 442, 292.7 390, 286.7 330 C 280.7 390, 236.3 410, 228.3 474 Q 210.3 500 192.3 474 C 184.3 410, 236 390, 230 330 Z"><title>Octopus</title></path>
+  <line x1="230" y1="330" x2="570" y2="330"/>
+  <circle cx="345" cy="245" r="26"><title>Eye</title></circle>
+  <circle cx="352" cy="238" r="8"/>
+  <circle cx="455" cy="245" r="26"><title>Eye</title></circle>
+  <circle cx="462" cy="238" r="8"/>
+  <path d="M 365 290 Q 400 318 435 290"/>
+  <circle cx="400" cy="180" r="20"><title>Spot</title></circle>
+  <circle cx="300" cy="205" r="18"><title>Spot</title></circle>
+  <circle cx="502" cy="205" r="18"><title>Spot</title></circle>
+  <circle cx="120" cy="140" r="20"><title>Bubble</title></circle>
+  <circle cx="165" cy="80" r="13"><title>Bubble</title></circle>
+  <circle cx="670" cy="150" r="17"><title>Bubble</title></circle>
+  <circle cx="700" cy="95" r="11"><title>Bubble</title></circle>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Rocket</title>
+  <!-- A rocket flying to the stars -->
+  <path d="M 400 70 C 490 140, 505 260, 490 420 H 310 C 295 260, 310 140, 400 70 Z"><title>Rocket</title></path>
+  <circle cx="400" cy="225" r="48"><title>Window</title></circle>
+  <circle cx="400" cy="225" r="33"><title>Window</title></circle>
+  <path d="M 305.3 345 L 494.7 345"/>
+  <path d="M 304.9 320 C 268 340, 236 392, 236 470 L 310 420"><title>Fin</title></path>
+  <path d="M 495.1 320 C 532 340, 564 392, 564 470 L 490 420"><title>Fin</title></path>
+  <path d="M 345 420 L 330 455 H 470 L 455 420"/>
+  <path d="M 345 470 Q 360 540 400 585 Q 440 540 455 470 Q 428 492 400 472 Q 372 492 345 470 Z"><title>Fire</title></path>
+  <path d="M 378 500 Q 386 530 400 553 Q 414 530 422 500 Q 410 508 400 502 Q 390 508 378 500 Z"><title>Fire</title></path>
+  <polygon points="150,88 158.5,108.4 180.4,110.1 163.7,124.4 168.8,145.9 150,134.4 131.2,145.9 136.3,124.4 119.6,110.1 141.5,108.4"><title>Star</title></polygon>
+  <polygon points="655,110 665.6,135.4 693,137.6 672.1,155.6 678.5,182.4 655,168 631.5,182.4 637.9,155.6 617,137.6 644.4,135.4"><title>Star</title></polygon>
+  <polygon points="130,394 136.9,410.5 154.7,412 141.1,423.6 145.3,441 130,431.7 114.7,441 118.9,423.6 105.3,412 123.1,410.5"><title>Star</title></polygon>
+  <polygon points="680,400 687.9,419.1 708.5,420.7 692.8,434.2 697.6,454.3 680,443.5 662.4,454.3 667.2,434.2 651.5,420.7 672.1,419.1"><title>Star</title></polygon>
+  <circle cx="230" cy="250" r="9"/>
+  <circle cx="600" cy="300" r="9"/>
+  <circle cx="560" cy="60" r="8"/>
+</svg>

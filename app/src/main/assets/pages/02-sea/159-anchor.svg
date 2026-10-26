@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Anchor</title>
+  <!-- An anchor -->
+  <circle cx="400" cy="105" r="40"><title>Ring</title></circle>
+  <circle cx="400" cy="105" r="17"><title>Ring</title></circle>
+  <rect x="380" y="142" width="40" height="360" rx="12"><title>Anchor</title></rect>
+  <rect x="285" y="185" width="230" height="38" rx="19"><title>Bar</title></rect>
+  <path d="M 200 385 L 182 318 L 252 352 L 238 370 C 272 445, 335 482, 400 485 C 465 482, 528 445, 562 370 L 548 352 L 618 318 L 600 385 L 585 380 C 552 475, 480 528, 400 530 C 320 528, 248 475, 215 380 Z"><title>Anchor</title></path>
+  <rect x="60" y="548" width="680" height="30" rx="14"><title>Sand</title></rect>
+  <polygon points="660,489 666.9,505.5 684.7,507 671.1,518.6 675.3,536 660,526.7 644.7,536 648.9,518.6 635.3,507 653.1,505.5"><title>Starfish</title></polygon>
+</svg>

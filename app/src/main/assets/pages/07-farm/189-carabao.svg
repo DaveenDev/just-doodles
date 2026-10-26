@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Carabao</title>
+  <!-- A carabao face with big curved horns -->
+  <path d="M 300 205 C 200 205, 120 165, 88 92 C 160 132, 232 152, 300 162 Z"><title>Horn</title></path>
+  <path d="M 500 205 C 600 205, 680 165, 712 92 C 640 132, 568 152, 500 162 Z"><title>Horn</title></path>
+  <path d="M 282 222 C 270.7 214, 233.7 206.7, 218 210 C 202.3 213.3, 186.3 232.3, 188 242 C 189.7 251.7, 211.7 265.3, 228 268 C 244.3 270.7, 277 265.7, 286 258 C 295 250.3, 293.3 230, 282 222 Z"><title>Ear</title></path>
+  <path d="M 518 222 C 529.3 214, 566.3 206.7, 582 210 C 597.7 213.3, 613.7 232.3, 612 242 C 610.3 251.7, 588.3 265.3, 572 268 C 555.7 270.7, 523 265.7, 514 258 C 505 250.3, 506.7 230, 518 222 Z"><title>Ear</title></path>
+  <path d="M 300 150 C 321.7 133.3, 366.7 140, 400 140 C 433.3 140, 478.3 133.3, 500 150 C 521.7 166.7, 528.3 208.3, 530 240 C 531.7 271.7, 518.3 308.3, 510 340 C 501.7 371.7, 498.3 408.3, 480 430 C 461.7 451.7, 426.7 470, 400 470 C 373.3 470, 338.3 451.7, 320 430 C 301.7 408.3, 298.3 371.7, 290 340 C 281.7 308.3, 268.3 271.7, 270 240 C 271.7 208.3, 278.3 166.7, 300 150 Z"><title>Carabao</title></path>
+  <ellipse cx="400" cy="410" rx="92" ry="62"><title>Muzzle</title></ellipse>
+  <ellipse cx="368" cy="405" rx="12" ry="18"><title>Nostril</title></ellipse>
+  <ellipse cx="432" cy="405" rx="12" ry="18"><title>Nostril</title></ellipse>
+  <circle cx="345" cy="262" r="18"><title>Eye</title></circle>
+  <circle cx="347.7" cy="264.7" r="9"><title>Eye</title></circle>
+  <circle cx="455" cy="262" r="18"><title>Eye</title></circle>
+  <circle cx="457.7" cy="264.7" r="9"><title>Eye</title></circle>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bunny</title>
+  <!-- A bunny face with tall ears -->
+  <ellipse cx="400" cy="380" rx="150" ry="135"><title>Bunny</title></ellipse>
+  <path d="M 300 279.4 C 268 150, 288 40, 330 40 C 372 40, 386 150, 360 249.9"><title>Ear</title></path>
+  <path d="M 440 249.9 C 414 150, 428 40, 470 40 C 512 40, 532 150, 500 279.4"><title>Ear</title></path>
+  <ellipse cx="330" cy="150" rx="17" ry="66"><title>Ear</title></ellipse>
+  <ellipse cx="470" cy="150" rx="17" ry="66"><title>Ear</title></ellipse>
+  <circle cx="345" cy="355" r="19"><title>Eye</title></circle>
+  <circle cx="351" cy="349" r="6"/>
+  <circle cx="455" cy="355" r="19"><title>Eye</title></circle>
+  <circle cx="461" cy="349" r="6"/>
+  <path d="M 383 405 Q 400 396 417 405 Q 412 422 400 424 Q 388 422 383 405 Z"><title>Nose</title></path>
+  <path d="M 400 424 V 438"/>
+  <path d="M 400 438 Q 385 455 368 444"/>
+  <path d="M 400 438 Q 415 455 432 444"/>
+  <line x1="340" y1="410" x2="265" y2="395"/>
+  <line x1="340" y1="425" x2="262" y2="432"/>
+  <line x1="460" y1="410" x2="535" y2="395"/>
+  <line x1="460" y1="425" x2="538" y2="432"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ant</title>
+  <!-- An ant -->
+  <ellipse cx="570" cy="345" rx="118" ry="90"><title>Abdomen</title></ellipse>
+  <ellipse cx="390" cy="350" rx="62" ry="50"><title>Body</title></ellipse>
+  <circle cx="264" cy="336" r="63"><title>Head</title></circle>
+  <path d="M 352 396 C 343.3 404.3, 312.7 425, 300 446 C 287.3 467, 280 509.3, 276 522"><title>Leg</title></path>
+  <path d="M 386 400 C 386 411.7, 388.7 449, 386 470 C 383.3 491, 372.7 516.7, 370 526"><title>Leg</title></path>
+  <path d="M 424 397 C 433.3 404.2, 464 419.5, 480 440 C 496 460.5, 513.3 506.7, 520 520"><title>Leg</title></path>
+  <path d="M 368 398 C 361.7 408.3, 338 438, 330 460 C 322 482, 321.7 518.3, 320 530"><title>Leg</title></path>
+  <path d="M 404 400 C 406.7 411.7, 417.7 448.3, 420 470 C 422.3 491.7, 418.3 520, 418 530"><title>Leg</title></path>
+  <path d="M 440 392 C 451.7 396.7, 490 402, 510 420 C 530 438, 551.7 486.7, 560 500"><title>Leg</title></path>
+  <path d="M 236 282 C 232 272, 223.3 235.7, 212 222 C 200.7 208.3, 175.3 203.7, 168 200"><title>Feeler</title></path>
+  <path d="M 284 276 C 288.7 265.7, 299 227, 312 214 C 325 201, 353.7 200.7, 362 198"><title>Feeler</title></path>
+  <circle cx="244" cy="325" r="15"><title>Eye</title></circle>
+  <circle cx="246.3" cy="327.3" r="7.5"><title>Eye</title></circle>
+  <path d="M 232 364 Q 262 386 292 364"/>
+  <ellipse cx="570" cy="345" rx="60" ry="44"><title>Stripe</title></ellipse>
+  <rect x="40" y="556" width="720" height="30" rx="14"><title>Grass</title></rect>
+</svg>

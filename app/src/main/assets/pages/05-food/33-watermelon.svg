@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Watermelon</title>
+  <!-- A slice of watermelon -->
+  <path d="M 130 230 H 670 C 670 590, 130 590, 130 230 Z"><title>Watermelon</title></path>
+  <path d="M 160 230 C 160 550, 640 550, 640 230"/>
+  <path d="M 190 230 C 190 510, 610 510, 610 230"/>
+  <ellipse cx="290" cy="290" rx="6" ry="9"/>
+  <ellipse cx="400" cy="300" rx="6" ry="9"/>
+  <ellipse cx="510" cy="290" rx="6" ry="9"/>
+  <ellipse cx="340" cy="360" rx="6" ry="9"/>
+  <ellipse cx="460" cy="360" rx="6" ry="9"/>
+  <ellipse cx="400" cy="410" rx="6" ry="9"/>
+</svg>

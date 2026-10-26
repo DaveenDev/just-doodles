@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Rocking horse</title>
+  <!-- A rocking horse -->
+  <rect x="290" y="380" width="26" height="128" rx="8"><title>Leg</title></rect>
+  <rect x="350" y="380" width="26" height="140" rx="8"><title>Leg</title></rect>
+  <rect x="430" y="380" width="26" height="140" rx="8"><title>Leg</title></rect>
+  <rect x="490" y="380" width="26" height="128" rx="8"><title>Leg</title></rect>
+  <path d="M 140 470 Q 400 570 660 470 L 660 497 Q 400 597 140 497 Z"><title>Rocker</title></path>
+  <path d="M 250 340 C 240.8 341.7, 215.8 363.3, 205 380 C 194.2 396.7, 181.7 433.3, 185 440 C 188.3 446.7, 212.5 431.7, 225 420 C 237.5 408.3, 255.8 383.3, 260 370 C 264.2 356.7, 259.2 338.3, 250 340 Z"><title>Tail</title></path>
+  <path d="M 248 300 C 260 285, 283 266.7, 320 260 C 357 253.3, 433 255, 470 260 C 507 265, 530 275, 542 290 C 554 305, 554 334.7, 542 350 C 530 365.3, 507 376.7, 470 382 C 433 387.3, 357 387.3, 320 382 C 283 376.7, 260 363.7, 248 350 C 236 336.3, 236 315, 248 300 Z"><title>Rocking horse</title></path>
+  <path d="M 472 272 C 464.2 251.7, 503.3 194, 518 170 C 532.7 146, 539.3 131.7, 560 128 C 580.7 124.3, 626.2 137.3, 642 148 C 657.8 158.7, 661.7 183, 655 192 C 648.3 201, 617 185.3, 602 202 C 587 218.7, 586.7 280.3, 565 292 C 543.3 303.7, 479.8 292.3, 472 272 Z"><title>Head</title></path>
+  <polygon points="558,138 566,96 592,136"><title>Ear</title></polygon>
+  <path d="M 515 180 Q 498 200 506 222 Q 488 240 495 262 L 525 250 Z"><title>Mane</title></path>
+  <circle cx="592" cy="168" r="12"><title>Eye</title></circle>
+  <circle cx="593.8" cy="169.8" r="6"><title>Eye</title></circle>
+  <rect x="360" y="248" width="92" height="32" rx="10"><title>Saddle</title></rect>
+</svg>

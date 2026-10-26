@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Yo-yo</title>
+  <!-- A yo-yo hanging from its string -->
+  <circle cx="400" cy="380" r="160"><title>Yo-yo</title></circle>
+  <circle cx="400" cy="380" r="110"><title>Yo-yo</title></circle>
+  <circle cx="400" cy="380" r="40"><title>Middle</title></circle>
+  <line x1="400" y1="340" x2="400" y2="62"/>
+  <circle cx="400" cy="46" r="16"><title>Ring</title></circle>
+</svg>

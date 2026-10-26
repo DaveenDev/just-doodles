@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Pine tree</title>
+  <!-- A pine tree with balls -->
+  <polygon points="400,60 462,178 430,178 506,306 466,306 566,446 436,446 436,545 400,545 364,545 364,446 234,446 334,306 294,306 370,178 338,178"><title>Tree</title></polygon>
+  <circle cx="372" cy="232" r="16"><title>Ball</title></circle>
+  <circle cx="436" cy="262" r="16"><title>Ball</title></circle>
+  <circle cx="330" cy="372" r="18"><title>Ball</title></circle>
+  <circle cx="470" cy="380" r="18"><title>Ball</title></circle>
+  <circle cx="398" cy="400" r="18"><title>Ball</title></circle>
+  <polygon points="655,80 665.6,105.4 693,107.6 672.1,125.6 678.5,152.4 655,138 631.5,152.4 637.9,125.6 617,107.6 644.4,105.4"><title>Star</title></polygon>
+  <polygon points="150,142 157.4,159.8 176.6,161.3 162,173.9 166.5,192.7 150,182.6 133.5,192.7 138,173.9 123.4,161.3 142.6,159.8"><title>Star</title></polygon>
+  <rect x="80" y="545" width="640" height="38" rx="16"><title>Snow</title></rect>
+</svg>

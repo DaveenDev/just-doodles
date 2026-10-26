@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Banana</title>
+  <!-- A banana -->
+  <path d="M 190 165 C 165 430, 440 590, 690 405 L 712 384 C 490 440, 305 335, 258 152 Z"><title>Banana</title></path>
+  <path d="M 190 165 L 180 112 L 250 100 L 258 152"><title>Stem</title></path>
+  <path d="M 644.8 434.6 L 666 393.4"/>
+  <path d="M 248 260 C 290 400, 450 478, 590 452"/>
+</svg>

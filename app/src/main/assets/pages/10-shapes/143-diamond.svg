@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Diamond</title>
+  <!-- A diamond with a smile -->
+  <polygon points="400,75 645,290 400,505 155,290"><title>Diamond</title></polygon>
+  <circle cx="352.3" cy="265" r="22"><title>Eye</title></circle>
+  <circle cx="355.6" cy="268.3" r="11"><title>Eye</title></circle>
+  <circle cx="447.7" cy="265" r="22"><title>Eye</title></circle>
+  <circle cx="451" cy="268.3" r="11"><title>Eye</title></circle>
+  <path d="M 345 348 Q 400 400 455 348"/>
+  <circle cx="310.1" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="489.9" cy="328" r="18"><title>Cheek</title></circle>
+  <polygon points="230,512.1 261.9,540 230,568 198.2,540"><title>Diamond</title></polygon>
+  <polygon points="400,512.1 431.9,540 400,568 368.2,540"><title>Diamond</title></polygon>
+  <polygon points="570,512.1 601.9,540 570,568 538.2,540"><title>Diamond</title></polygon>
+</svg>

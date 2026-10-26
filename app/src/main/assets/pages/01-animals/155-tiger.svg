@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Tiger</title>
+  <!-- A tiger face with stripes -->
+  <circle cx="250" cy="170" r="62"><title>Ear</title></circle>
+  <circle cx="550" cy="170" r="62"><title>Ear</title></circle>
+  <circle cx="255" cy="175" r="30"><title>Ear</title></circle>
+  <circle cx="545" cy="175" r="30"><title>Ear</title></circle>
+  <path d="M 400 135 C 440.7 135, 488.3 140.5, 522 158 C 555.7 175.5, 587 209.7, 602 240 C 617 270.3, 618.7 306.7, 612 340 C 605.3 373.3, 583.7 413.3, 562 440 C 540.3 466.7, 509 487, 482 500 C 455 513, 427.3 518, 400 518 C 372.7 518, 345 513, 318 500 C 291 487, 259.7 466.7, 238 440 C 216.3 413.3, 194.7 373.3, 188 340 C 181.3 306.7, 183 270.3, 198 240 C 213 209.7, 244.3 175.5, 278 158 C 311.7 140.5, 359.3 135, 400 135 Z"><title>Tiger</title></path>
+  <polygon points="375,145 400,215 425,145"><title>Stripe</title></polygon>
+  <polygon points="318,160 345,210 358,152"><title>Stripe</title></polygon>
+  <polygon points="482,160 455,210 442,152"><title>Stripe</title></polygon>
+  <polygon points="192,290 262,310 194,330"><title>Stripe</title></polygon>
+  <polygon points="202,365 258,380 214,400"><title>Stripe</title></polygon>
+  <polygon points="608,290 538,310 606,330"><title>Stripe</title></polygon>
+  <polygon points="598,365 542,380 586,400"><title>Stripe</title></polygon>
+  <circle cx="330" cy="290" r="22"><title>Eye</title></circle>
+  <circle cx="333.3" cy="293.3" r="11"><title>Eye</title></circle>
+  <circle cx="470" cy="290" r="22"><title>Eye</title></circle>
+  <circle cx="473.3" cy="293.3" r="11"><title>Eye</title></circle>
+  <ellipse cx="352" cy="418" rx="58" ry="46"><title>Muzzle</title></ellipse>
+  <ellipse cx="448" cy="418" rx="58" ry="46"><title>Muzzle</title></ellipse>
+  <path d="M 372 362 L 428 362 Q 430 372 400 395 Q 370 372 372 362 Z"><title>Nose</title></path>
+</svg>

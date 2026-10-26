@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Dog</title>
+  <!-- A puppy with floppy ears and a patch -->
+  <ellipse cx="400" cy="300" rx="160" ry="150"><title>Dog</title></ellipse>
+  <path d="M 310.5 175.6 C 250 120, 160 160, 148 270 C 138 370, 168 432, 210 424 C 242 416, 236 330, 243.5 268.8"><title>Ear</title></path>
+  <path d="M 489.5 175.6 C 550 120, 640 160, 652 270 C 662 370, 632 432, 590 424 C 558 416, 564 330, 556.5 268.8"><title>Ear</title></path>
+  <ellipse cx="458" cy="262" rx="48" ry="42"><title>Patch</title></ellipse>
+  <circle cx="345" cy="270" r="20"><title>Eye</title></circle>
+  <circle cx="351" cy="264" r="6"/>
+  <circle cx="455" cy="270" r="20"><title>Eye</title></circle>
+  <circle cx="461" cy="264" r="6"/>
+  <ellipse cx="400" cy="368" rx="85" ry="58"><title>Snout</title></ellipse>
+  <path d="M 368 338 Q 400 324 432 338 Q 426 368 400 371 Q 374 368 368 338 Z"><title>Nose</title></path>
+  <path d="M 400 371 V 390"/>
+  <path d="M 400 390 Q 380 410 358 397"/>
+  <path d="M 400 390 Q 420 410 442 397"/>
+</svg>

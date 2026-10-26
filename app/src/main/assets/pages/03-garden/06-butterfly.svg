@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Butterfly</title>
+  <!-- A butterfly -->
+  <ellipse cx="400" cy="300" rx="22" ry="130"><title>Body</title></ellipse>
+  <circle cx="400" cy="140" r="30"><title>Head</title></circle>
+  <path d="M 390 113 Q 365 55 330 62"/>
+  <path d="M 410 113 Q 435 55 470 62"/>
+  <circle cx="324" cy="62" r="10"><title>Antenna</title></circle>
+  <circle cx="476" cy="62" r="10"><title>Antenna</title></circle>
+  <path d="M 416 230 C 470 110, 680 60, 700 180 C 715 280, 560 320, 420 300"><title>Wing</title></path>
+  <path d="M 384 230 C 330 110, 120 60, 100 180 C 85 280, 240 320, 380 300"><title>Wing</title></path>
+  <path d="M 420 312 C 540 320, 640 380, 600 450 C 560 510, 450 470, 412 400"><title>Wing</title></path>
+  <path d="M 380 312 C 260 320, 160 380, 200 450 C 240 510, 350 470, 388 400"><title>Wing</title></path>
+  <circle cx="590" cy="185" r="38"><title>Spot</title></circle>
+  <circle cx="210" cy="185" r="38"><title>Spot</title></circle>
+  <circle cx="530" cy="415" r="26"><title>Spot</title></circle>
+  <circle cx="270" cy="415" r="26"><title>Spot</title></circle>
+</svg>

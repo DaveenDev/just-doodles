@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ring</title>
+  <!-- A ring with a smile -->
+  <circle cx="400" cy="270" r="200"><title>Ring</title></circle>
+  <circle cx="400" cy="270" r="90"><title>Ring</title></circle>
+  <circle cx="360" cy="125" r="16"><title>Eye</title></circle>
+  <circle cx="362.4" cy="127.4" r="8"><title>Eye</title></circle>
+  <circle cx="440" cy="125" r="16"><title>Eye</title></circle>
+  <circle cx="442.4" cy="127.4" r="8"><title>Eye</title></circle>
+  <path d="M 375 158 Q 400 176 425 158"/>
+  <circle cx="230" cy="540" r="26"><title>Ring</title></circle>
+  <circle cx="230" cy="540" r="11"><title>Ring</title></circle>
+  <circle cx="400" cy="540" r="26"><title>Ring</title></circle>
+  <circle cx="400" cy="540" r="11"><title>Ring</title></circle>
+  <circle cx="570" cy="540" r="26"><title>Ring</title></circle>
+  <circle cx="570" cy="540" r="11"><title>Ring</title></circle>
+</svg>

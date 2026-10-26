@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Drum</title>
+  <!-- A drum with drumsticks -->
+  <ellipse cx="400" cy="200" rx="200" ry="60"><title>Drum top</title></ellipse>
+  <path d="M 200 200 L 200 430 L 200 430 L 201.1 436.3 L 204.4 442.5 L 209.8 448.5 L 217.3 454.4 L 226.8 460 L 238.2 465.3 L 251.4 470.1 L 266.2 474.6 L 282.4 478.5 L 300 482 L 318.7 484.8 L 338.2 487.1 L 358.4 488.7 L 379.1 489.7 L 400 490 L 420.9 489.7 L 441.6 488.7 L 461.8 487.1 L 481.3 484.8 L 500 482 L 517.6 478.5 L 533.8 474.6 L 548.6 470.1 L 561.8 465.3 L 573.2 460 L 582.7 454.4 L 590.2 448.5 L 595.6 442.5 L 598.9 436.3 L 600 430 L 600 200 L 600 200 L 598.9 206.3 L 595.6 212.5 L 590.2 218.5 L 582.7 224.4 L 573.2 230 L 561.8 235.3 L 548.6 240.1 L 533.8 244.6 L 517.6 248.5 L 500 252 L 481.3 254.8 L 461.8 257.1 L 441.6 258.7 L 420.9 259.7 L 400 260 L 379.1 259.7 L 358.4 258.7 L 338.2 257.1 L 318.7 254.8 L 300 252 L 282.4 248.5 L 266.2 244.6 L 251.4 240.1 L 238.2 235.3 L 226.8 230 L 217.3 224.4 L 209.8 218.5 L 204.4 212.5 L 201.1 206.3 L 200 200 Z"><title>Drum</title></path>
+  <polyline points="200,200 280,478 360,258.8 440,488.8 520,248 600,430"/>
+  <polyline points="200,430 280,248 360,488.8 440,258.8 520,478 600,200"/>
+  <polygon points="646,126 658,130 704,340 692,344"><title>Stick</title></polygon>
+  <circle cx="652" cy="124" r="13"><title>Tip</title></circle>
+  <polygon points="154,126 142,130 96,340 108,344"><title>Stick</title></polygon>
+  <circle cx="148" cy="124" r="13"><title>Tip</title></circle>
+  <rect x="40" y="570" width="720" height="30" rx="14"><title>Floor</title></rect>
+</svg>

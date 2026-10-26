@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Tree</title>
+  <!-- An apple tree -->
+  <path d="M 400 400 C 359.1 467.9, 240.8 437, 252.2 361.4 C 197.5 383.1, 138.1 316.1, 177.8 277.7 C 128.8 265.6, 133.7 186.3, 183.9 178.6 C 146.6 135.6, 213.9 72.6, 268.1 99.8 C 260.9 32.4, 366.5 8.5, 400 70 C 433.5 8.5, 539.1 32.4, 531.9 99.8 C 586.1 72.6, 653.4 135.6, 616.1 178.6 C 666.3 186.3, 671.2 265.6, 622.2 277.7 C 661.9 316.1, 602.5 383.1, 547.8 361.4 C 559.2 437, 440.9 467.9, 400 400 Z"><title>Tree</title></path>
+  <path d="M 368 429.2 L 352 560"/>
+  <path d="M 432 429.2 L 448 560"/>
+  <ellipse cx="400" cy="485" rx="14" ry="20"/>
+  <circle cx="300" cy="200" r="24"><title>Apple</title></circle>
+  <circle cx="455" cy="150" r="24"><title>Apple</title></circle>
+  <circle cx="530" cy="265" r="24"><title>Apple</title></circle>
+  <circle cx="370" cy="300" r="24"><title>Apple</title></circle>
+  <circle cx="250" cy="300" r="22"><title>Apple</title></circle>
+  <rect x="60" y="560" width="680" height="30" rx="15"><title>Grass</title></rect>
+</svg>

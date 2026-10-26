@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The Play build sells PLUS, so it can't say "no in-app purchases" like the sideloaded one. -->
+    <string name="parent_about">Just Doodles has no ads, no tracking and no internet access. There\'s one optional upgrade, PLUS, for grown-ups to buy. Made by DaveenDev.</string>
+</resources>

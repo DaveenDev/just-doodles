@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Fish</title>
+  <!-- A happy fish with bubbles -->
+  <path d="M 200 300 C 260 170, 470 170, 560 300 C 470 430, 260 430, 200 300 Z"><title>Fish</title></path>
+  <path d="M 560 300 L 690 200 Q 650 300 690 400 Z"><title>Tail</title></path>
+  <path d="M 327 210 C 345 130, 420 115, 454 221"><title>Fin</title></path>
+  <path d="M 347 395 C 355 450, 400 460, 412 392"><title>Fin</title></path>
+  <circle cx="270" cy="275" r="20"><title>Eye</title></circle>
+  <path d="M 215 320 Q 235 330 250 315"/>
+  <circle cx="400" cy="265" r="26"><title>Spot</title></circle>
+  <circle cx="465" cy="320" r="20"><title>Spot</title></circle>
+  <circle cx="375" cy="340" r="18"><title>Spot</title></circle>
+  <circle cx="160" cy="215" r="16"><title>Bubble</title></circle>
+  <circle cx="120" cy="155" r="22"><title>Bubble</title></circle>
+  <circle cx="160" cy="90" r="14"><title>Bubble</title></circle>
+</svg>

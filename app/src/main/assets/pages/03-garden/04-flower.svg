@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Flower</title>
+  <!-- A flower in a pot -->
+  <path d="M 421.6,253.4 C 458.7,292 450.6,370.4 400,370 C 349.4,370.4 341.3,292 378.4,253.4"><title>Petal</title></path>
+  <path d="M 360.6,240.5 C 335.4,287.7 258.3,304.2 243.1,256 C 227,208 299.1,176.1 347.3,199.5"><title>Petal</title></path>
+  <path d="M 354.1,178.5 C 301.3,169.1 261.8,100.9 303,71.5 C 343.7,41.4 396.3,100.1 389,153.2"><title>Petal</title></path>
+  <path d="M 411,153.2 C 403.7,100.1 456.3,41.4 497,71.5 C 538.2,100.9 498.7,169.1 445.9,178.5"><title>Petal</title></path>
+  <path d="M 452.7,199.5 C 500.9,176.1 573,208 556.9,256 C 541.7,304.2 464.6,287.7 439.4,240.5"><title>Petal</title></path>
+  <circle cx="400" cy="205" r="55"><title>Middle</title></circle>
+  <!-- The stem's bottom edge sits exactly on the top of the pot's rim. -->
+  <path d="M 390 367 V 455 H 410 V 367"><title>Stem</title></path>
+  <path d="M 391 440 C 360 445, 320 430, 305 402 C 335 392, 370 398, 391 415"><title>Leaf</title></path>
+  <path d="M 409 425 C 440 428, 480 410, 492 385 C 460 375, 425 382, 409 400"><title>Leaf</title></path>
+  <rect x="300" y="455" width="200" height="32" rx="10"><title>Pot</title></rect>
+  <polygon points="322,487 478,487 458,582 342,582"><title>Pot</title></polygon>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Balloons</title>
+  <!-- Three balloons -->
+  <ellipse cx="230" cy="210" rx="85" ry="105"><title>Balloon</title></ellipse>
+  <polygon points="218,327 242,327 230,313"><title>Balloon</title></polygon>
+  <path d="M 230 327 C 210 400, 290 450, 300 570"/>
+  <ellipse cx="200" cy="170" rx="14" ry="28"><title>Balloon</title></ellipse>
+  <ellipse cx="420" cy="170" rx="95" ry="115"><title>Balloon</title></ellipse>
+  <polygon points="408,299 432,299 420,285"><title>Balloon</title></polygon>
+  <path d="M 420 299 C 440 390, 380 460, 385 570"/>
+  <ellipse cx="385" cy="125" rx="15" ry="30"><title>Balloon</title></ellipse>
+  <ellipse cx="610" cy="230" rx="85" ry="105"><title>Balloon</title></ellipse>
+  <polygon points="598,347 622,347 610,333"><title>Balloon</title></polygon>
+  <path d="M 610 347 C 630 430, 520 470, 470 570"/>
+  <ellipse cx="580" cy="190" rx="14" ry="28"><title>Balloon</title></ellipse>
+</svg>

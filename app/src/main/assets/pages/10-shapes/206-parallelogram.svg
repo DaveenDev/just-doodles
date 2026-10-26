@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Parallelogram</title>
+  <!-- A parallelogram with a smile -->
+  <polygon points="280,120 660,120 520,460 140,460"><title>Parallelogram</title></polygon>
+  <circle cx="350" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="353.3" cy="253.3" r="11"><title>Eye</title></circle>
+  <circle cx="450" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="453.3" cy="253.3" r="11"><title>Eye</title></circle>
+  <path d="M 345 330 Q 400 379.5 455 330"/>
+  <circle cx="305" cy="315" r="18"><title>Cheek</title></circle>
+  <circle cx="495" cy="315" r="18"><title>Cheek</title></circle>
+  <polygon points="213.2,516.2 266.4,516.2 246.8,563.8 193.6,563.8"><title>Parallelogram</title></polygon>
+  <polygon points="383.2,516.2 436.4,516.2 416.8,563.8 363.6,563.8"><title>Parallelogram</title></polygon>
+  <polygon points="553.2,516.2 606.4,516.2 586.8,563.8 533.6,563.8"><title>Parallelogram</title></polygon>
+</svg>

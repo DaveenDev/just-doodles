@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Milk can</title>
+  <!-- A farm milk can -->
+  <path d="M 260 300 C 200 300, 200 380, 260 380 L 260 360 C 225 360, 225 320, 260 320 Z"><title>Handle</title></path>
+  <path d="M 540 300 C 600 300, 600 380, 540 380 L 540 360 C 575 360, 575 320, 540 320 Z"><title>Handle</title></path>
+  <path d="M 260 530 V 290 C 260 250, 330 240, 340 200 V 160 H 460 V 200 C 470 240, 540 250, 540 290 V 530 Q 540 550 520 550 H 280 Q 260 550 260 530 Z"><title>Milk can</title></path>
+  <rect x="318" y="118" width="164" height="46" rx="16"><title>Lid</title></rect>
+  <ellipse cx="400" cy="108" rx="30" ry="14"><title>Lid</title></ellipse>
+  <rect x="260" y="330" width="280" height="26"><title>Band</title></rect>
+  <rect x="260" y="470" width="280" height="26"><title>Band</title></rect>
+  <path d="M 400 375 C 407.5 394, 425 411, 425 426 C 425 444.8, 413.8 451, 400 451 C 386.3 451, 375 444.8, 375 426 C 375 411, 392.5 394, 400 375 Z"><title>Drop</title></path>
+</svg>

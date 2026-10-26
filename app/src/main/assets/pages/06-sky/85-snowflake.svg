@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Snowflake</title>
+  <!-- A snowflake -->
+  <polygon points="400,220 469.3,260 469.3,340 400,380 330.7,340 330.7,260"><title>Center</title></polygon>
+  <circle cx="400" cy="300" r="36"><title>Center</title></circle>
+  <polygon points="400,220 436,135 400,38 364,135"><title>Arm</title></polygon>
+  <polygon points="420,104 460,70 422,54"><title>Branch</title></polygon>
+  <polygon points="380,104 340,70 378,54"><title>Branch</title></polygon>
+  <polygon points="469.3,260 560.9,248.7 626.9,169 524.9,186.3"><title>Arm</title></polygon>
+  <polygon points="579.7,219.3 629.2,237 624,196.1"><title>Branch</title></polygon>
+  <polygon points="559.7,184.7 569.2,133 602,157.9"><title>Branch</title></polygon>
+  <polygon points="469.3,340 524.9,413.7 626.9,431 560.9,351.3"><title>Arm</title></polygon>
+  <polygon points="559.7,415.3 569.2,467 602,442.1"><title>Branch</title></polygon>
+  <polygon points="579.7,380.7 629.2,363 624,403.9"><title>Branch</title></polygon>
+  <polygon points="400,380 364,465 400,562 436,465"><title>Arm</title></polygon>
+  <polygon points="380,496 340,530 378,546"><title>Branch</title></polygon>
+  <polygon points="420,496 460,530 422,546"><title>Branch</title></polygon>
+  <polygon points="330.7,340 239.1,351.3 173.1,431 275.1,413.7"><title>Arm</title></polygon>
+  <polygon points="220.3,380.7 170.8,363 176,403.9"><title>Branch</title></polygon>
+  <polygon points="240.3,415.3 230.8,467 198,442.1"><title>Branch</title></polygon>
+  <polygon points="330.7,260 275.1,186.3 173.1,169 239.1,248.7"><title>Arm</title></polygon>
+  <polygon points="240.3,184.7 230.8,133 198,157.9"><title>Branch</title></polygon>
+  <polygon points="220.3,219.3 170.8,237 176,196.1"><title>Branch</title></polygon>
+  <polygon points="90,62 97.4,79.8 116.6,81.3 102,93.9 106.5,112.7 90,102.6 73.5,112.7 78,93.9 63.4,81.3 82.6,79.8"><title>Star</title></polygon>
+  <polygon points="710,482 717.4,499.8 736.6,501.3 722,513.9 726.5,532.7 710,522.6 693.5,532.7 698,513.9 683.4,501.3 702.6,499.8"><title>Star</title></polygon>
+  <polygon points="700,78 705.8,92 720.9,93.2 709.4,103.1 712.9,117.8 700,109.9 687.1,117.8 690.6,103.1 679.1,93.2 694.2,92"><title>Star</title></polygon>
+  <polygon points="100,488 105.8,502 120.9,503.2 109.4,513.1 112.9,527.8 100,519.9 87.1,527.8 90.6,513.1 79.1,503.2 94.2,502"><title>Star</title></polygon>
+</svg>

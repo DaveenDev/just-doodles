@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Butterfly net</title>
+  <!-- A butterfly net and a butterfly flying away -->
+  <polygon points="411,309.4 681,569.4 699,550.6 429,290.6"><title>Handle</title></polygon>
+  <path d="M 225 175 C 180 300, 250 470, 330 500 C 360 470, 390 380, 410 310 Z"><title>Net</title></path>
+  <line x1="250" y1="240" x2="360" y2="450"/>
+  <line x1="300" y1="210" x2="380" y2="390"/>
+  <line x1="230" y1="330" x2="320" y2="470"/>
+  <ellipse cx="320" cy="230" rx="105" ry="80"><title>Hoop</title></ellipse>
+  <ellipse cx="320" cy="230" rx="85" ry="62"><title>Hoop</title></ellipse>
+  <ellipse cx="600" cy="150" rx="50" ry="36"><title>Wing</title></ellipse>
+  <ellipse cx="680" cy="150" rx="50" ry="36"><title>Wing</title></ellipse>
+  <ellipse cx="605" cy="205" rx="36" ry="26"><title>Wing</title></ellipse>
+  <ellipse cx="675" cy="205" rx="36" ry="26"><title>Wing</title></ellipse>
+  <ellipse cx="640" cy="178" rx="13" ry="52"><title>Butterfly</title></ellipse>
+  <line x1="634" y1="128" x2="615" y2="92"/>
+  <line x1="646" y1="128" x2="665" y2="92"/>
+</svg>

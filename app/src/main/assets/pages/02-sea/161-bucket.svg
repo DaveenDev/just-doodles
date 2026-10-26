@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bucket</title>
+  <!-- A beach bucket and spade on the sand -->
+  <path d="M 255 215 C 255 65, 545 65, 545 215 L 525 215 C 525 95, 275 95, 275 215 Z"><title>Handle</title></path>
+  <polygon points="255,225 545,225 505,500 295,500"><title>Bucket</title></polygon>
+  <rect x="235" y="200" width="330" height="42" rx="16"><title>Rim</title></rect>
+  <polygon points="400,312 415.3,348.9 455.2,352.1 424.8,378.1 434.1,416.9 400,396.1 365.9,416.9 375.2,378.1 344.8,352.1 384.7,348.9"><title>Star</title></polygon>
+  <rect x="627" y="245" width="26" height="140" rx="10"><title>Handle</title></rect>
+  <path d="M 598 380 L 682 380 L 682 445 Q 640 505 598 445 Z"><title>Spade</title></path>
+  <rect x="70" y="498" width="660" height="55" rx="22"><title>Sand</title></rect>
+</svg>

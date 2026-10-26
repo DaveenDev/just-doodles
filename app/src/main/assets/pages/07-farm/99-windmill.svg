@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Windmill</title>
+  <!-- A windmill -->
+  <polygon points="340,560 460,560 432,300 368,300"><title>Tower</title></polygon>
+  <polygon points="438.2,289.1 557,407.9 525.9,439 407.1,320.2"><title>Blade</title></polygon>
+  <line x1="422.6" y1="304.6" x2="541.4" y2="423.4"/>
+  <polygon points="392.9,320.2 274.1,439 243,407.9 361.8,289.1"><title>Blade</title></polygon>
+  <line x1="377.4" y1="304.6" x2="258.6" y2="423.4"/>
+  <polygon points="361.8,274.9 243,156.1 274.1,125 392.9,243.8"><title>Blade</title></polygon>
+  <line x1="377.4" y1="259.4" x2="258.6" y2="140.6"/>
+  <polygon points="407.1,243.8 525.9,125 557,156.1 438.2,274.9"><title>Blade</title></polygon>
+  <line x1="422.6" y1="259.4" x2="541.4" y2="140.6"/>
+  <circle cx="400" cy="282" r="20"><title>Hub</title></circle>
+  <path d="M 384 560 V 500 Q 384 472 400 472 Q 416 472 416 500 V 560"><title>Door</title></path>
+  <circle cx="400" cy="392" r="17"><title>Window</title></circle>
+  <rect x="40" y="560" width="720" height="28" rx="14"><title>Grass</title></rect>
+  <path d="M 45 110 C 26.6 96.6, 52.2 72.8, 77 80.3 C 75.3 40.8, 132.9 34.9, 148.9 73 C 175.7 48.7, 221.8 65.1, 206.6 93.5 C 224.7 96.8, 224.7 123.2, 206.6 126.5 C 206.5 135.7, 160.4 152.2, 148.9 147 C 139.3 156.9, 81.8 151, 77 139.7 C 67.9 139.6, 42.3 115.8, 45 110 Z"><title>Cloud</title></path>
+  <circle cx="690" cy="100" r="46"><title>Sun</title></circle>
+</svg>

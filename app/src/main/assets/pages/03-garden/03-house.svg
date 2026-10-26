@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>House</title>
+  <!-- A house with a tree, the sun and grass -->
+  <rect x="220" y="270" width="360" height="260"><title>House</title></rect>
+  <polygon points="190,270 400,105 610,270"><title>Roof</title></polygon>
+  <path d="M 480 170 V 110 H 530 V 209"><title>Chimney</title></path>
+  <path d="M 355 530 V 445 Q 355 400 400 400 Q 445 400 445 445 V 530"><title>Door</title></path>
+  <circle cx="428" cy="470" r="7"><title>Door</title></circle>
+  <rect x="250" y="320" width="80" height="80"><title>Window</title></rect>
+  <line x1="290" y1="320" x2="290" y2="400"/>
+  <line x1="250" y1="360" x2="330" y2="360"/>
+  <rect x="470" y="320" width="80" height="80"><title>Window</title></rect>
+  <line x1="510" y1="320" x2="510" y2="400"/>
+  <line x1="470" y1="360" x2="550" y2="360"/>
+  <circle cx="680" cy="380" r="55"><title>Tree</title></circle>
+  <!-- The trunk's bottom edge sits exactly on the top of the grass. -->
+  <path d="M 665 431 V 530 H 695 V 431"><title>Trunk</title></path>
+  <circle cx="110" cy="110" r="45"><title>Sun</title></circle>
+  <rect x="20" y="530" width="760" height="50" rx="12"><title>Grass</title></rect>
+</svg>

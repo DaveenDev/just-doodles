@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Centipede</title>
+  <!-- A centipede -->
+  <circle cx="100" cy="350" r="40"><title>Body</title></circle>
+  <circle cx="180" cy="363.5" r="40"><title>Body</title></circle>
+  <circle cx="260" cy="357.2" r="40"><title>Body</title></circle>
+  <circle cx="340" cy="340.4" r="40"><title>Body</title></circle>
+  <circle cx="420" cy="337.6" r="40"><title>Body</title></circle>
+  <circle cx="500" cy="353" r="40"><title>Body</title></circle>
+  <circle cx="580" cy="364" r="40"><title>Body</title></circle>
+  <line x1="88" y1="390" x2="76" y2="430"/>
+  <line x1="112" y1="390" x2="124" y2="430"/>
+  <line x1="168" y1="403.5" x2="156" y2="443.5"/>
+  <line x1="192" y1="403.5" x2="204" y2="443.5"/>
+  <line x1="248" y1="397.2" x2="236" y2="437.2"/>
+  <line x1="272" y1="397.2" x2="284" y2="437.2"/>
+  <line x1="328" y1="380.4" x2="316" y2="420.4"/>
+  <line x1="352" y1="380.4" x2="364" y2="420.4"/>
+  <line x1="408" y1="377.6" x2="396" y2="417.6"/>
+  <line x1="432" y1="377.6" x2="444" y2="417.6"/>
+  <line x1="488" y1="393" x2="476" y2="433"/>
+  <line x1="512" y1="393" x2="524" y2="433"/>
+  <line x1="568" y1="404" x2="556" y2="444"/>
+  <line x1="592" y1="404" x2="604" y2="444"/>
+  <circle cx="716" cy="350" r="56"><title>Head</title></circle>
+  <circle cx="698" cy="338" r="13"><title>Eye</title></circle>
+  <circle cx="700" cy="340" r="6.5"><title>Eye</title></circle>
+  <circle cx="734" cy="338" r="13"><title>Eye</title></circle>
+  <circle cx="736" cy="340" r="6.5"><title>Eye</title></circle>
+  <path d="M 690 376 Q 716 396 742 376"/>
+  <path d="M 690 304 C 686.3 293.3, 678 255, 668 240 C 658 225, 636.3 218.3, 630 214"><title>Feeler</title></path>
+  <path d="M 742 304 C 746 293.3, 758 254, 766 240 C 774 226, 786 223.3, 790 220"><title>Feeler</title></path>
+  <rect x="40" y="556" width="720" height="30" rx="14"><title>Grass</title></rect>
+</svg>

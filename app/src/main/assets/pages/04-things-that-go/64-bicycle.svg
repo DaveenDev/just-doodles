@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bicycle</title>
+  <!-- A bicycle -->
+  <circle cx="215" cy="400" r="108"><title>Tyre</title></circle>
+  <circle cx="215" cy="400" r="88"/>
+  <circle cx="215" cy="400" r="18"><title>Hub</title></circle>
+  <circle cx="585" cy="400" r="108"><title>Tyre</title></circle>
+  <circle cx="585" cy="400" r="88"/>
+  <circle cx="585" cy="400" r="18"><title>Hub</title></circle>
+  <line x1="215" y1="400" x2="370" y2="400"/>
+  <line x1="370" y1="400" x2="320" y2="250"/>
+  <line x1="370" y1="400" x2="470" y2="250"/>
+  <line x1="320" y1="250" x2="470" y2="250"/>
+  <line x1="320" y1="250" x2="215" y2="400"/>
+  <line x1="470" y1="250" x2="585" y2="400"/>
+  <rect x="280" y="218" width="80" height="24" rx="12"><title>Seat</title></rect>
+  <line x1="320" y1="242" x2="320" y2="250"/>
+  <polyline points="470,250 462,205 515,195"/>
+  <circle cx="370" cy="400" r="30"><title>Pedal</title></circle>
+  <line x1="370" y1="400" x2="340" y2="450"/>
+  <rect x="318" y="446" width="44" height="14" rx="6"><title>Pedal</title></rect>
+  <rect x="40" y="508" width="720" height="40" rx="14"><title>Road</title></rect>
+  <path d="M 545 110 C 526.6 96.6, 552.2 72.8, 577 80.3 C 575.3 40.8, 632.9 34.9, 648.9 73 C 675.7 48.7, 721.8 65.1, 706.6 93.5 C 724.7 96.8, 724.7 123.2, 706.6 126.5 C 706.5 135.7, 660.4 152.2, 648.9 147 C 639.3 156.9, 581.8 151, 577 139.7 C 567.9 139.6, 542.3 115.8, 545 110 Z"><title>Cloud</title></path>
+  <circle cx="130" cy="120" r="44"><title>Sun</title></circle>
+</svg>

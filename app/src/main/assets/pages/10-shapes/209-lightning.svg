@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Lightning</title>
+  <!-- A lightning bolt with a smile -->
+  <polygon points="430,60 230,330 390,330 330,490 590,220 430,220 520,60"><title>Lightning</title></polygon>
+  <circle cx="375" cy="268" r="15"><title>Eye</title></circle>
+  <circle cx="377.3" cy="270.3" r="7.5"><title>Eye</title></circle>
+  <circle cx="440" cy="262" r="15"><title>Eye</title></circle>
+  <circle cx="442.3" cy="264.3" r="7.5"><title>Eye</title></circle>
+  <path d="M 388 298 Q 410 314 432 298"/>
+  <polygon points="233,505 208,540 228,540 221,570 254,534 234,534 245,505"><title>Lightning</title></polygon>
+  <polygon points="403,505 378,540 398,540 391,570 424,534 404,534 415,505"><title>Lightning</title></polygon>
+  <polygon points="573,505 548,540 568,540 561,570 594,534 574,534 585,505"><title>Lightning</title></polygon>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Dragonfly</title>
+  <!-- A dragonfly -->
+  <ellipse cx="245" cy="155" rx="125" ry="36"><title>Wing</title></ellipse>
+  <ellipse cx="255" cy="222" rx="115" ry="32"><title>Wing</title></ellipse>
+  <ellipse cx="555" cy="155" rx="125" ry="36"><title>Wing</title></ellipse>
+  <ellipse cx="545" cy="222" rx="115" ry="32"><title>Wing</title></ellipse>
+  <circle cx="400" cy="95" r="44"><title>Head</title></circle>
+  <circle cx="376" cy="90" r="15"><title>Eye</title></circle>
+  <circle cx="378.3" cy="92.3" r="7.5"><title>Eye</title></circle>
+  <circle cx="424" cy="90" r="15"><title>Eye</title></circle>
+  <circle cx="426.3" cy="92.3" r="7.5"><title>Eye</title></circle>
+  <ellipse cx="400" cy="206" rx="34" ry="62"><title>Body</title></ellipse>
+  <ellipse cx="400" cy="306" rx="22" ry="40"><title>Tail</title></ellipse>
+  <ellipse cx="400" cy="372" rx="20" ry="34"><title>Tail</title></ellipse>
+  <ellipse cx="400" cy="434" rx="18" ry="30"><title>Tail</title></ellipse>
+  <ellipse cx="400" cy="490" rx="16" ry="26"><title>Tail</title></ellipse>
+  <ellipse cx="400" cy="540" rx="14" ry="22"><title>Tail</title></ellipse>
+  <polygon points="120,430 127.9,449.1 148.5,450.7 132.8,464.2 137.6,484.3 120,473.5 102.4,484.3 107.2,464.2 91.5,450.7 112.1,449.1"><title>Star</title></polygon>
+  <polygon points="690,416 696.3,431.3 712.8,432.6 700.3,443.3 704.1,459.4 690,450.8 675.9,459.4 679.7,443.3 667.2,432.6 683.7,431.3"><title>Star</title></polygon>
+  <circle cx="110" cy="90" r="40"><title>Sun</title></circle>
+</svg>

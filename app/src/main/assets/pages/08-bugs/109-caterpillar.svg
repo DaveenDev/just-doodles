@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Caterpillar</title>
+  <!-- A caterpillar on a leaf -->
+  <path d="M 60 545 C 60 545, 143.3 516.2, 200 512 C 256.7 507.8, 333.3 520, 400 520 C 466.7 520, 543.3 507.8, 600 512 C 656.7 516.2, 740 545, 740 545 C 740 545, 690 572.5, 600 578 C 510 583.5, 290 583.5, 200 578 C 110 572.5, 60 545, 60 545 Z"><title>Leaf</title></path>
+  <circle cx="120" cy="440" r="55"><title>Body</title></circle>
+  <circle cx="225" cy="405" r="55"><title>Body</title></circle>
+  <circle cx="335" cy="380" r="55"><title>Body</title></circle>
+  <circle cx="447" cy="380" r="55"><title>Body</title></circle>
+  <circle cx="558" cy="405" r="55"><title>Body</title></circle>
+  <circle cx="120" cy="440" r="17"><title>Spot</title></circle>
+  <circle cx="225" cy="405" r="17"><title>Spot</title></circle>
+  <circle cx="335" cy="380" r="17"><title>Spot</title></circle>
+  <circle cx="447" cy="380" r="17"><title>Spot</title></circle>
+  <circle cx="558" cy="405" r="17"><title>Spot</title></circle>
+  <circle cx="685" cy="430" r="76"><title>Head</title></circle>
+  <circle cx="659" cy="418" r="17"><title>Eye</title></circle>
+  <circle cx="661.6" cy="420.6" r="8.5"><title>Eye</title></circle>
+  <circle cx="711" cy="418" r="17"><title>Eye</title></circle>
+  <circle cx="713.6" cy="420.6" r="8.5"><title>Eye</title></circle>
+  <path d="M 650 460 Q 685 486 720 460"/>
+  <line x1="660" y1="358" x2="640" y2="300"/>
+  <circle cx="636" cy="290" r="11"><title>Tip</title></circle>
+  <line x1="712" y1="360" x2="740" y2="304"/>
+  <circle cx="744" cy="294" r="11"><title>Tip</title></circle>
+</svg>

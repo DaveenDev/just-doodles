@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Piano</title>
+  <!-- A toy piano -->
+  <rect x="60" y="160" width="680" height="180" rx="16"><title>Piano</title></rect>
+  <polygon points="400,204 412.2,233.3 443.7,235.8 419.7,256.4 427,287.2 400,270.7 373,287.2 380.3,256.4 356.3,235.8 387.8,233.3"><title>Star</title></polygon>
+  <circle cx="160" cy="250" r="30"><title>Dot</title></circle>
+  <circle cx="640" cy="250" r="30"><title>Dot</title></circle>
+  <polygon points="80,340 138,340 138,450 160,450 160,520 80,520 80,450 80,450"><title>Key</title></polygon>
+  <polygon points="182,340 218,340 218,450 240,450 240,520 160,520 160,450 182,450"><title>Key</title></polygon>
+  <polygon points="262,340 320,340 320,450 320,450 320,520 240,520 240,450 262,450"><title>Key</title></polygon>
+  <polygon points="320,340 378,340 378,450 400,450 400,520 320,520 320,450 320,450"><title>Key</title></polygon>
+  <polygon points="422,340 458,340 458,450 480,450 480,520 400,520 400,450 422,450"><title>Key</title></polygon>
+  <polygon points="502,340 538,340 538,450 560,450 560,520 480,520 480,450 502,450"><title>Key</title></polygon>
+  <polygon points="582,340 640,340 640,450 640,450 640,520 560,520 560,450 582,450"><title>Key</title></polygon>
+  <polygon points="640,340 720,340 720,450 720,450 720,520 640,520 640,450 640,450"><title>Key</title></polygon>
+  <rect x="138" y="340" width="44" height="110" rx="6"><title>Black key</title></rect>
+  <rect x="218" y="340" width="44" height="110" rx="6"><title>Black key</title></rect>
+  <rect x="378" y="340" width="44" height="110" rx="6"><title>Black key</title></rect>
+  <rect x="458" y="340" width="44" height="110" rx="6"><title>Black key</title></rect>
+  <rect x="538" y="340" width="44" height="110" rx="6"><title>Black key</title></rect>
+  <rect x="60" y="520" width="680" height="40" rx="12"><title>Base</title></rect>
+</svg>

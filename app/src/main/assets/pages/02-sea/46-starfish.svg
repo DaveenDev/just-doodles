@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Starfish</title>
+  <!-- A smiling starfish -->
+  <polygon points="400,50 474.9,201.9 642.5,226.2 521.3,344.4 549.9,511.3 400,432.5 250.1,511.3 278.7,344.4 157.5,226.2 325.1,201.9"><title>Starfish</title></polygon>
+  <circle cx="400" cy="196" r="17"><title>Dot</title></circle>
+  <circle cx="400" cy="140" r="14"><title>Dot</title></circle>
+  <circle cx="400" cy="95" r="10"><title>Dot</title></circle>
+  <circle cx="498.9" cy="267.9" r="17"><title>Dot</title></circle>
+  <circle cx="552.2" cy="250.6" r="14"><title>Dot</title></circle>
+  <circle cx="595" cy="236.7" r="10"><title>Dot</title></circle>
+  <circle cx="461.1" cy="384.1" r="17"><title>Dot</title></circle>
+  <circle cx="494" cy="429.4" r="14"><title>Dot</title></circle>
+  <circle cx="520.5" cy="465.8" r="10"><title>Dot</title></circle>
+  <circle cx="338.9" cy="384.1" r="17"><title>Dot</title></circle>
+  <circle cx="306" cy="429.4" r="14"><title>Dot</title></circle>
+  <circle cx="279.5" cy="465.8" r="10"><title>Dot</title></circle>
+  <circle cx="301.1" cy="267.9" r="17"><title>Dot</title></circle>
+  <circle cx="247.8" cy="250.6" r="14"><title>Dot</title></circle>
+  <circle cx="205" cy="236.7" r="10"><title>Dot</title></circle>
+  <circle cx="366" cy="288" r="19"><title>Eye</title></circle>
+  <circle cx="368.9" cy="290.9" r="9.5"><title>Eye</title></circle>
+  <circle cx="434" cy="288" r="19"><title>Eye</title></circle>
+  <circle cx="436.9" cy="290.9" r="9.5"><title>Eye</title></circle>
+  <path d="M 372 330 Q 400 350 428 330"/>
+</svg>

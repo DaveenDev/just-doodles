@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Oval</title>
+  <!-- A oval with a smile -->
+  <ellipse cx="400" cy="290" rx="260" ry="170"><title>Oval</title></ellipse>
+  <circle cx="338.5" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="341.8" cy="263.3" r="11"><title>Eye</title></circle>
+  <circle cx="461.5" cy="260" r="22"><title>Eye</title></circle>
+  <circle cx="464.8" cy="263.3" r="11"><title>Eye</title></circle>
+  <path d="M 330 348 Q 400 400 470 348"/>
+  <circle cx="284" cy="328" r="18"><title>Cheek</title></circle>
+  <circle cx="516" cy="328" r="18"><title>Cheek</title></circle>
+  <ellipse cx="230" cy="540" rx="31.2" ry="20.4"><title>Oval</title></ellipse>
+  <ellipse cx="400" cy="540" rx="31.2" ry="20.4"><title>Oval</title></ellipse>
+  <ellipse cx="570" cy="540" rx="31.2" ry="20.4"><title>Oval</title></ellipse>
+</svg>

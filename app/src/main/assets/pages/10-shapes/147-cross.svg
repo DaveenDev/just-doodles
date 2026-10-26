@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cross</title>
+  <!-- A cross with a smile -->
+  <polygon points="300,75 500,75 500,190 615,190 615,390 500,390 500,505 300,505 300,390 185,390 185,190 300,190"><title>Cross</title></polygon>
+  <circle cx="364.6" cy="268" r="22"><title>Eye</title></circle>
+  <circle cx="367.9" cy="271.3" r="11"><title>Eye</title></circle>
+  <circle cx="435.4" cy="268" r="22"><title>Eye</title></circle>
+  <circle cx="438.7" cy="271.3" r="11"><title>Eye</title></circle>
+  <path d="M 358 342 Q 400 394 442 342"/>
+  <circle cx="333.3" cy="322" r="18"><title>Cheek</title></circle>
+  <circle cx="466.7" cy="322" r="18"><title>Cheek</title></circle>
+  <polygon points="217,512.1 243,512.1 243,527 258,527 258,553 243,553 243,568 217,568 217,553 202.1,553 202.1,527 217,527"><title>Cross</title></polygon>
+  <polygon points="387,512.1 413,512.1 413,527 428,527 428,553 413,553 413,568 387,568 387,553 372.1,553 372.1,527 387,527"><title>Cross</title></polygon>
+  <polygon points="557,512.1 583,512.1 583,527 598,527 598,553 583,553 583,568 557,568 557,553 542.1,553 542.1,527 557,527"><title>Cross</title></polygon>
+</svg>

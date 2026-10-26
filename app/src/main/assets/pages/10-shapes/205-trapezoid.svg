@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Trapezoid</title>
+  <!-- A trapezoid with a smile -->
+  <polygon points="290,110 510,110 620,470 180,470"><title>Trapezoid</title></polygon>
+  <circle cx="350" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="353.3" cy="253.3" r="11"><title>Eye</title></circle>
+  <circle cx="450" cy="250" r="22"><title>Eye</title></circle>
+  <circle cx="453.3" cy="253.3" r="11"><title>Eye</title></circle>
+  <path d="M 345 330 Q 400 379.5 455 330"/>
+  <circle cx="305" cy="315" r="18"><title>Cheek</title></circle>
+  <circle cx="495" cy="315" r="18"><title>Cheek</title></circle>
+  <polygon points="214.6,514.8 245.4,514.8 260.8,565.2 199.2,565.2"><title>Trapezoid</title></polygon>
+  <polygon points="384.6,514.8 415.4,514.8 430.8,565.2 369.2,565.2"><title>Trapezoid</title></polygon>
+  <polygon points="554.6,514.8 585.4,514.8 600.8,565.2 539.2,565.2"><title>Trapezoid</title></polygon>
+</svg>

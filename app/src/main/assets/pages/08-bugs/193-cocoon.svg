@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" stroke="#263238" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cocoon</title>
+  <!-- A sleepy cocoon hanging from a branch -->
+  <line x1="400" y1="124" x2="400" y2="166"/>
+  <rect x="100" y="90" width="600" height="34" rx="17"><title>Branch</title></rect>
+  <path d="M 560 110 C 600 50, 670 48, 700 70 C 680 120, 610 135, 560 110 Z"><title>Leaf</title></path>
+  <path d="M 400 160 C 420.7 160, 446.7 176.7, 462 200 C 477.3 223.3, 490.3 263.3, 492 300 C 493.7 336.7, 487.3 386.3, 472 420 C 456.7 453.7, 424 502, 400 502 C 376 502, 343.3 453.7, 328 420 C 312.7 386.3, 306.3 336.7, 308 300 C 309.7 263.3, 322.7 223.3, 338 200 C 353.3 176.7, 379.3 160, 400 160 Z"><title>Cocoon</title></path>
+  <path d="M 330 240 Q 400 262 470 240"/>
+  <path d="M 316 420 Q 400 448 484 420"/>
+  <path d="M 350 315 Q 368 330 386 315"/>
+  <path d="M 414 315 Q 432 330 450 315"/>
+  <path d="M 380 360 Q 400 374 420 360"/>
+  <polyline points="530,190 565,190 530,225 565,225"/>
+  <polyline points="580,140 605,140 580,165 605,165"/>
+</svg>
