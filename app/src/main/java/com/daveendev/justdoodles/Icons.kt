@@ -47,6 +47,30 @@ enum class Icon(val label: String) {
     GAME_MEMORY("Memory"),
     GAME_SHAPE_SORT("Sort the shapes"),
     GAME_JIGSAW("Jigsaw"),
+    GAME_BALLOONS("Balloons"),
+    GAME_DRUMS("Drums"),
+    GAME_FACES("Funny faces"),
+    GAME_FISHING("Fishing"),
+    GAME_STARS("Catch the stars"),
+    GAME_COUNT("Count with me"),
+    GAME_BIG_SMALL("Big and small"),
+    GAME_SHADOWS("Shadows"),
+    GAME_TRAIN("Choo choo train"),
+    GAME_WIPE("Rub and see"),
+    GAME_FLOWERS("Grow flowers"),
+    GAME_BLOCKS("Block tower"),
+    LEARN_WILD("Wild animals"),
+    LEARN_PETS("Pets"),
+    LEARN_BIRDS("Birds"),
+    LEARN_FARM("Farm"),
+    LEARN_GARDEN("Garden"),
+    LEARN_CARS("Cars and trucks"),
+    LEARN_FLYING("Up and away"),
+    LEARN_FRUITS("Fruits"),
+    LEARN_WEATHER("Weather"),
+    LEARN_SPACE("Space"),
+    LEARN_TOYS("Toys"),
+    LEARN_BEACH("Beach"),
     LOCK("Locked"),
 }
 
@@ -145,6 +169,12 @@ object Icons {
             Icon.GAME_MEMORY -> memory(c)
             Icon.GAME_SHAPE_SORT -> shapeSort(c)
             Icon.GAME_JIGSAW -> jigsaw(c)
+            Icon.GAME_BALLOONS, Icon.GAME_DRUMS, Icon.GAME_FACES, Icon.GAME_FISHING, Icon.GAME_STARS, Icon.GAME_COUNT,
+            Icon.GAME_BIG_SMALL, Icon.GAME_SHADOWS, Icon.GAME_TRAIN, Icon.GAME_WIPE, Icon.GAME_FLOWERS,
+            Icon.GAME_BLOCKS -> GameIcons.draw(c, icon)
+            Icon.LEARN_WILD, Icon.LEARN_PETS, Icon.LEARN_BIRDS, Icon.LEARN_FARM, Icon.LEARN_GARDEN, Icon.LEARN_CARS,
+            Icon.LEARN_FLYING, Icon.LEARN_FRUITS, Icon.LEARN_WEATHER, Icon.LEARN_SPACE, Icon.LEARN_TOYS,
+            Icon.LEARN_BEACH -> LessonIcons.draw(c, icon)
             Icon.LOCK -> lock(c)
         }
     }

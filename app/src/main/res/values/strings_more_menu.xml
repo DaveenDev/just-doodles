@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The 12 more games on the Play screen: card label for the grown-ups, then the line said when it's picked. -->
+    <string name="game_balloons">Balloons</string>
+    <string name="game_drums">Drums</string>
+    <string name="game_faces">Funny faces</string>
+    <string name="game_fishing">Fishing</string>
+    <string name="game_stars">Stars</string>
+    <string name="game_count">Counting</string>
+    <string name="game_big_small">Big and small</string>
+    <string name="game_shadows">Shadows</string>
+    <string name="game_train">Choo choo</string>
+    <string name="game_wipe">Rub and see</string>
+    <string name="game_flowers">Flowers</string>
+    <string name="game_blocks">Blocks</string>
+    <string name="say_game_balloons">Pop the balloons</string>
+    <string name="say_game_drums">Bang the drums</string>
+    <string name="say_game_faces">Funny faces</string>
+    <string name="say_game_fishing">Let\'s go fishing</string>
+    <string name="say_game_stars">Catch the stars</string>
+    <string name="say_game_count">Count with me</string>
+    <string name="say_game_big_small">Big and small</string>
+    <string name="say_game_shadows">Match the shadows</string>
+    <string name="say_game_train">Choo choo</string>
+    <string name="say_game_wipe">Rub and see</string>
+    <string name="say_game_flowers">Grow some flowers</string>
+    <string name="say_game_blocks">Build a tower</string>
+
+    <!-- The 12 more Learn topics. -->
+    <string name="lesson_wild">Wild animals</string>
+    <string name="lesson_pets">Pets</string>
+    <string name="lesson_birds">Birds</string>
+    <string name="lesson_farm">Farm</string>
+    <string name="lesson_garden">Garden</string>
+    <string name="lesson_cars">Cars and trucks</string>
+    <string name="lesson_flying">Up and away</string>
+    <string name="lesson_fruits">Fruits</string>
+    <string name="lesson_weather">Weather</string>
+    <string name="lesson_space">Space</string>
+    <string name="lesson_toys">Toys</string>
+    <string name="lesson_beach">Beach</string>
+    <string name="say_lesson_wild">Wild animals</string>
+    <string name="say_lesson_pets">Our pets</string>
+    <string name="say_lesson_birds">Birds</string>
+    <string name="say_lesson_farm">On the farm</string>
+    <string name="say_lesson_garden">In the garden</string>
+    <string name="say_lesson_cars">Cars and trucks</string>
+    <string name="say_lesson_flying">Up and away</string>
+    <string name="say_lesson_fruits">Yummy fruits</string>
+    <string name="say_lesson_weather">The weather</string>
+    <string name="say_lesson_space">Out in space</string>
+    <string name="say_lesson_toys">Toys</string>
+    <string name="say_lesson_beach">At the beach</string>
+</resources>

@@ -33,7 +33,7 @@ Same card style as Drawings and donate: a white card, with Back in the header.
 - **One line:** *"One payment, yours to keep. No subscription, no ads, ever."*
 - **What it adds**, as short lines (each one a string, so it can be translated):
   - All 210 coloring pages (140 more)
-  - 7 more games and 7 more Learn topics
+  - 15 more games and 15 more Learn topics
   - Magic crayon: rainbow, glitter, glow and mirror
   - Stamps, stickers and pattern crayons
   - Save drawings to the phone, and share them

@@ -13,8 +13,12 @@ object Plus {
     const val FREE_PAGES_PER_GROUP = 7
 
     /** The games and Learn topics that are free; the others need PLUS. */
-    val FREE_GAMES = setOf(Game.PEEKABOO, Game.FIND_IT, Game.XYLOPHONE)
-    val FREE_LESSONS = setOf(Lesson.COLORS, Lesson.SHAPES, Lesson.COUNT)
+    val FREE_GAMES = setOf(
+        Game.PEEKABOO, Game.FIND_IT, Game.XYLOPHONE, Game.COLOR_SORT, Game.FEED, Game.TRACE, Game.BUBBLES,
+    )
+    val FREE_LESSONS = setOf(
+        Lesson.COLORS, Lesson.SHAPES, Lesson.COUNT, Lesson.ANIMALS, Lesson.ABC, Lesson.BODY, Lesson.FOOD,
+    )
 
     /** The crayon and the eraser are always there; every other tool needs PLUS. */
     private val FREE_TOOLS = setOf(Tool.BRUSH, Tool.ERASER)

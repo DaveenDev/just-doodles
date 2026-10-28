@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Learn topics made from picked coloring pages, by title (see Decks.pictures). A title with no page is skipped. -->
+    <string-array name="words_wild">
+        <item>Lion</item><item>Tiger</item><item>Elephant</item><item>Giraffe</item><item>Monkey</item>
+        <item>Bear</item><item>Panda</item><item>Koala</item><item>Hippo</item><item>Fox</item>
+        <item>Hedgehog</item><item>Snake</item><item>Penguin</item>
+    </string-array>
+    <string-array name="words_pets">
+        <item>Dog</item><item>Cat</item><item>Bunny</item><item>Mouse</item><item>Fish</item><item>Turtle</item>
+    </string-array>
+    <string-array name="words_birds">
+        <item>Duck</item><item>Owl</item><item>Penguin</item><item>Rooster</item><item>Turkey</item>
+        <item>Hen</item><item>Chick</item><item>Bird</item>
+    </string-array>
+    <string-array name="words_cars">
+        <item>Car</item><item>Taxi</item><item>Jeepney</item><item>Bus</item><item>Truck</item>
+        <item>Garbage truck</item><item>Fire truck</item><item>Ambulance</item><item>Police car</item>
+        <item>Motorbike</item><item>Digger</item><item>Tractor</item><item>Train</item><item>Bicycle</item>
+        <item>Scooter</item>
+    </string-array>
+    <string-array name="words_flying">
+        <item>Plane</item><item>Helicopter</item><item>Rocket</item><item>Hot air balloon</item>
+        <item>Paper plane</item><item>UFO</item><item>Parachute</item><item>Kite</item><item>Balloons</item>
+    </string-array>
+    <string-array name="words_fruits">
+        <item>Apple</item><item>Banana</item><item>Mango</item><item>Strawberry</item><item>Watermelon</item>
+        <item>Pear</item><item>Orange</item><item>Grapes</item><item>Cherries</item><item>Pineapple</item>
+    </string-array>
+    <string-array name="words_weather">
+        <item>Sun</item><item>Cloud</item><item>Rain cloud</item><item>Storm cloud</item><item>Raindrop</item>
+        <item>Rainbow</item><item>Snowflake</item><item>Umbrella</item><item>Sunrise</item>
+    </string-array>
+    <string-array name="words_space">
+        <item>Earth</item><item>Moon</item><item>Star</item><item>Planet</item><item>Rocket</item>
+        <item>UFO</item><item>Telescope</item><item>Shooting star</item><item>Sun</item>
+    </string-array>
+    <string-array name="words_beach">
+        <item>Seashell</item><item>Bucket</item><item>Swim ring</item><item>Sandcastle</item><item>Anchor</item>
+        <item>Lighthouse</item><item>Beach ball</item><item>Treasure chest</item><item>Crab</item>
+        <item>Starfish</item><item>Sailboat</item>
+    </string-array>
+</resources>

@@ -27,7 +27,19 @@ enum class Lesson(val icon: Icon, val label: Int, val say: Int, val color: Int) 
     FOOD(Icon.LEARN_FOOD, R.string.lesson_food, R.string.say_lesson_food, 0xFFFF8A65.toInt()),
     SEA(Icon.LEARN_SEA, R.string.lesson_sea, R.string.say_lesson_sea, 0xFF4DD0E1.toInt()),
     BUGS(Icon.LEARN_BUGS, R.string.lesson_bugs, R.string.say_lesson_bugs, 0xFFAED581.toInt()),
-    SKY(Icon.LEARN_SKY, R.string.lesson_sky, R.string.say_lesson_sky, 0xFF9FA8DA.toInt());
+    SKY(Icon.LEARN_SKY, R.string.lesson_sky, R.string.say_lesson_sky, 0xFF9FA8DA.toInt()),
+    WILD(Icon.LEARN_WILD, R.string.lesson_wild, R.string.say_lesson_wild, 0xFFFFB74D.toInt()),
+    PETS(Icon.LEARN_PETS, R.string.lesson_pets, R.string.say_lesson_pets, 0xFFF48FB1.toInt()),
+    BIRDS(Icon.LEARN_BIRDS, R.string.lesson_birds, R.string.say_lesson_birds, 0xFF64B5F6.toInt()),
+    FARM(Icon.LEARN_FARM, R.string.lesson_farm, R.string.say_lesson_farm, 0xFFE57373.toInt()),
+    GARDEN(Icon.LEARN_GARDEN, R.string.lesson_garden, R.string.say_lesson_garden, 0xFF81C784.toInt()),
+    CARS(Icon.LEARN_CARS, R.string.lesson_cars, R.string.say_lesson_cars, 0xFFFF8A65.toInt()),
+    FLYING(Icon.LEARN_FLYING, R.string.lesson_flying, R.string.say_lesson_flying, 0xFF4FC3F7.toInt()),
+    FRUITS(Icon.LEARN_FRUITS, R.string.lesson_fruits, R.string.say_lesson_fruits, 0xFFFFCA28.toInt()),
+    WEATHER(Icon.LEARN_WEATHER, R.string.lesson_weather, R.string.say_lesson_weather, 0xFF7986CB.toInt()),
+    SPACE(Icon.LEARN_SPACE, R.string.lesson_space, R.string.say_lesson_space, 0xFF5C6BC0.toInt()),
+    TOYS(Icon.LEARN_TOYS, R.string.lesson_toys, R.string.say_lesson_toys, 0xFFBA68C8.toInt()),
+    BEACH(Icon.LEARN_BEACH, R.string.lesson_beach, R.string.say_lesson_beach, 0xFF4DD0E1.toInt());
 
     fun create(context: Context, host: GameHost): View = when (this) {
         COLORS -> LearnView(context, host, Decks.colors(context))
@@ -40,6 +52,18 @@ enum class Lesson(val icon: Icon, val label: Int, val say: Int, val color: Int) 
         SEA -> LearnView(context, host, Decks.group(context, host, "02-sea"))
         BUGS -> LearnView(context, host, Decks.group(context, host, "08-bugs"))
         SKY -> LearnView(context, host, Decks.group(context, host, "06-sky"))
+        WILD -> LearnView(context, host, Decks.pictures(context, host, R.array.words_wild))
+        PETS -> LearnView(context, host, Decks.pictures(context, host, R.array.words_pets))
+        BIRDS -> LearnView(context, host, Decks.pictures(context, host, R.array.words_birds))
+        FARM -> LearnView(context, host, Decks.group(context, host, "07-farm"))
+        GARDEN -> LearnView(context, host, Decks.group(context, host, "03-garden"))
+        CARS -> LearnView(context, host, Decks.pictures(context, host, R.array.words_cars))
+        FLYING -> LearnView(context, host, Decks.pictures(context, host, R.array.words_flying))
+        FRUITS -> LearnView(context, host, Decks.pictures(context, host, R.array.words_fruits))
+        WEATHER -> LearnView(context, host, Decks.pictures(context, host, R.array.words_weather))
+        SPACE -> LearnView(context, host, Decks.pictures(context, host, R.array.words_space))
+        TOYS -> LearnView(context, host, Decks.group(context, host, "09-toys"))
+        BEACH -> LearnView(context, host, Decks.pictures(context, host, R.array.words_beach))
     }
 }
 
@@ -117,6 +141,17 @@ object Decks {
     fun group(context: Context, host: GameHost, id: String): List<LearnItem> =
         host.group(id)?.pages.orEmpty().mapNotNull { page ->
             val title = page.title ?: return@mapNotNull null
+            LearnItem(
+                look = "$title!",
+                ask = context.getString(R.string.say_where_is, title.lowercase()),
+                other = context.getString(R.string.say_thats_the, title.lowercase()),
+            ) { c, r, s -> picture(c, r, s, page) }
+        }
+
+    /** The pictures named in string array [titles] (any coloring pages, from any group), named like [group]. */
+    fun pictures(context: Context, host: GameHost, titles: Int): List<LearnItem> =
+        context.resources.getStringArray(titles).mapNotNull { title ->
+            val page = host.page(title) ?: return@mapNotNull null
             LearnItem(
                 look = "$title!",
                 ask = context.getString(R.string.say_where_is, title.lowercase()),

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fishing, Choo choo and Rub and see: the few words they say besides picture names. -->
+    <string name="g_fishing_splash">Splash!</string>
+    <string name="g_train_choo">Choo choo!</string>
+    <string name="g_wipe_found">%1$s!</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Funny faces: the word said for each style, in the order the styles cycle. -->
+    <string-array name="g_faces_eyes">
+        <item>Round eyes!</item>
+        <item>Big eyes!</item>
+        <item>Tiny eyes!</item>
+        <item>Happy eyes!</item>
+        <item>Heart eyes!</item>
+        <item>Star eyes!</item>
+        <item>Wink!</item>
+    </string-array>
+    <string-array name="g_faces_noses">
+        <item>Nose!</item>
+        <item>Little nose!</item>
+        <item>Button nose!</item>
+        <item>Big red nose!</item>
+        <item>Piggy nose!</item>
+        <item>Kitty nose!</item>
+    </string-array>
+    <string-array name="g_faces_mouths">
+        <item>Smile!</item>
+        <item>Big smile!</item>
+        <item>Ooh!</item>
+        <item>Blah!</item>
+        <item>Cheese!</item>
+        <item>Kiss!</item>
+    </string-array>
+    <string-array name="g_faces_hair">
+        <item>One curl!</item>
+        <item>Short hair!</item>
+        <item>Pigtails!</item>
+        <item>Curly hair!</item>
+        <item>Spiky hair!</item>
+        <item>Long hair!</item>
+    </string-array>
+    <string-array name="g_faces_ears">
+        <item>Ears!</item>
+        <item>Big ears!</item>
+        <item>Pointy ears!</item>
+        <item>Floppy ears!</item>
+        <item>Mousey ears!</item>
+        <item>Bunny ears!</item>
+    </string-array>
+    <string name="g_faces_giggle">Hee hee!</string>
+    <string name="g_faces_blush">Rosy cheeks!</string>
+
+    <!-- Flowers. -->
+    <string name="g_flowers_pretty">Pretty!</string>
+
+    <!-- Blocks. -->
+    <string name="g_blocks_tall">Tall tower!</string>
+    <string name="g_blocks_tumble">Wheee!</string>
+</resources>

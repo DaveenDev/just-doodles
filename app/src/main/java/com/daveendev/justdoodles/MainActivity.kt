@@ -691,6 +691,7 @@ class MainActivity : Activity() {
         }
         closeTray()
         closeLocked()
+        val fromScreen = screenView != null
         closeScreen()
         screen = next
         val view = when (next) {
@@ -705,9 +706,11 @@ class MainActivity : Activity() {
             Screen.LESSON -> buildLesson(lesson?.takeIf { Plus.lessonOpen(it) } ?: return showScreen(Screen.LESSONS))
             Screen.EASEL -> return
         }
-        view.alpha = 0f
+        // Fading in only from the easel: between screens the old one is already gone, so a fade
+        // would show the easel's paper through the new screen for a moment.
+        if (!fromScreen) view.alpha = 0f
         root.addView(view, root.indexOfChild(babyLayer) + 1, FrameLayout.LayoutParams(MATCH_PARENT, MATCH_PARENT))
-        view.animate().alpha(1f).setDuration(150).start()
+        if (!fromScreen) view.animate().alpha(1f).setDuration(150).start()
         screenView = view
     }
 
@@ -786,17 +789,22 @@ class MainActivity : Activity() {
     /** [cards] filling the screen in two rows, with a Back button to the start menu. */
     private fun bigCards(cards: List<View>): View = screenFrame(twoRows(cards), onBack = { showScreen(Screen.MENU) })
 
-    /** [cards] filling the space between the tool columns in two rows, the top row taking any odd one. */
+    /**
+     * [cards] filling the space between the tool columns in two rows (the top row taking any odd one),
+     * or in four rows once there are more than a dozen. A short last row is padded with empty
+     * spaces, so every card is the same size.
+     */
     private fun twoRows(cards: List<View>): View {
         val side = toolColumnWidth()
-        val columns = (cards.size + 1) / 2
+        val rows = if (cards.size > 12) 4 else 2
+        val columns = (cards.size + rows - 1) / rows
         val grid = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
             setPadding(side, dpi(16f), side, dpi(16f))
         }
         for (rowCards in cards.chunked(columns)) {
             val row = LinearLayout(this).apply { orientation = LinearLayout.HORIZONTAL }
-            for (card in rowCards) {
+            for (card in rowCards + List(if (rows > 2) columns - rowCards.size else 0) { View(this) }) {
                 row.addView(card, LinearLayout.LayoutParams(0, MATCH_PARENT, 1f).apply {
                     setMargins(dpi(10f), dpi(8f), dpi(10f), dpi(8f))
                 })

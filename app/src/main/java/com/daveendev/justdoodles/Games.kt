@@ -18,7 +18,19 @@ enum class Game(val icon: Icon, val label: Int, val say: Int, val color: Int) {
     BUBBLES(Icon.GAME_BUBBLES, R.string.game_bubbles, R.string.say_game_bubbles, 0xFF4DD0E1.toInt()),
     MEMORY(Icon.GAME_MEMORY, R.string.game_memory, R.string.say_game_memory, 0xFF9FA8DA.toInt()),
     SHAPE_SORT(Icon.GAME_SHAPE_SORT, R.string.game_shape_sort, R.string.say_game_shape_sort, 0xFFFFD54F.toInt()),
-    JIGSAW(Icon.GAME_JIGSAW, R.string.game_jigsaw, R.string.say_game_jigsaw, 0xFFAED581.toInt());
+    JIGSAW(Icon.GAME_JIGSAW, R.string.game_jigsaw, R.string.say_game_jigsaw, 0xFFAED581.toInt()),
+    BALLOONS(Icon.GAME_BALLOONS, R.string.game_balloons, R.string.say_game_balloons, 0xFFE57373.toInt()),
+    DRUMS(Icon.GAME_DRUMS, R.string.game_drums, R.string.say_game_drums, 0xFFFFB74D.toInt()),
+    FACES(Icon.GAME_FACES, R.string.game_faces, R.string.say_game_faces, 0xFFFFCA28.toInt()),
+    FISHING(Icon.GAME_FISHING, R.string.game_fishing, R.string.say_game_fishing, 0xFF4FC3F7.toInt()),
+    STARS(Icon.GAME_STARS, R.string.game_stars, R.string.say_game_stars, 0xFF7986CB.toInt()),
+    TAP_COUNT(Icon.GAME_COUNT, R.string.game_count, R.string.say_game_count, 0xFF4DB6AC.toInt()),
+    BIG_SMALL(Icon.GAME_BIG_SMALL, R.string.game_big_small, R.string.say_game_big_small, 0xFFBA68C8.toInt()),
+    SHADOWS(Icon.GAME_SHADOWS, R.string.game_shadows, R.string.say_game_shadows, 0xFF90A4AE.toInt()),
+    TRAIN(Icon.GAME_TRAIN, R.string.game_train, R.string.say_game_train, 0xFFFF8A65.toInt()),
+    WIPE(Icon.GAME_WIPE, R.string.game_wipe, R.string.say_game_wipe, 0xFF81C784.toInt()),
+    FLOWERS(Icon.GAME_FLOWERS, R.string.game_flowers, R.string.say_game_flowers, 0xFFF06292.toInt()),
+    BLOCKS(Icon.GAME_BLOCKS, R.string.game_blocks, R.string.say_game_blocks, 0xFF64B5F6.toInt());
 
     fun create(context: Context, host: GameHost): View = when (this) {
         PEEKABOO -> PeekabooView(context, host)
@@ -31,6 +43,18 @@ enum class Game(val icon: Icon, val label: Int, val say: Int, val color: Int) {
         MEMORY -> MemoryView(context, host)
         SHAPE_SORT -> ShapeSortView(context, host)
         JIGSAW -> JigsawView(context, host)
+        BALLOONS -> BalloonsView(context, host)
+        DRUMS -> DrumsView(context, host)
+        FACES -> FacesView(context, host)
+        FISHING -> FishingView(context, host)
+        STARS -> StarsView(context, host)
+        TAP_COUNT -> TapCountView(context, host)
+        BIG_SMALL -> BigSmallView(context, host)
+        SHADOWS -> ShadowsView(context, host)
+        TRAIN -> TrainView(context, host)
+        WIPE -> WipeView(context, host)
+        FLOWERS -> FlowersView(context, host)
+        BLOCKS -> BlocksView(context, host)
     }
 
     companion object {

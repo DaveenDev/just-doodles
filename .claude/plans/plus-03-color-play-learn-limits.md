@@ -33,14 +33,16 @@ These are most toddlers' first words, so the free set holds up as a full app on 
 - `buildPages(cat)`: check `Plus.pageOpen(index, store.has(page.id))` for each page. A locked page gets the badge (plan 02), and its tap calls `showLocked(page)` instead of `choosePage`.
 - `choosePage(id)`, and restoring `colorPageId` in `onCreate`: refuse a locked page. This guards against a stale saved id.
 
-## Play and Learn: 3 whole games and 3 whole topics free (decided 2026-10-22)
+## Play and Learn: 7 whole games and 7 whole topics free, 15 more of each on PLUS (decided 2026-10-28)
 
-| | Free | PLUS |
+First decided 2026-10-22 as 3 free and 7 PLUS of each. On 2026-10-28 the free sets grew to 7, and 12 new games and 12 new topics were added, so each screen now has 22 cards (a 6 x 4 grid).
+
+| | Free (7) | PLUS (15) |
 |---|---|---|
-| Play | Peekaboo, Where is it?, Xylophone | Colors sort, Feed me, Roads, Bubble pop, Memory, Shape sorter, Jigsaw |
-| Learn | Colors, Shapes, Counting | Animal sounds, ABC, My body, Food, Sea animals, Bugs, Sky |
+| Play | Peekaboo, Where is it?, Xylophone, Colors, Feed me, Roads, Bubble pop | Memory, Shape sorter, Jigsaw, Balloons, Drums, Funny faces, Fishing, Stars, Counting, Big and small, Shadows, Choo choo, Rub and see, Flowers, Blocks |
+| Learn | Colors, Shapes, Counting, Animal sounds, ABC, My body, Food | Sea animals, Bugs, Sky, Wild animals, Pets, Birds, Farm, Garden, Cars and trucks, Up and away, Fruits, Weather, Space, Toys, Beach |
 
-The free ones are the first row of cards on each screen.
+The free ones are the first 7 cards on each screen. The new Learn topics are built from coloring pages by title (the `words_*` arrays in `arrays_more_lessons.xml`) or a whole group; the new games are `BalloonsView`, `DrumsView`, `FacesView`, `FishingView`, `StarsView`, `TapCountView`, `BigSmallView`, `ShadowsView`, `TrainView`, `WipeView`, `FlowersView` and `BlocksView`.
 
 **Why this split:** every free activity is complete, the child meets one locked card rather than decks that end early, and nothing changes inside any game or topic.
 
@@ -56,7 +58,7 @@ The free ones are the first row of cards on each screen.
 ## Checks
 
 - Free tier: every free picture opens, and every locked one shows the pop-up. A locked page the child had colored before still opens.
-- On the Play and Learn screens, the 3 locked cards show the padlock; tapping one says its name, shows the pop-up, and doesn't open it.
-- Peekaboo, Where is it?, Xylophone, Colors, Shapes and Counting play in full, exactly as today.
+- On the Play and Learn screens, the 15 locked cards show the padlock; tapping one says its name, shows the pop-up, and doesn't open it.
+- The 7 free games and the 7 free topics play in full.
 - A refund while a PLUS game is open goes back to the Games screen on the next rebuild (plan 01's live refresh).
 - PLUS on: everything opens, as today.

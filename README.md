@@ -19,11 +19,11 @@ Ready to paste. Google Play doesn't allow price or promo words like "Free" or "N
 
 > Just Doodles is a drawing and coloring app for little ones, and that's all it is. No ads, no accounts and no internet access, so there is nothing to tap by accident and nothing that leaves the phone.
 >
-> It's free to play, with 70 coloring pages, three games, three Learn topics and crayons in 12 colors. One optional upgrade, Just Doodles PLUS, unlocks everything else for a single payment: no subscription, and future updates included. It's for grown-ups, behind a parent check; children never see ads, prices or sales pop-ups.
+> It's free to play, with 70 coloring pages, seven games, seven Learn topics and crayons in 12 colors. One optional upgrade, Just Doodles PLUS, unlocks everything else for a single payment: no subscription, and future updates included. It's for grown-ups, behind a parent check; children never see ads, prices or sales pop-ups.
 >
 > • Four big buttons to start: Free Draw, Color, Play or Learn, with no reading needed
-> • Learn: colors, shapes, counting to ten, animal sounds, the ABC and the parts of the body, all said out loud, each followed by a gentle "Where's red?" game
-> • Play: ten little games. Peekaboo (rub the cloud away to find a picture), Where is it? ("Where's the cow?"), a rainbow xylophone, sorting colored balls into buckets, feeding hungry animals, following a dotted road, popping picture bubbles, finding matching pairs, a shape sorter and big-piece jigsaws. Nothing to lose, no timers, no scores
+> • Learn: 22 topics, all said out loud, each followed by a gentle "Where's red?" game. Colors, shapes, counting to ten, animal sounds, the ABC, the parts of the body and food, then sea animals, bugs, the sky, wild animals, pets, birds, the farm, the garden, cars and trucks, things that fly, fruits, weather, space, toys and the beach
+> • Play: 22 little games. Peekaboo (rub the cloud away to find a picture), Where is it? ("Where's the cow?"), a rainbow xylophone, sorting colored balls into buckets, feeding hungry animals, following a dotted road and popping picture bubbles, then matching pairs, a shape sorter, big-piece jigsaws, balloons, drums, funny faces, fishing, catching stars, counting, big and small, shadows, a choo-choo train, rub-and-see pictures, growing flowers and stacking blocks. Nothing to lose, no timers, no scores
 > • Free Draw: white or black paper, stickers to drop in, and pattern crayons that draw hearts, stars, zigzags, train tracks and paw prints
 > • Color: 210 coloring pages in 10 groups (animals, sea, garden, things that go, food, sky, farm, bugs, toys, shapes). Tap a shape to fill it, or color by hand
 > • 12 bright crayon colors in 3 sizes, plus a magic crayon: rainbow, glitter, glow and mirror
@@ -35,8 +35,8 @@ Ready to paste. Google Play doesn't allow price or promo words like "Free" or "N
 > • Every picture is saved automatically, and grown-ups can save or share one
 > • Back button and accidental taps can't leave or wipe a drawing; grown-up settings sit behind a long press
 >
-> **Free:** Free Draw with crayons and the eraser; the first 7 pictures of every coloring group; Peekaboo, Where is it? and the xylophone; Colors, Shapes and Counting in Learn; baby mode and the bedtime timer.
-> **PLUS (one payment):** all 210 coloring pages; Colors sort, Feed me, Roads, Bubble pop, Memory, Shape sorter and Jigsaw; Animal sounds, ABC, My body, Food, Sea animals, Bugs and Sky; the magic crayon, stamps, stickers and pattern crayons; saving and sharing drawings; and new pictures and tools as they come.
+> **Free:** Free Draw with crayons and the eraser; the first 7 pictures of every coloring group; 7 games (Peekaboo, Where is it?, the xylophone, Colors, Feed me, Roads and Bubble pop); 7 Learn topics (Colors, Shapes, Counting, Animal sounds, ABC, My body and Food); baby mode and the bedtime timer.
+> **PLUS (one payment):** all 210 coloring pages; 15 more games and 15 more Learn topics; the magic crayon, stamps, stickers and pattern crayons; saving and sharing drawings; and new pictures and tools as they come.
 >
 > Made by a parent. No ads, ever, in the free version too.
 
@@ -159,7 +159,7 @@ For every new release, raise `versionCode` (and `versionName`) in `app/build.gra
 5. **License testing** (Setup → License testing): add your own Google account(s). Testers get test cards and are never charged. Install the internal-testing build from the tester link and try: buy (*always approves*), decline (*always declines*), the *slow test card* (waiting for payment, then PLUS turns on by itself), cancel, uninstall and reinstall (PLUS comes back), airplane mode (PLUS stays on), and a refund with **revoke** in Order management (back to free on the next open, drawings kept).
 6. App content: privacy policy URL; target audience *under 5*; ads: *no*; app access: *all features without login* (PLUS is optional); content rating questionnaire. **Data safety**: the app itself collects and shares nothing; check Google's guidance on the Play Billing Library and declare what it says. The "Contains in-app purchases" label appears by itself once the product is active.
 7. Store listing: the text above, a 512 × 512 icon, a 1024 × 500 feature graphic and 2–8 screenshots (no side more than twice the other, so crop the phone's 2354 × 1080 shots to about 2160 × 1080).
-8. **What's new** for this release (1.2): *New: Just Doodles PLUS, a one-time upgrade for grown-ups with 140 more coloring pages, more games and Learn topics, magic crayons, stamps, stickers and saving. Still no ads, ever.*
+8. **What's new** for this release (1.2): *New: Just Doodles PLUS, a one-time upgrade for grown-ups with 140 more coloring pages, 15 more games and 15 more Learn topics, magic crayons, stamps, stickers and saving. Still no ads, ever.*
 9. After the 14 days, apply for production access and promote the release.
 
 Before each release, check the Play build's permissions with `aapt2 dump permissions app/build/outputs/apk/play/release/app-play-release.apk`. As of 1.2 it lists exactly `com.android.vending.BILLING`, `android.permission.ACCESS_NETWORK_STATE` and the app's own `DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION` (Android's way of keeping the app's internal messages private). **Never `android.permission.INTERNET`**; if it shows up, a library update brought it back.

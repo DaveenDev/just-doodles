@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drums: said now and then when a pad is banged. In the order: drum 1, 2, 3, 4, then the cymbal. -->
+    <string-array name="g_drums_words">
+        <item>Boom!</item>
+        <item>Bang!</item>
+        <item>Boop!</item>
+        <item>Bop!</item>
+        <item>Crash!</item>
+    </string-array>
+
+    <!-- Stars: said when a star is caught. -->
+    <string-array name="g_stars_words">
+        <item>Star!</item>
+        <item>Twinkle!</item>
+        <item>Sparkle!</item>
+        <item>Got it!</item>
+    </string-array>
+</resources>

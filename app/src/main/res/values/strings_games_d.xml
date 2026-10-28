@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Things to count in the counting game, as "Picture title=one|many". The title is a coloring
+      page's title (a missing one is skipped); the words are what is said: "Three apples!".
+    -->
+    <string-array name="g_count_things">
+        <item>Apple=apple|apples</item>
+        <item>Banana=banana|bananas</item>
+        <item>Strawberry=strawberry|strawberries</item>
+        <item>Orange=orange|oranges</item>
+        <item>Cupcake=cupcake|cupcakes</item>
+        <item>Cookie=cookie|cookies</item>
+        <item>Donut=donut|donuts</item>
+        <item>Duck=duck|ducks</item>
+        <item>Cat=cat|cats</item>
+        <item>Dog=dog|dogs</item>
+        <item>Pig=pig|pigs</item>
+        <item>Cow=cow|cows</item>
+        <item>Frog=frog|frogs</item>
+        <item>Fish=fish|fish</item>
+        <item>Bunny=bunny|bunnies</item>
+        <item>Owl=owl|owls</item>
+        <item>Penguin=penguin|penguins</item>
+        <item>Butterfly=butterfly|butterflies</item>
+        <item>Ladybug=ladybug|ladybugs</item>
+        <item>Bee=bee|bees</item>
+        <item>Car=car|cars</item>
+        <item>Bus=bus|buses</item>
+        <item>Star=star|stars</item>
+        <item>Heart=heart|hearts</item>
+        <item>Flower=flower|flowers</item>
+        <item>Sun=sun|suns</item>
+        <item>Tree=tree|trees</item>
+        <item>Crab=crab|crabs</item>
+        <item>Starfish=starfish|starfish</item>
+        <item>Seashell=seashell|seashells</item>
+    </string-array>
+
+    <!-- %1$s is what is in the pictures, such as "cow" -->
+    <string name="g_big_small_where_big">Where is the big %1$s?</string>
+    <string name="g_big_small_where_small">Where is the small %1$s?</string>
+    <string name="g_big_small_yes_big">Yes! The big %1$s!</string>
+    <string name="g_big_small_yes_small">Yes! The small %1$s!</string>
+    <string name="g_big_small_that_big">That is the big one.</string>
+    <string name="g_big_small_that_small">That is the small one.</string>
+
+    <string name="g_shadows_whose">Whose shadow is this?</string>
+    <string name="g_shadows_try_again">Try again!</string>
+    <!-- %1$s is what the shadow is, such as "cow" -->
+    <string name="g_shadows_yes">Yes! The %1$s!</string>
+</resources>
