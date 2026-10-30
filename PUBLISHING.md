@@ -8,7 +8,7 @@ Tick these off in order. The long version, with the reasons, is "Publishing on G
 ## Before Play Console
 
 - [ ] Developer account verified (fee paid, identity checked).
-- [ ] Reread `privacy-policy.html` (last changed 22 Oct) so it covers the PLUS upgrade, then host it at a public address (GitHub Pages, Netlify, Vercel...). Write the URL down.
+- [ ] Host `privacy-policy.html` (already updated for PLUS on 28 Oct) at a public address (GitHub Pages, Netlify, Vercel...). Write the URL down.
 - [ ] Back up `signing/` somewhere safe, off this PC.
 - [ ] Make the store pictures:
   - [ ] 512 x 512 icon (`ICON_BRIEF.md`)

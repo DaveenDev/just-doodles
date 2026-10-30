@@ -61,7 +61,7 @@ Ready to paste. Google Play doesn't allow price or promo words like "Free" or "N
   - **Shapes**: circle, square, triangle, rectangle, oval, star, heart, diamond, pentagon, hexagon, octagon, cross, crescent, arrow, half circle, trapezoid, parallelogram, teardrop, ring, lightning, arch. Each one smiles and comes with three small copies underneath to match.
 
   Pick a group, then a picture. **Tap** a shape to fill it with color, or **drag** to color by hand. The outlines always stay on top, and tapping a part says its name ("Ear!", "Wheel!").
-- **Play**: ten games, each on its own card. None of them can be lost: a wrong move gets a gentle wiggle or the piece floats back, never a buzzer.
+- **Play**: 22 games, each on its own card. None of them can be lost: a wrong move gets a gentle wiggle or the piece floats back, never a buzzer. On the Google Play build the first seven (Peekaboo to Bubble pop) are free and the other 15 come with PLUS; the sideloaded build has them all.
   - **Peekaboo**: a picture hides under a cloud. Rub the cloud away; once most of it is gone, the picture bounces and is named ("Peekaboo! Cow!"). Tap for the next one.
   - **Where is it?**: two pictures (three after a few rounds) and the voice asks "Where's the cow?". The right one gets a cheer; any other one says what it is ("That's the pig!").
   - **Xylophone**: eight rainbow bars on the five-note scale. Slide across to play them all; the music button plays *Mary Had a Little Lamb* and lights the bars.
@@ -72,18 +72,31 @@ Ready to paste. Google Play doesn't allow price or promo words like "Free" or "N
   - **Memory**: cards lie face down (2 pairs, then 3, then 4). Turn two over; a match stays up with a sparkle, anything else turns back after a moment.
   - **Shapes** (shape sorter): drag a circle, square, triangle, star or heart into its hole on the board. Picking one up says its name; anywhere else, it floats back.
   - **Jigsaw**: a colored picture in 2, then 3, then 4 big straight pieces. Drag each piece to its place on the faint copy; once it is done, the picture bounces and is named.
+  - **Balloons**: balloons drift up on wobbly strings. A tap pops one with confetti, plays its color's note and says the color ("Red!"). Every tenth pop, a cheer.
+  - **Drums**: four colored drums and a golden cymbal, with a little cat drummer on top. Each pad has its own soft sound and squashes with a ripple; now and then one says its sound ("Boom!").
+  - **Funny faces**: tap the eyes, nose, mouth, hair or ears of a big round face to change them ("Big eyes!", "Smile!"). The cheeks blush, the face giggles, and tapping around it changes the background.
+  - **Fishing**: fish swim across a sunny sea, and now and then a sea creature drifts by in a bubble. A tap makes it leap out with a splash; a creature says its name, a plain fish says "Splash!".
+  - **Stars**: smiling stars drift down a night sky. A tap catches one and it swoops into a jar, each with a note a step higher. A full jar shines, cheers and starts again.
+  - **Counting**: one to five of the same picture. Each tap lights one up and says its number; after the last one, the total ("Three apples!") and a cheer.
+  - **Big and small**: the same picture twice, one big and one small, and the voice asks "Where is the big cow?" (or the small one). The other one just says what it is.
+  - **Shadows**: a dark silhouette and three colored pictures. The right one flies up onto the shadow and is named; another one wobbles and says "Try again!", and after two tries the right one bounces as a hint.
+  - **Choo choo**: tap the engine for "Choo choo!" and a puff of smoke, and it hooks on a car with an animal or a fruit in its window. Tapping a car says what's inside; after six cars the train rolls away and a new one comes.
+  - **Rub and see**: a picture hidden under gray-blue scribbles. Rub them away; once about two thirds is clear, the rest melts away and the picture is named.
+  - **Flowers**: a tap plants a seed that sprouts and blooms into a flower near the finger, with a note and sometimes "Pretty!" or its color. A bee and a butterfly visit; about a dozen fit, then the oldest shrinks away.
+  - **Blocks**: any tap drops the next block onto a tower with a note a step higher. After eight, the tower sways, cheers and tumbles gently, then it starts again.
 
   The picture games use the Animals, Sea, Things that go, Food and Farm pages. A page the child has colored shows up as they colored it; the others are colored in for them. The groups are listed in `Game.PICTURE_GROUPS` in `Games.kt`.
-- **Learn**: ten topics, each on its own card. One big card at a time is named out loud; tap it to hear it again, and use the orange arrows (or a swipe) for the next one. After five cards come three quick rounds of "Where's red?" about the cards just seen (two to choose from, three once that's easy). The right one sparkles and gets a cheer; any other one just says what it is.
+- **Learn**: 22 topics, each on its own card. On the Google Play build the first seven (Colors to Food) are free and the other 15 come with PLUS. One big card at a time is named out loud; tap it to hear it again, and use the orange arrows (or a swipe) for the next one. After five cards come three quick rounds of "Where's red?" about the cards just seen (two to choose from, three once that's easy). The right one sparkles and gets a cheer; any other one just says what it is.
   - **Colors**: the 12 crayon colors as big blobs of paint, each with its own note.
   - **Shapes**: the 21 smiling pages of the Shapes group.
   - **Counting**: 1 to 10. Suns, ducks, fish and more pop in one by one as they're counted ("One, two, three! Three fish!"), then the number shows. The quiz uses 1 to 5.
   - **Animal sounds**: 17 animals from the coloring pages ("The cow says moo!"; "Who says woof woof?").
   - **ABC**: a big letter with a picture for each one ("B is for bus!"). The quiz shows just the letters.
   - **My body**: a big friendly child. Tap a part and it lights up and is named; after a few taps the voice asks "Where's the nose?". A tap close to the right part counts.
-  - **Food**, **Sea animals**, **Bugs** and **Sky**: every picture of that coloring group, named ("Banana!"), then "Where's the banana?".
+  - **Food**, **Sea animals**, **Bugs**, **Sky**, **Farm**, **Garden** and **Toys**: every picture of that coloring group, named ("Banana!"), then "Where's the banana?".
+  - **Wild animals**, **Pets**, **Birds**, **Cars and trucks**, **Up and away** (things that fly), **Fruits**, **Weather**, **Space** and **Beach**: pictures picked from any coloring group, named the same way.
 
-  The words are in `strings.xml` (`animal_sounds`, `abc_words`, `count_things`, `number_words`). The pictures come from the coloring pages, plus six that are only for Learn in [`app/src/main/assets/learn`](app/src/main/assets/learn) (the body, nest, queen, van, yo-yo and zebra), which don't show up in Color.
+  The words are in `strings.xml` (`animal_sounds`, `abc_words`, `count_things`, `number_words`), and the picked pictures of the last nine topics in `arrays_more_lessons.xml`, by page title. The pictures come from the coloring pages, plus six that are only for Learn in [`app/src/main/assets/learn`](app/src/main/assets/learn) (the body, nest, queen, van, yo-yo and zebra), which don't show up in Color.
 - **Big, chunky buttons** sized for little fingers, no text to read. The orange **back arrow** at the top left goes back one step: from the paper to the sheets or pictures, and from there to the start menu.
 - **Crayon** in 12 bright colors, in 3 sizes (tap the dots button to change size).
 - **Magic crayon**: tap it once to pick it up, then tap again to switch between **rainbow** (changes color as you draw), **glitter** (sparkles around the line, and glittery fills on coloring pages), **glow** (a neon line with a soft halo) and **mirror** (everything is drawn on both halves, like a butterfly).
@@ -223,11 +236,10 @@ All the code is in [`app/src/main/java/com/daveendev/justdoodles`](app/src/main/
 | `Stickers.kt` | Sticker artwork, drawn in code |
 | `Patterns.kt` | The pattern crayon: dots, zigzags, tracks, hearts, paw prints... |
 | `Games.kt` | The list of games behind the Play card, and what a game can ask of the app (`GameHost`) |
-| `PeekabooView.kt`, `FindItView.kt`, `XylophoneView.kt`, `ColorSortView.kt`, `FeedView.kt`, `TraceView.kt`, `BubblePopView.kt`, `MemoryView.kt`, `ShapeSortView.kt`, `JigsawView.kt` | One game each |
+| `PeekabooView.kt`, `FindItView.kt`, `XylophoneView.kt`, `ColorSortView.kt`, `FeedView.kt`, `TraceView.kt`, `BubblePopView.kt`, `MemoryView.kt`, `ShapeSortView.kt`, `JigsawView.kt`, `BalloonsView.kt`, `DrumsView.kt`, `FacesView.kt`, `FishingView.kt`, `StarsView.kt`, `TapCountView.kt`, `BigSmallView.kt`, `ShadowsView.kt`, `TrainView.kt`, `WipeView.kt`, `FlowersView.kt`, `BlocksView.kt` | One game each |
+| `GameIcons.kt`, `LessonIcons.kt` | The card pictures of the 12 newer games and 12 newer Learn topics, drawn in code |
 | `Critters.kt` | The hungry animals and their food, drawn in code |
 | `AutoColor.kt` | Colors in a coloring page for the picture games |
 | `Lessons.kt` | The Learn topics and the cards of each one |
 | `LearnView.kt` | A Learn topic: look at the cards, then "Where's red?" |
 | `BodyView.kt` | My body: tap a part, then "Where's the nose?" |
-#   j u s t - d o o d l e s  
- 

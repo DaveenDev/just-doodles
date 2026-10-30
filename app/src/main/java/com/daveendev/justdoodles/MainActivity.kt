@@ -1,5 +1,6 @@
 package com.daveendev.justdoodles
 
+import android.annotation.SuppressLint
 import android.app.Activity
 import android.app.ActivityManager
 import android.content.ActivityNotFoundException
@@ -1413,8 +1414,11 @@ class MainActivity : Activity() {
         }
     }
 
+    // Lint wants AndroidX here, but the app uses no libraries: Android 13 and newer never get this
+    // far (the manifest opts into the callback above), so this is only for older phones.
     @Deprecated("Only used before Android 13; newer versions use the OnBackInvokedCallback above.")
     @Suppress("OVERRIDE_DEPRECATION")
+    @SuppressLint("GestureBackNavigation")
     override fun onBackPressed() {
         closeTopOverlay()
     }

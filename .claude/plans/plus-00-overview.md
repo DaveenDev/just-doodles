@@ -1,6 +1,6 @@
 # Just Doodles PLUS: overview
 
-Status: plan, nothing built yet. Written 2026-10-22. Read this first. The other `plus-0N-*.md` files in this folder are the work, numbered in build order.
+Status: plans 01 to 06 are built (2026-10-28); plan 07, Play Console and the release, is what's left. Written 2026-10-22. Read this first. The other `plus-0N-*.md` files in this folder are the work, numbered in build order.
 
 ## Goal
 

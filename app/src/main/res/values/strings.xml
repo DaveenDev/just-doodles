@@ -343,11 +343,11 @@
     <string name="plus_buy">Get PLUS · %1$s</string>
     <string name="plus_loading">Loading price…</string>
     <string name="plus_restore">Restore purchase</string>
-    <string name="plus_note">Paid through Google Play. Future updates are included.</string>
+    <string name="plus_note">Paid through Google Play. Future updates are included. PLUS comes back by itself on any phone signed in to the same Google account.</string>
     <string name="plus_on">PLUS is on. Thank you!</string>
     <string name="plus_restored">PLUS is back on!</string>
     <string name="plus_pending">Waiting for payment. PLUS turns on as soon as it goes through.</string>
-    <string name="plus_not_found">No PLUS purchase found for the Google account signed in to the Play Store.</string>
+    <string name="plus_not_found">No PLUS purchase found for the Google account signed in to the Play Store. If you bought it with a different account, switch to that one in the Play Store, then tap Restore again.</string>
     <string name="plus_no_connection">Couldn\'t reach Google Play. Check the phone\'s internet and try again.</string>
     <string name="plus_not_available">Google Play purchases aren\'t available on this phone or account.</string>
     <string name="plus_failed">Google Play couldn\'t finish that. Please try again later.</string>
